@@ -4,5 +4,5 @@ After people die on earth, their spirits typically get sent to Nobaros Cafe, whi
 
 [Artist website](https://milkysan92.carrd.co)
 
-## Jackie was here
+## Jackie was here no u
 :) 
