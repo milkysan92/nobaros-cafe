@@ -16,8 +16,8 @@ A [Discord server](https://discord.gg/DMZjjJ9PHH) has been created for developme
 Please refer to the [Nobaros Almanac](https://docs.google.com/document/d/17t3-TSdAj4UgwCFj4FQ1D7YIE8SxQa3FcSxBkNIUY0M/edit?usp=sharing) for more details on the world of Nobaros. This doc aims to explain the way things work in Nobaros, cover game-specific terms & help conceptualize ideas for background art.
 
 ## **Story Writing**
-The story is being handled in the
-[Nobaros doc](https://docs.google.com/document/d/1LNDB94zzsSvtDuwiQyZawUuIH6bBriXH-rDRsJvFDlk/edit?usp=sharing). This is different from the scriptwriting process, where all the dialogue lines and choices will be written. The scriptwriting will come ***after*** the story events have been finalized.
+The story is being handled in
+[Nobaros Cafe Story](https://docs.google.com/document/d/1LNDB94zzsSvtDuwiQyZawUuIH6bBriXH-rDRsJvFDlk/edit?usp=sharing). This is different from the scriptwriting process, where all the dialogue lines and choices will be written. The scriptwriting will come ***after*** the story events have been finalized.
 
 ## **Character Profiles**
 To learn more about the main characters, please refer to the [Character Bible](https://docs.google.com/document/d/15Xra6ITBQN--jiYFyHQTVmmb9CMRA-vxKx1VYOvFpm0/edit?usp=sharing). For now, the profiles act as a guide for storywriting and a place to dump ideas which will be handy when storywriting, voice acting & creating character designs. In the future, this will be reworked to reflect actual character profiles for the game.
