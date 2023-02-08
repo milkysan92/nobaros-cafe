@@ -24,9 +24,9 @@ label start:
 
     # These display lines of dialogue.
 
-    e "Welcome to Nobaros!"
+    e "line_1"
 
-    e "Bye!"
+    e "line_2"
 
     # This ends the game.
 

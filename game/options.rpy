@@ -207,3 +207,6 @@ init python:
 ## by a slash.
 
 # define build.itch_project = "renpytom/test-project"
+
+## Default language
+define config.default_language = "english"
