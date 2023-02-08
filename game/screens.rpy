@@ -733,6 +733,24 @@ screen preferences():
                     textbutton _("Unseen Text") action Preference("skip", "toggle")
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
+                 
+                vbox:
+                    style_prefix "radio"
+                    label _("Language")
+
+                    textbutton "English" text_font "DejaVuSans.ttf" action Language("english")
+                    textbutton "Français" text_font "DejaVuSans.ttf" action Language("french")
+                    textbutton "Español" text_font "DejaVuSans.ttf" action Language("spanish")
+
+                vbox:
+                    style_prefix "radio"
+                    label _(" ")
+
+                    textbutton "简体中文" text_font "gui/font/SourceHanSansLite.ttf" action Language("schinese")
+                    textbutton "繁體中文" text_font "gui/font/SourceHanSansLite.ttf" action Language("tchinese")
+                    textbutton "日本語" text_font "gui/font/SourceHanSansLite.ttf" action Language("japanese")
+                    textbutton "한국어" text_font "gui/font/SourceHanSansLite.ttf" action Language("korean")
+
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
