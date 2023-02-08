@@ -36,15 +36,15 @@ translate french strings:
 
     # game/screens.rpy:300
     old "Start"
-    new "Start"
+    new "Commencer"
 
     # game/screens.rpy:308
     old "Load"
-    new "Load"
+    new "Charger"
 
     # game/screens.rpy:310
     old "Preferences"
-    new "Preferences"
+    new "Préférences"
 
     # game/screens.rpy:314
     old "End Replay"
@@ -56,19 +56,19 @@ translate french strings:
 
     # game/screens.rpy:320
     old "About"
-    new "About"
+    new "À propos"
 
     # game/screens.rpy:325
     old "Help"
-    new "Help"
+    new "Aide"
 
     # game/screens.rpy:331
     old "Quit"
-    new "Quit"
+    new "Quitter"
 
     # game/screens.rpy:472
     old "Return"
-    new "Return"
+    new "Retour"
 
     # game/screens.rpy:556
     old "Version [config.version!t]\n"
