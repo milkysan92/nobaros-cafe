@@ -1,8 +1,4 @@
 label ch2:
-    $ k_name = _("Kai")
-    $ an_name = _("Annelise")
-    $ ak_name = _("Akira")
-    
     # (A bell chimes at the front of the store, signalling that another customer has left the store)
 
     e "Thank you for coming!"
@@ -35,8 +31,8 @@ label ch2:
     i "It might be a good chance for you to introduce yourself to them and get to know some people."
     e "(Hmm, that sounds like a good idea. It would be nice to get to know who I'll be living with.)"
     e "What are their names?"
-    i "There's [k_name!t], [an_name!t] and [ak_name!t]. They'll probably recognize you, since they all had a good look at you the first day you arrived here."
-    e "[k_name!t], [an_name!t] and [ak_name!t]... alright I'll remember that."
+    i "There's [kai_name!t], [annelise_name!t] and [akira_name!t]. They'll probably recognize you, since they all had a good look at you the first day you arrived here."
+    e "[kai_name!t], [annelise_name!t] and [akira_name!t]... alright I'll remember that."
     e "Well then, I'll be back soon!"
     i "Sounds good. I'll be right here if you need anything."
 

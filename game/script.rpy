@@ -1,8 +1,14 @@
-﻿define e = Character("Emi", color="#ffbcca")
-define i = Character("Ingram", color="#9fe7ff")
-define k = Character(_("Kai"))
-define an = Character(_("Annelise"))
-define ak = Character(_("Akira"))
+﻿define emi_name = _("Emi")
+define ingram_name = _("Ingram")
+define kai_name = _("Kai")
+define annelise_name = _("Annelise")
+define akira_name = _("Akira")
+
+define e = Character(emi_name, color="#ffbcca")
+define i = Character(ingram_name, color="#9fe7ff")
+define k = Character(kai_name)
+define an = Character(annelise_name)
+define ak = Character(akira_name)
 
 label start:
     scene bg room
