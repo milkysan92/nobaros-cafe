@@ -1,33 +1,17 @@
-﻿# The script of the game goes in this file.
+﻿define e = Character(_("Emi"))
+define i = Character(_("Ingram"))
+define k = Character(_("Kai"))
+define an = Character(_("Annelise"))
+define ak = Character(_("Akira"))
 
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
-define e = Character("Eileen")
-
-
-# The game starts here.
 
 label start:
-
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
-
     scene bg room
-
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
-
     show eileen happy
-
-    # These display lines of dialogue.
 
     e "line_1"
 
     e "line_2"
 
-    # This ends the game.
-
+    call ch2
     return
