@@ -14,6 +14,10 @@ label ch2:
     i "I'll be doing my barista duties and manning the cash register."
     e "(Hmm... alright then. I'll go...)"
     
+    $ k_name = _("Kai")
+    $ an_name = _("Annelise")
+    $ ak_name = _("Akira")
+
     i "Okay then. You can find the equipment at the back storage."
     e "Yes boss!"
     i "Oh by the way, you might meet some of the others who are living at the dorms."
@@ -21,8 +25,8 @@ label ch2:
     i "It might be a good chance for you to introduce yourself to them and get to know some people."
     e "You're right. That sounds like a good idea."
     e "What are their names?"
-    i "There's [_(k.name)], [_(an.name)] and [_(ak.name)]. They'll probably recognize you, since they all had a good look at you the first day you arrived here."
-    e "[_(k.name)], [_(an.name)] and [_(ak.name)]... alright I'll remember that."
+    i "There's [k_name!t], [an_name!t] and [ak_name!t]. They'll probably recognize you, since they all had a good look at you the first day you arrived here."
+    e "[k_name!t], [an_name!t] and [ak_name!t]... alright I'll remember that."
     e "I'll be back soon!"
     i "Sounds good. I'll be right here if you need anything."
 
