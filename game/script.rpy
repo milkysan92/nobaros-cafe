@@ -1,9 +1,8 @@
-﻿define e = Character(_("Emi"))
-define i = Character(_("Ingram"))
+﻿define e = Character("Emi", color="#ffbcca")
+define i = Character("Ingram", color="#9fe7ff")
 define k = Character(_("Kai"))
 define an = Character(_("Annelise"))
 define ak = Character(_("Akira"))
-
 
 label start:
     scene bg room
