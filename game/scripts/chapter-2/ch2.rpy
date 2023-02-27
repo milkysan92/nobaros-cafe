@@ -2,6 +2,8 @@
 default swept_foyer = False
 default dusted_books = False
 default collected_dishes = False
+default chores_left = 3
+default TOTAL_CHORES = 3
 
 label ch2:
     scene cafe with fade
@@ -52,9 +54,15 @@ label ch2:
 # prompts for chores, will only return when all done
 label chores:
     while not (swept_foyer and dusted_books and collected_dishes):
+        if chores_left == 1:
+            $ text = "Almost done..."
+        elif chores_left == TOTAL_CHORES:
+            $ text = "Hmm... What to do..."
+        else:
+            $ text = "Ok... What next..."
+        
         menu:
-            e "Hmm... What to do..."
-
+            e "[text]"
             "Sweep the foyer" if not swept_foyer:
                 call sweep_foyer
 
@@ -68,14 +76,17 @@ label chores:
 label sweep_foyer:
     "(Sweeping the foyer)"
     $ swept_foyer = True
+    $ chores_left -= 1
     return
 
 label dust_books:
     "(Dusting the library books)"
     $ dusted_books = True
+    $ chores_left -= 1
     return
 
 label collect_dishes:
     "(Collecting empty dishes)"
     $ collected_dishes = True
+    $ chores_left -= 1
     return
