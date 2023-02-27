@@ -1,3 +1,8 @@
+# chore flags
+default swept_foyer = False
+default dusted_books = False
+default collected_dishes = False
+
 label ch2:
     # (A bell chimes at the front of the store, signalling that another customer has left the store)
 
@@ -36,29 +41,38 @@ label ch2:
     e "Well then, I'll be back soon!"
     i "Sounds good. I'll be right here if you need anything."
 
-    menu:
-        e "Hmm... What to do..."
-
-        "Sweep the foyer":
-            call sweep_foyer
-
-        "Dust the library books":
-            call dust_books
-
-        "Collect empty dishes":
-            call collect_dishes
+    call chores
 
     e "All done"
     return
 
+# prompts for chores, will only return when all done
+label chores:
+    while not (swept_foyer and dusted_books and collected_dishes):
+        menu:
+            e "Hmm... What to do..."
+
+            "Sweep the foyer" if not swept_foyer:
+                call sweep_foyer
+
+            "Dust the library books" if not dusted_books:
+                call dust_books
+
+            "Collect empty dishes" if not collected_dishes:
+                call collect_dishes
+    return
+
 label sweep_foyer:
     "(Sweeping the foyer)"
+    $ swept_foyer = True
     return
 
 label dust_books:
     "(Dusting the library books)"
+    $ dusted_books = True
     return
 
 label collect_dishes:
     "(Collecting empty dishes)"
+    $ collected_dishes = True
     return
