@@ -11,12 +11,12 @@ define an = Character(annelise_name)
 define ak = Character(akira_name)
 
 label start:
-    scene bg room
-    show eileen happy
+    # scene bg room
+    # show eileen happy
 
-    e "line_1"
+    # e "line_1"
 
-    e "line_2"
+    # e "line_2"
 
     call ch2
     return

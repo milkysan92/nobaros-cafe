@@ -4,10 +4,13 @@ default dusted_books = False
 default collected_dishes = False
 
 label ch2:
+    scene cafe with fade
     # (A bell chimes at the front of the store, signalling that another customer has left the store)
-
+    show emi with dissolve
     e "Thank you for coming!"
     e "(Phew, that's finally the last one! I can finally catch my breath...)"
+    show emi at right with move
+    show ingram at left with dissolve
     i "Good job with the lunch rush. Here, drink up and rehydrate yourself."
     narrator "Ingram showed up from behind the cafe counter, holding two glasses filled with what seems to be iced coffee."
     e "That was chaotic! I never knew a cafe could get that busy."
@@ -40,7 +43,7 @@ label ch2:
     e "[kai_name!t], [annelise_name!t] and [akira_name!t]... alright I'll remember that."
     e "Well then, I'll be back soon!"
     i "Sounds good. I'll be right here if you need anything."
-
+    hide ingram with dissolve
     call chores
 
     e "All done"
