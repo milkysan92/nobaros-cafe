@@ -6,9 +6,9 @@ define akira_name = _("Akira")
 
 define e = Character(emi_name, color="#ffbcca")
 define i = Character(ingram_name, color="#9fe7ff")
-define k = Character(kai_name)
-define an = Character(annelise_name)
-define ak = Character(akira_name)
+define k = Character(kai_name, colour="#fad5af")
+define ak = Character(akira_name, colour="#c7f5c5")
+define an = Character(annelise_name, colour="#fff0b1")
 
 label start:
     # scene bg room
