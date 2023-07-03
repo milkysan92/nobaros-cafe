@@ -18,5 +18,7 @@ label start:
 
     # e "line_2"
 
-    call ch2
+    call intro
+    call phantasia
+    # call ch2
     return

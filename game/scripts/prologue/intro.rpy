@@ -1,36 +1,31 @@
+# A monologue about the significance of memories
+# Later, some sort of deal involving erasing memories takes place
+
 image swevenMirror = "sweven-mirror.jpg"
 image blank = "#000000"
-image light = "#FFFFFF"
-define unknown_e = Character("?????", color="#ffbcca")
-define unknown_i = Character("?????", color="#9fe7ff")
+define unknown = Character("", what_slow_cps=30)
 
 label intro:
     scene swevenMirror with fade
-    narrator "Memories."
-    narrator "They're joyful little things, aren't they?"
-    narrator "String them together, and they'll spin all sorts of interesting stories."
-    narrator "Stories that come from those who have journeyed this same path before you."
-    narrator "Imagine those you love and cherish.{w=0.5} Why are they so special to you?"
-    narrator "It's because of the memories you share with them, {w=0.3} no?"
-    narrator "Wouldn't you even say that your memories shape who you are?"
+    unknown "Memories."
+    unknown "They're joyful little things, aren't they?"
+    unknown "String them together, and they'll spin all sorts of interesting stories."
+    unknown "Stories that come from those who have journeyed this same path before you."
+    unknown "Imagine those you love and cherish.{w=0.5} Why are they so special to you?"
+    unknown "It's because of the memories you share with them, {w=0.3} no?"
+    unknown "Wouldn't you even say that your memories shape who you are?"
     show blank with dissolve
-    narrator ". . ."
-    narrator "You are a gentle soul. {w=0.5}I can see you've been bruised by the trauma you've faced in the past."
-    narrator "Your memories bring you only pain and suffering."
-    narrator "You can't bring yourself to endure it any more."
-    narrator "And that's why you've come to me for help,{w=0.5} yes? {w=0.5}"
-    narrator ". . .{w=0.5} I see. {w=0.5} Very well then."
-    narrator "If this is your final decision, {w=0.3}then I will lend you my power."
-    narrator "I hope that one day, {w=0.3}you will be able to face yourself and move on from these memories."
-    narrator "Now then, {w=0.3}close your eyes and breathe."
-    narrator "Sweet dreams.{w=0.5} Until we meet again."
-
-    # (Longer transition between monologue and Emi's pov intro)
-    scene light with fade
-    narrator ""
-    unknown_e "Warm..."
-    unknown_i "..."
-    unknown_i "Someone..."
-    unknown_e "Who...?"
-
+    unknown ". . ."
+    unknown "I can see you've faced a lot of trauma in the past."
+    unknown "Such a gentle, kind soul. . . and yet, you're all bruised and wounded."
+    unknown "Your memories carry pain and suffering. Much more than what your heart can handle."
+    unknown "And that's why you've come to me for help,{w=0.5} yes? {w=0.5}"
+    unknown "If I help you, then you'll forget about everything."
+    unknown "Not just the bad times, but also the smiles and laughter you shared with others."
+    unknown "Even then, do you still wish to continue?"
+    unknown "{cps=12}. . .{/cps} I see. {w=0.5} Very well then."
+    unknown "If this is your final decision, {w=0.1}then I will lend you my power."
+    unknown "I hope that one day, {w=0.1}you will be able to face yourself and move on."
+    unknown "Now then, {w=0.1}close your eyes and breathe."
+    unknown "Sweet dreams.{w=0.5} Until we meet again."
     return
