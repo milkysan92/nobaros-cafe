@@ -1,4 +1,3 @@
-
 Emi: "Thank you for coming!"
 
 Emi: "(Phew, that's the last customer! I can finally catch my breath. . .)"
@@ -9,102 +8,130 @@ Emi: "(Phew, that's the last customer! I can finally catch my breath. . .)"
 
 *Before I knew it, the store had filled up in the blink of an eye. I was scrambling in every direction, taking orders and relaying them to Ingram. Somehow, I managed to survive. Barely.*
 
-*Suddenly, a small poke tapped at my shoulder, prompting me to look back. Ingram came from behind the counter, with two icy drinks in hand and a pleased smile on his face.*
+*I plop myself down at an empty table, stretching my arms up in the air to relieve the tension in my muscles. Suddenly, a small poke taps at my shoulder, prompting me to look back. Ingram had come from behind the counter, with two icy drinks in hand and a pleased smile on his face.*
 
 Ingram: "Good job with the lunch rush. You held up pretty well out there."
 
 Ingram: "Here, I made some iced coffee for us. Think of it as a little treat for working so hard. Drink up and rehydrate yourself."
 
-*Ingram handed one of the drinks to me. I carefully brought the glass to my face, taking modest sips to avoid spilling coffee on myself. However, as soon as I was hit by the sweet taste, I was overcome by an overwhelming urge to devour the whole thing. I grew thirstier by the second, and small sips quickly turned into bigger gulps.*
+*Ingram takes the seat in front of me, passing one of the drinks over to me. Taking the glass in hand, I start taking modest sips to avoid spilling coffee on myself.*
 
- *Enjoying an icy cold treat on a hot day like today felt so satisfying. I hadn't drank much since morning, and the cooling sensation felt gratifying for the work I did earlier. Before I knew it, there were only a few ice cubes remaining at the bottom of my glass. I let out a satisfied sigh. I had finished everything, down to the last drop.*
+Emi: "(Oh? This coffee...)"
+
+*My tastebuds are greeted by a pleasant, sweet taste. Ingram had mixed some vanilla syrup into the coffee. In an instant, my sweet tooth kicks in, tempting me to devour the whole thing.*
+
+*I indulge in the icy goodness and small sips quickly turn into bigger gulps. Next thing I know, there are only a few ice cubes remaining at the bottom of my glass. I let out a satisfied sigh.*
 
 Emi: "Thanks for the drink, I really needed that!"
 
-*I looked at Ingram. The ice cubes in his drink made a distinct clink as he downed the rest of it. He seemed calm and collected, far from what I'd imagine from someone who also went through the same chaos I experienced earlier.*
+*I look at Ingram, who is still finishing his drink. The ice cubes in his drink make a distinct clink as he downs the rest of it. He's awfully calm and collected, far from what I'd imagine from someone who also went through the same chaos I experienced earlier.*
 
-Emi: "You know Ingram, you're really impressive for dealing with the barista duties. You handled yourself so well behind the counter. I never even knew a cafe could get that busy!"
+Emi: "You know Ingram, you're really impressive. You handled yourself so well behind the counter. I never even knew a cafe could get that busy!"
 
-Ingram: "Haha yeah, it's around this time that things start to really pick up the pace. It gets pretty intense sometimes. But one way or another, I've gotten used to it. It's nothing much really."
+*Ingram chuckles as he sets his glass down with a solid thud.*
 
-Ingram: "In time, you'll be able to breeze right through the rush hours too."
+Ingram: "It's around this time that things start to really pick up the pace. It gets pretty intense sometimes. But one way or another, I've gotten used to it. It's nothing much really."
 
-*I gulped. The idea of being able to deal with so many orders at once seemed like a faraway dream.*
+Ingram: "But don't worry. In time, you'll be able to breeze right through the rush hours too."
 
-Emi: "(Maybe in a million years sure....)"
+*I gulp as Ingram smiles at me. Maybe he just means well, but the smile feels kind of. . . intimidating. The idea of being able to deal with so many orders at once still seems like a faraway dream for me.*
 
-Ingram: "Well then! It looks like we've passed through the worst of it. Now we can focus on other stuff to do."
+Emi: "(Maybe in a million years sure. . .)"
 
-*I nearly choked.*
+*Ingram gets up from the table, collecting the two glasses as he heads back to the counter. I quickly follow suite, rejuvenated from the little coffee break.*
 
-Emi: "Huh?! S-say that again? There's still more?"
+Ingram: "Well then, now that we've gotten a chance to catch our breath, we can focus on other things."
 
-Ingram: "Of course. We're only halfway through the day."
+*I nearly choke at Ingram's words.*
+
+Emi: "Huh?! Say that again? There's still more?"
+
+Ingram: "Hm? Of course, we're only halfway through the day. There's still lots to do."
+
+*I feel my heart sink. The happy, nonchalant mood from earlier disappears as I'm reminded that the day isn't over yet. I sneak a peek over at Ingram, who's already starting to wipe down the counter tops and fill the coffee grinders.*
 
 Emi: "(. . . is it just me? Why does he look so happy about this?)"
 
-*Ingram looked straight at me, his smug smile not budging a single bit. He was dead serious. Maybe even a bit sadistic.*
-
-Emi: "...*Sigh*."
+Emi: ". . . *Sigh*."
 
 Emi: "Alright then. What do we have to do?"
 
-Ingram: "Well for starters, we could do a little housekeeping." 
+*Ingram looks straight at me, his smug smile not budging a single bit. He's dead serious. Maybe even a bit sadistic.*
+
+Ingram: "Well for starters, there's a little housekeeping that needs to be done." 
 
 Ingram: "Let's see. . ."
 
-Ingram: "Well, the foyer needs some sweeping... and there's still empty dishes that need to be collected from the tables. Oh, and the mini library corner could use some dusting. "
+Ingram: "Well, the foyer needs some sweeping. . . and there's empty dishes that need to be collected from the tables. Oh, and the mini library corner could use some dusting. "
 
 Emi: ". . ."
 
 Emi: "We still have to do all that. . .?"
 
-Ingram: "Mmhm."
+Ingram: "Mmhm. You'll never run out of things to do around here."
 
 Ingram: "I know it's a lot, but we have all day to get it done. I'll let you choose what you want to start with."
 
-Emi: "Urgh. . . I guess it has to be done one way or another."
+Emi: "Urgh. . . well, I guess it has to be done one way or another."
 
-Emi: "Hold on a minute. . ."
+Emi: "What about you then? What are you gonna be doing?"
 
-Emi: "What about you? What are you gonna be doing?"
-
-Ingram: "Well, someone has to be there to handle the customers right? {w=0.3}I'll be doing my barista duties and manning the cash register."
+Ingram: "Well, someone has to be there to handle the customers right? I'll be doing my barista duties and manning the cash register."
 
 Ingram: "You're still learning the ropes, so I don't think it's a good idea to leave you to those tasks just yet."
 
 Ingram: "At least, not until you're more comfortable with where everything is."
 
-Emi: "(Hmm. . . that's fair, I guess that makes sense.)"
+Emi: "Oh. . . I guess that makes sense."
 
-Ingram: "Alright, let's get down to business then. {w=0.5}You can find anything you need at the back room."
+Ingram: "Alright, let's get down to business then. I'm gonna go and refill some of the pastries in the display case. You can find anything you need at the back room."
 
-Emi: "Yes boss!"
+Emi: "Ah, yes boss!"
 
-*I pulled up my sleeves in an attempt to pump myself up, as a chuckle escaped Ingram's mouth.*
+*As Ingram heads over to the other side of the counter, I turn around to look for supplies in the back.*
 
-*He was clearly amused.*
+Emi: "(Okay, let's do this! I should just focus on one thing at a time. This will all be over in the blink of an eye.)"
 
-Emi: "(. . . Sometimes I wonder if he's secretly enjoying this.)"
+*I smack my face twice in an attempt to pump myself up.
 
-Ingram: "Oh by the way, you might meet some of the others who also live around Yuugen house."
+Ingram: ". . .pfft."
+
+*A snicker creeps up from behind. I spin around, finding myself face to face with Ingram once again. Ingram covers his mouth in a futile attempt to stifle his laugh. I could see his entire body shaking to keep it in as I feel my cheeks burning with embarrassment.*
+
+Ingram: "S-sorry, I didn't mean to interrupt your. . ."
+
+Emi: "I thought you went to go fill up the display case!"
+
+Ingram: "I was going to, but I forgot to tell you something. Though I didn't expect you to slap yourself as soon as I turned my back. . ."
+
+*Ingram nearly slips at the end of his sentence, but manages to keep himself together.
+
+Emi: "(. . . isn't he enjoying this a little too much?)"
+
+*I feel the burning sensation from my cheeks spread up to my ears. I just wanna jump in a hole and bury myself six feet under. I better change the subject before he says anything else.*
+
+Emi: "A-anyway! What was it that you wanted to tell me?"
+
+Ingram: "Right, I wanted to let you know that you might meet some of the others who also live around Yuugen house."
 
 Ingram: "They tend to lounge around the cafe at this time."
 
-Ingram: "It might be a good chance for you to introduce yourself to them and get to know some people."
+Ingram: "It's a good chance for you to introduce yourself and get to know them a bit."
 
-Emi: "(Hmm, that's true. {w=0.3}It would be nice to get to know who I'll be living with.)"
+Emi: "That's fair. What are their names?"
 
-Emi: "What are their names?"
-
-Ingram: "There's Kai, Annelise and Akira. I've told them about you before, so they should be aware of who you are."
+Ingram: "There's Kai, Annelise and Akira. I've mentioned you before, so they should be aware of who you are."
 
 Ingram: "If you haven't met any of them already, today might be your chance. I'm sure they'll be happy to meet you."
 
-Emi: "Kai, Annelise and Akira... alright, I'll remember that."
+Emi: "Kai, Annelise and Akira. . . alright, I'll remember that."
 
 Emi: "Well then, I'll be back soon!"
 
-Ingram: "Sounds good. I'll be right here if you need anything."
+Ingram: "Sounds good. I'll be right here if you need anything. Just don't go beating yourself up unprompted again."
 
-Emi: "Alright! Let's get started."
+Emi: "Ahhh!! Stop mentioning that!"
+
+*Ingram smiles as I try and shoo him away. Once he's out of sight, I then make my way over to the back storage room, where a bunch of cleaning supplies lie. There was a broom in the corner, a duster hanging on the wall and some neatly folded rags on a shelf.*
+
+Emi: "(Hmm. . . what to do first?)"
