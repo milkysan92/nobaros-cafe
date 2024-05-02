@@ -33,5 +33,6 @@ label meeting_annelise:
     emi "Great! I'll handle the cleaning, and you can enjoy your reading. Nice to officially meet you, Annelise!"
 
     # Annelise relaxes, feeling more comfortable with Emi, and the two continue their tasks in the cozy atmosphere of the cafe.
-
+    $ dusted_books = True
+    $ chores_left -= 1
     return

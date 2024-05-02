@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f08e8036c7b6affd",
+        "id": "499c1d6cd38924ef",
         "type": "tabs",
         "children": [
           {
-            "id": "d5300761eccebe95",
+            "id": "5003146862fd8941",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Meeting Kai.md",
+                "file": "Chapter 2/Meeting Akira.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Meeting Kai.md",
+                "file": "Chapter 2/Meeting Akira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Meeting Kai.md",
+                "file": "Chapter 2/Meeting Akira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Meeting Kai.md"
+                "file": "Chapter 2/Meeting Akira.md"
               }
             }
           }
@@ -147,11 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5300761eccebe95",
+  "active": "5003146862fd8941",
   "lastOpenFiles": [
-    "Chapter 2/Intro to CH2.md",
-    "Chapter 2/Meeting Kai.md",
+    "Chapter 2/Cafe Intro.md",
     "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Meeting Akira.md",
+    "Chapter 2/Meeting Annelise.md",
+    "Chapter 2/Meeting Kai.md",
     "Report to Ingram.md",
     "Chapter 2/Intro CH2.md",
     "Chapter 2",

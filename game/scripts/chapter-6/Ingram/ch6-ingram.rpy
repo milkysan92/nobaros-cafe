@@ -1,1 +1,4 @@
-# Ingram route - chapter 6 master script; the main situation logic will go here and no dialogue should be directly written here
+# Ingram route - chapter 6 master script; the main situation logic belongs here; there should be no dialogue lines
+label ch6_ingram:
+    "Insert ingram ch6 script here"
+    return

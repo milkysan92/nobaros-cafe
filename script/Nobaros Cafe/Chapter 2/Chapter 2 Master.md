@@ -3,7 +3,7 @@
 graph TD
 
 %% Define aliases
-CH2[Intro to CH2]
+CH2[Cafe Intro]
 meet-kai[Meeting Kai]
 meet-annelise[Meeting Annelise]
 meet-akira[Meeting Akira]

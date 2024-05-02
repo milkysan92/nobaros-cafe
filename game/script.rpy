@@ -12,15 +12,16 @@ define akira = Character(akira_name, color="#c7f5c5")
 define annelise = Character(annelise_name, color="#fff0b1")
 
 label start:
-    # call intro_script
-    # call ch1_script
-    # call ch2_script
-    # call ch3_script
-    # call ch4_script
+    # call prologue_master
+    # call ch1_master
+    call ch2_master
+    # call ch3_master
+    # call ch4_master
 
     # From here on out, the player is locked in character specific routes; the logic for route locking will be contained in chapter 4
-    # Might want to double check if it's possible to change/update the value of a variable if something changes within one of the scripts?
     # Set global variable ("route"?) to determine which route chapters to play
+    # ch4 should contain some logic to evaluate relationship points and determine the value of "route" 
+    # Might want to double check if it's possible to change/update the value of a variable if something changes within one of the scripts?
 
     # if route == "Ingram":
         # call ch5_ingram
@@ -64,5 +65,4 @@ label start:
 
     # call intro
     # call phantasia
-    # call intro_cafe
     return
