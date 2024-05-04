@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Meeting Akira.md",
+                "file": "Chapter 2/Meeting Kai.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Meeting Akira.md",
+                "file": "Chapter 2/Meeting Kai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Meeting Akira.md",
+                "file": "Chapter 2/Meeting Kai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Meeting Akira.md"
+                "file": "Chapter 2/Meeting Kai.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "5003146862fd8941",
   "lastOpenFiles": [
-    "Chapter 2/Cafe Intro.md",
     "Chapter 2/Chapter 2 Master.md",
     "Chapter 2/Meeting Akira.md",
-    "Chapter 2/Meeting Annelise.md",
+    "Chapter 2/Cafe Intro.md",
     "Chapter 2/Meeting Kai.md",
+    "Chapter 2/Meeting Annelise.md",
     "Report to Ingram.md",
     "Chapter 2/Intro CH2.md",
     "Chapter 2",
