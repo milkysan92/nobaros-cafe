@@ -1,7 +1,7 @@
 # TODO: Taken from chatGPT; needs polishing
 # Late at night, Emi is heading upstairs to her room, while Akira is going downstairs for a glass of water. They cross paths in the hallway.
 
-label meeting_akira:
+label staircase_encounter:
     emi "(noticing Akira) Oh, hi! I'm just heading up. Are you also on a midnight snack mission?"
 
     akira "(surprised, but composed) Ah, no. Just getting some water. I find it helps me think. You?"

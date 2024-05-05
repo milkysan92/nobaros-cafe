@@ -1,7 +1,7 @@
 # TODO: Taken from chatGPT; needs polishing
 # (The group has decided to cook a dinner to welcome Emi, the newest member of Yuugen house.)
 
-label group_dinner:
+label a_meal_together:
 
     ingram "Hey everyone, let's make sure we create a warm and welcoming atmosphere for our new friend. Emi, are you craving anything in particular?"
 
