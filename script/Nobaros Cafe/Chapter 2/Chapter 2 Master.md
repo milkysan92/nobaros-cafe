@@ -8,24 +8,25 @@ meet-kai[Meeting Kai]
 meet-annelise[Meeting Annelise]
 meet-akira[Meeting Akira]
 report-ingram[Report to Ingram]
-ingram-job[Ingram's cafe duties]
-customer2[A new customer]
-mirror2[Entering the mirror]
+ingram-job[About Ingram]
+meeting-others[Meeting others]
+customer2[New customer]
+mirror2[Sweven mirror 2]
 pond[Shimmering pond]
 sakura[Sakura grove]
-celebrate-dinner[Welcome dinner for Emi]
-bathtime[Taking a bath]
-choose-drink[Choosing a drink]
-night-ingram[Milk & honey]
+celebrate-dinner[Welcome dinner]
+bathtime[Bath time]
+choose-drink[Something to drink]
+night-ingram[Milk and honey]
 night-annelise[Lull of lavender]
 night-kai[Midnight snack]
 night-akira[Twilight stroll]
-masterchef[Pastry training with Ingram]
+masterchef[Pastry training]
 sweets-ingram[First aid]
-sweets-kai[Leisure at the swimming hole]
-sweets-akira[Peaches on the rooftop]
+sweets-kai[Swimming hole]
+sweets-akira[Rooftop peaches]
 sweets-annelise[Afternoon tea]
-group-dinner[Table for 5]
+group-dinner[A meal together]
 
 %% Define node formatting for routes
 classDef ingram-route fill:#9fe7ff,stroke:#78bff1,stroke-width:4px
@@ -37,9 +38,9 @@ classDef annelise-route fill:#fff2cc,stroke:#efcd7b,stroke-width:4px
 CH2--Sweep foyer-->meet-kai-->report-ingram
 CH2--Dust library-->meet-annelise-->report-ingram
 CH2--Clean tables-->meet-akira-->report-ingram
-report-ingram--Describe encounters-->customer2
-report-ingram--Ask about Ingram-->ingram-job-->customer2
-customer2-->mirror2--Go to pond-->pond
+report-ingram--Describe encounters-->meeting-others
+report-ingram--Ask about Ingram-->ingram-job-->meeting-others
+meeting-others-->customer2-->mirror2--Go to pond-->pond
 mirror2--Go to sakura--> sakura
 sakura & pond-->celebrate-dinner
 celebrate-dinner-->bathtime
@@ -58,7 +59,7 @@ sweets-ingram & sweets-kai & sweets-akira & sweets-annelise-->group-dinner
 %% Format the routes & link to script files accordingly
 %%---------------------------------------------------------------------------
 %% General storyline
-class CH2,report-ingram,customer2,mirror2,pond,sakura,celebrate-dinner,bathtime,choose-drink,masterchef,group-dinner internal-link
+class CH2,report-ingram,meeting-others,customer2,mirror2,pond,sakura,celebrate-dinner,bathtime,choose-drink,masterchef,group-dinner internal-link
 
 %% Spiritguiding
 class mirror2,pond,sakura internal-link

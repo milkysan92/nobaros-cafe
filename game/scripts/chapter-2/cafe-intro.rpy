@@ -58,7 +58,7 @@ label cafe_intro:
     ingram "You're still learning the ropes, so I think it's best if I handle those tasks for now."
     ingram "At least, until you're more comfortable with everything."
     emi "Oh. . .I guess that makes sense."
-    ingram "Alright, let's get down to business then. {w=0.5} I'm going to go refill some of the pastries in the display case. You can find anything you need at the back room."
+    ingram "Alright, let's get down to business then. {w=0.5} I'm going to go refill some of the pastries in the display case. You can find anything you need in the back."
     emi "Ah, yes boss!"
     hide ingram with dissolve
     show emi at center with move
@@ -73,7 +73,7 @@ label cafe_intro:
     narrator "He covers his mouth in a futile attempt to stifle his laugh, his entire body shaking as he struggles to contain it."
     narrator "I could feel my cheeks burning with embarrassment."
     ingram "Sorry, I didn't mean to interrupt your. . ."
-    emi "I though you went to go fill up the display case!"
+    emi "I thought you went to go fill up the display case!"
     ingram "I was going to, but I forgot to tell you something."
     ingram "Though I didn't expect you to slap yourself as soon as I turned my back. . ."
     narrator "Ingram nearly slips at the end of his sentence, but manages to keep himself together."

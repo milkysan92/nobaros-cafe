@@ -4,10 +4,8 @@ label meeting_annelise:
     
     scene library with fade
     show emi with dissolve
-    narrator "A sea of novels stacked on ebony bookshelves comes into view, bathed in a blanket of soft, inviting sunlight."
-    narrator "The bookshelves line one wall, while big windows adorns the others, offering a glimpse of the outside world."
-    narrator "Several comfy-looking armchairs are scattered around, each accompanied by a quaint table with a potted plant, breathing life into the room."
-    narrator "A serene silence occupies the space, the rich scent of old books mixed with the faint aroma of coffee from the cafe."
+    narrator "A sea of novels encased in ebony bookshelves comes into view. Tall glass windows frame the room, cascading the space in a blanket of soft, inviting sunlight."
+    narrator "Clusters of cozy armchairs beckon from various corners, each accompanied by a quaint table with a potted plant. The room is steeped in a serene hush, as the rich scent of aged paper mingles with the faint aroma of coffee from the cafe."
     narrator "I carefully step onto the hardwood floor. To my surprise, there isn't a single creak as I slowly shifted my weight to enter the room."
     emi "(It's so quiet! I can almost hear the sound of my own breath.)"
     narrator "As I wander around, I delicately run my fingers along the neatly organized rows of books, feeling the slightly rough texture of their spines."

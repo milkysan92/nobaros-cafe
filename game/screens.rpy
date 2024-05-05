@@ -739,8 +739,8 @@ screen preferences():
                     label _("Language")
 
                     textbutton "English" text_font "gui/font/MainluxLight.otf" action Language("english")
-                    textbutton "Français" text_font "MainluxLight.otf" action Language("french")
-                    textbutton "Español" text_font "MainluxLight.otf" action Language("spanish")
+                    textbutton "Français" text_font "gui/font/MainluxLight.otf" action Language("french")
+                    textbutton "Español" text_font "gui/font/MainluxLight.otf" action Language("spanish")
 
                 vbox:
                     style_prefix "radio"

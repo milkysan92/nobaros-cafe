@@ -1,3 +1,4 @@
+# Cafe Intro
 Emi: "Thank you for coming!"
 
 Emi: "(Phew, that's the last customer! I can finally catch my breath. . .)"
@@ -94,7 +95,7 @@ Ingram: "At least, until you're more comfortable with everything."
 
 Emi: "Oh. . . I guess that makes sense."
 
-Ingram: "Alright, let's get down to business then. I'm gonna go refill some of the pastries in the display case. You can find anything you need at the back room."
+Ingram: "Alright, let's get down to business then. I'm gonna go refill some of the pastries in the display case. You can find anything you need in the back."
 
 Emi: "Ah, yes boss!"
 

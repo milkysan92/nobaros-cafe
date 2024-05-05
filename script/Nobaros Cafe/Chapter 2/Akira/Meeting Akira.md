@@ -1,3 +1,4 @@
+# Meeting Akira
 Emi: "Let's go clean up some empty dishes."
 
 *I grab a few of the neatly folded rags and head back out to the floor.* 
@@ -79,7 +80,7 @@ Akira: "Since I'm nearly finished with my espresso, why don't you take a short b
 Akira: "Plus, it'll help you kill two birds with one stone, as they say."
 
 *Akira's offer is quite convincing, and the little voice in my head continues to tempt me.*
-# Focus on cafe chores
+# Cafe duties
 *With a resigned sigh, I shake my head, acknowledging that my chores should take priority.*
 
 *If I slack off now, there's a chance that I wouldn't be able to finish them all in time.*
@@ -115,7 +116,7 @@ Emi: "Yes, definitely! Have a good day, I'll see you at Yuugen House."
 Emi: "(Next time, I'll definitely take the chance to converse with him properly!)"
 
 Emi: "(Let's quickly finish up here and return the rags.)"
-# Sit down and chat
+# Afternoon chat
 Emi: "You know what, you have a point! It can't hurt to take a little break."
 
 *I plop down on the seat across from Akira, sinking into the comfortable cushion on the chair. He smiles, pleased that I've accepted his invitation.*
@@ -160,7 +161,7 @@ Emi: "(I wonder if he's been here for a while. . .)"
 
 Akira: "How are you finding Nobaros? Adjusting well?"
 
-*His question catches me off guard, as if he's read my mind.*
+*His question catches me off guard, as if he read my mind.*
 
 Emi: "Eh? Ah, I mean, it's. . . different. I'm still trying to get my bearings to be honest. But I do appreciate how tranquil this place is. I think I'll slowly be able to adjust."
 

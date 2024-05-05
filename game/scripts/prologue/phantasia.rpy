@@ -1,7 +1,5 @@
 image light = "#FFFFFF"
 image phantasia = "phantasia.png"
-define unknown_e = Character("?????", color="#ffbcca")
-define unknown_i = Character("?????", color="#9fe7ff")
 
 # Emi awakens to a dream-like scene of clouds surrounding her
 # She wanders around, before accidentally falling into a pond 
@@ -9,7 +7,7 @@ define unknown_i = Character("?????", color="#9fe7ff")
 label phantasia:
     scene light with fade
     
-    unknown ". . ."
+    unknown_i ". . ."
     
     unknown_i "{size=15}. . .ve me. . .{/size}"
     

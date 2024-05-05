@@ -1,14 +1,11 @@
+# Meeting Annelise
 Emi: "Let's go give the library a good dusting!"
 
 *I promptly grab the duster hanging on the wall and make a beeline for the library.*
 
-*A sea of novels stacked on ebony bookshelves comes into view, bathed in a blanket of soft, inviting sunlight.*
+*A sea of novels encased in ebony bookshelves comes into view. Tall glass windows frame the room, cascading the space in a blanket of soft, inviting sunlight.*
 
-*The bookshelves line one wall, while big windows adorns the others, offering a glimpse of the outside world.*
-
-*Several comfy-looking armchairs are scattered around, each accompanied by a quaint table with a potted plant, breathing life into the room.*
-
-*A serene silence occupies the space, the rich scent of old books mixed with the faint aroma of coffee from the cafe.*
+*Clusters of cozy armchairs beckon from various corners, each accompanied by a quaint table with a potted plant. The room is steeped in a serene hush, as the rich scent of aged paper mingles with the faint aroma of coffee from the cafe.*
 
 *I carefully step onto the hardwood floor. To my surprise, there isn't a single creak as I slowly shifted my weight to enter the room.*
 
@@ -79,7 +76,7 @@ Annelise: "Okay, good luck with the cleaning. Let me know if you need any help."
 *As I approach Annelise, I notice the pile of books beside her has grown.*
 
 Emi: "(Is she planning to read those books? Or has she already finished them?)"
-# Offer to put away the books
+# Shelve books
 Emi: "Hey Annelise, do you need some help putting those books away? You can toss them my way if you want!"
 
 *Annelise looks up from her novel, her eyes sparkling as if I just read her mind. She eagerly nods in agreement.*
@@ -226,7 +223,7 @@ Emi: "(That was pleasant! I didn't expect Annelise to be such a passionate book 
 
 Emi: "(I'll have to ask her for more recommendations later.)"
 
-# Continue dusting the the library
+# Continue dusting
 *I decide to leave Annelise alone, figuring that she probably just found more books to read.*
 
 *Eventually, I manage to finish dusting all the shelves in no time.*

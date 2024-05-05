@@ -1,3 +1,4 @@
+# Meeting Kai
 Emi: Let's sweep the foyer!
 
 *I grab the broom leaning against the corner and head out to the floor, collecting the day's accumulation of dust and dirt*
@@ -38,7 +39,7 @@ Emi: "Sorry, Ingram is busy at the moment. Can I help you with something?"
 
 Emi: "What did you lose? Maybe I can help you find it."
 
-???: "It's a small golden trinket thingy. It should look like a flower of some kind."
+???: "It's kinda like a small golden thing. It should look like a flower of some kind."
 
 Emi: "Wait a minute, could you be talking about this?"
 
@@ -48,9 +49,9 @@ Emi: "Wait a minute, could you be talking about this?"
 
 *I offer the charm to him, which he graciously receives with both hands.*
 
-???: "By the way, you're new around here aren't you? I don't think I've ever seen someone other than Ingram working here."
+???: "By the way, you're new around here aren't you? Ingram doesn't usually work with anyone in the cafe."
 
-???: "Actually scratch that, I don't think I've ever seen Ingram working with *anybody*, period. . ." 
+???: "Actually, I don't think I've ever seen Ingram working with *anyone* in general. . ."
 
 ???: "But never mind that! Let me introduce myself. My name's Kai, what's yours?"
 

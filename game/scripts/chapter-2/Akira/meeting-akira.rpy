@@ -107,7 +107,7 @@ label afternoon_chat:
     narrator "His calm demeanor exudes a sense of confidence that is both comforting and inspiring. He seems so at ease, blending seamlessly into his surroundings."
     emi "(I wonder if he's been here for a while. . .)"
     akira "How are you finding Nobaros? Adjusting well?"
-    narrator "His question catches me off guard, as if he's read my mind."
+    narrator "His question catches me off guard, as if he read my mind."
     emi "Eh? Ah, I mean, it's. . . different. I'm still trying to get my bearings to be honest. But I do appreciate how tranquil this place is. I think I'll slowly be able to adjust."
     akira "I understand. When I first arrived, it was quite overwhelming."
     akira "Nobaros was unlike anything I've experienced before. But I've found it to be quite nice, a place of introspection and growth if you will."
