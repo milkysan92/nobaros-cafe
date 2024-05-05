@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5003146862fd8941",
+            "id": "50d869b884598b53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Meeting Kai.md",
+                "file": "Chapter 2/Main/Report to Ingram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df6e761bde8ebf02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Main/Cafe Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Meeting Kai.md",
+                "file": "Chapter 2/Main/Report to Ingram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Meeting Kai.md",
+                "file": "Chapter 2/Main/Report to Ingram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Meeting Kai.md"
+                "file": "Chapter 2/Main/Report to Ingram.md"
               }
             }
           }
@@ -147,14 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5003146862fd8941",
+  "active": "50d869b884598b53",
   "lastOpenFiles": [
     "Chapter 2/Chapter 2 Master.md",
-    "Chapter 2/Meeting Akira.md",
-    "Chapter 2/Cafe Intro.md",
-    "Chapter 2/Meeting Kai.md",
-    "Chapter 2/Meeting Annelise.md",
-    "Report to Ingram.md",
+    "Chapter 2/Annelise/Meeting Annelise.md",
+    "Chapter 2/Akira/Meeting Akira.md",
+    "Chapter 2/Kai/Meeting Kai.md",
+    "Chapter 2/Main/Cafe Intro.md",
+    "Chapter 2/Main/Report to Ingram.md",
+    "Chapter 2/Ingram/Ingram's cafe duties.md",
+    "Chapter 2/Main/Table for 5.md",
+    "Chapter 2/Annelise/Afternoon tea.md",
+    "Chapter 2/Akira/Peaches on the rooftop.md",
+    "Chapter 2/Kai/Leisure at the swimming hole.md",
+    "Chapter 2/Ingram/First aid.md",
+    "Chapter 2/Main/Pastry training with Ingram.md",
+    "Chapter 2/Annelise/Lull of lavender.md",
+    "Chapter 2/Kai/Midnight snack.md",
+    "Chapter 2/Ingram/Milk & honey.md",
+    "Chapter 2/Akira/Twilight stroll.md",
+    "Chapter 2/Main/Taking a bath.md",
+    "Chapter 2/Main/Welcome dinner for Emi.md",
+    "Chapter 2/Main/Sakura grove.md",
+    "Chapter 2/Main/Shimmering pond.md",
+    "Chapter 2/Main/Entering the mirror.md",
+    "Chapter 2/Main/A new customer.md",
+    "Chapter 2/Main",
+    "Chapter 2/Ingram",
+    "Chapter 2/Kai",
+    "Chapter 2/Annelise",
+    "Chapter 2/Akira",
     "Chapter 2/Intro CH2.md",
     "Chapter 2",
     "Welcome.md",

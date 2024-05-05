@@ -13,7 +13,7 @@ Emi: "Let's go give the library a good dusting!"
 *I carefully step onto the hardwood floor. To my surprise, there isn't a single creak as I slowly shifted my weight to enter the room.*
 
 Emi: "(It's so quiet! I can almost hear the sound of my own breath.)"
-                        
+
 *As I wander around, I delicately run my fingers along the neatly organized rows of books, feeling the slightly rough texture of their spines.*
 
 *The selection is vast, ranging from scientific encyclopedias to enchanting novels, each book whispering stories of worlds unknown.* 

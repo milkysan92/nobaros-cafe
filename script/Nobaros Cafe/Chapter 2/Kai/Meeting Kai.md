@@ -138,7 +138,7 @@ Kai: "Wait wait, stealing food is a crime! There's no need for you to go to such
 
 Emi: "What? No, you've got it all wrong, I'm not gonna steal from the display case."
 
-Emi: "Sometimes, we have stuff that can't be sold because they don't look that good or aren't fresh enough."
+Emi: "Sometimes, we have stuff that doesn't turn out well and can't be sold to customers."
 
 Emi: "(I don't have the heart to tell him that half of the ugly desserts were made by me, as a result of Ingram's pastry making sessions.)" 
 
