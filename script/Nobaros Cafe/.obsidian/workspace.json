@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Main/Report to Ingram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df6e761bde8ebf02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Main/Cafe Intro.md",
-                "mode": "source",
+                "file": "Chapter 2/Chapter 2 Master.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "770f2649500378ff",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Main/Report to Ingram.md",
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Main/Report to Ingram.md",
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Main/Report to Ingram.md"
+                "file": "Chapter 2/Chapter 2 Master.md"
               }
             }
           }
@@ -159,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50d869b884598b53",
+  "active": "629c26ae813d7639",
   "lastOpenFiles": [
-    "Chapter 2/Chapter 2 Master.md",
-    "Chapter 2/Annelise/Meeting Annelise.md",
-    "Chapter 2/Akira/Meeting Akira.md",
-    "Chapter 2/Kai/Meeting Kai.md",
     "Chapter 2/Main/Cafe Intro.md",
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Akira/Meeting Akira.md",
+    "Untitled.md",
+    "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 2/Main/Report to Ingram.md",
+    "Chapter 2/Kai/Meeting Kai.md",
     "Chapter 2/Ingram/Ingram's cafe duties.md",
     "Chapter 2/Main/Table for 5.md",
     "Chapter 2/Annelise/Afternoon tea.md",
@@ -191,7 +179,6 @@
     "Chapter 2/Akira",
     "Chapter 2/Intro CH2.md",
     "Chapter 2",
-    "Welcome.md",
-    "Intro.md"
+    "Welcome.md"
   ]
 }

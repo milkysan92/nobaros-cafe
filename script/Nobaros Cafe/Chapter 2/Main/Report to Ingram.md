@@ -54,7 +54,7 @@ Emi: "Does that mean you never get tired then?"
 
 Ingram: "I still do, but it takes a lot more to get me to that state."
 
-*Despite what Ingram tells me, I still find it hard to believe him. *
+*Despite what Ingram tells me, I still find it hard to believe his words.*
 
 Ingram: "Things are fine as is."
 # Let's leave it alone

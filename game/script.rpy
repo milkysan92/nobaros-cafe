@@ -1,20 +1,8 @@
 ﻿# Master script; this script should contain global vars & overall chapter logic
-define emi_name = _("Emi")
-define ingram_name = _("Ingram")
-define kai_name = _("Kai")
-define annelise_name = _("Annelise")
-define akira_name = _("Akira")
-
-define emi = Character(emi_name, color="#ffbcca")
-define ingram = Character(ingram_name, color="#9fe7ff")
-define kai = Character(kai_name, color="#fad5af")
-define akira = Character(akira_name, color="#c7f5c5")
-define annelise = Character(annelise_name, color="#fff0b1")
-
 label start:
     # call prologue_master
     # call ch1_master
-    call ch2_master
+    call ch2_master from _call_ch2_master
     # call ch3_master
     # call ch4_master
 

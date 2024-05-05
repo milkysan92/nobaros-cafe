@@ -108,7 +108,7 @@ label cafe_intro:
     emi "(Did Ingram do all of this too? He really is on a different level!)"
     narrator "I look around for the tools I need to finish my chores, spotting a broom in the corner, feather duster hanging on the wall, and some neatly folded rags on a shelf."
     emi "(Hmm. . . what to do first?)"
-    call chores
+    call chores from _call_chores
     return
 
 # prompts for chores, will only return when all done
@@ -124,11 +124,11 @@ label chores:
         menu:
             emi "[text]"
             "Sweep the foyer" if not swept_foyer:
-                call meeting_kai
+                call meeting_kai from _call_meeting_kai
 
             "Dust the library books" if not dusted_books:
-                call meeting_annelise
+                call meeting_annelise from _call_meeting_annelise
 
             "Collect empty dishes" if not collected_dishes:
-                call meeting_akira
+                call meeting_akira from _call_meeting_akira
     return

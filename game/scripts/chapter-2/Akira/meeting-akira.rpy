@@ -49,10 +49,10 @@ label meeting_akira:
     menu:
         emi "I think I'll. . ."
         "Focus on cafe chores":
-            call cafe_duties
+            call cafe_duties from _call_cafe_duties
 
         "Sit down and chat":
-            call afternoon_chat
+            call afternoon_chat from _call_afternoon_chat
 
     $ collected_dishes = True
     $ chores_left -= 1

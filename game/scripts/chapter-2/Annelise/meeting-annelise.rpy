@@ -1,5 +1,3 @@
-define unknown_an = Character("?????", color="#fff0b1")
-
 label meeting_annelise:
     emi "Let's go give the library a good dusting!"
     narrator "I promptly grab the duster hanging on the wall and make a beeline for the library."
@@ -56,10 +54,10 @@ label meeting_annelise:
     # Choose whether to put the books away or leave Annelise alone
     menu:
         "Offer to put the books away":
-            call shelve_books
+            call shelve_books from _call_shelve_books
         
         "Continue dusting the library":
-            call continue_dusting
+            call continue_dusting from _call_continue_dusting
     
     $ dusted_books = True
     $ chores_left -= 1

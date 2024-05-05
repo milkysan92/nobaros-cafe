@@ -1,5 +1,3 @@
-define unknown_k = Character("?????", color="#fad5af")
-
 label meeting_kai:
     emi "Let's sweep the foyer!"
     narrator "I grab the broom leaning against the corner and head out to the floor."
@@ -94,10 +92,10 @@ label meeting_kai:
     menu:
         emi "(Hmm, I should take. . .)"
         "Take the macarons":
-            call macarons
+            call macarons from _call_macarons
 
         "Take the strawberry tart":
-            call strawberry_tart
+            call strawberry_tart from _call_strawberry_tart
 
     $ swept_foyer = True
     $ chores_left -= 1
