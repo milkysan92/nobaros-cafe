@@ -1,4 +1,4 @@
-# Ask about Ingram
+# About Ingram
 
 Emi: "Ingram, is there nobody else working here?"
 

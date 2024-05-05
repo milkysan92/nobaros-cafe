@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7605173ffbd9acb8",
+        "id": "6d2e9efac61a4e54",
         "type": "tabs",
         "children": [
           {
-            "id": "193f5879fdde80f8",
+            "id": "ff3c2de89b2b93f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Akira/Meeting Akira.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Akira/Meeting Akira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Akira/Meeting Akira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md"
+                "file": "Chapter 2/Akira/Meeting Akira.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "193f5879fdde80f8",
+  "active": "ff3c2de89b2b93f0",
   "lastOpenFiles": [
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Akira/Meeting Akira.md",
+    "Chapter 2/Ingram/About Ingram.md",
+    "About Ingram.md",
     "Chapter 2/Main/Cafe Intro.md",
     "Chapter 2/Main/Meeting others.md",
     "Chapter 2/Main/Report to Ingram.md",
@@ -157,13 +161,10 @@
     "Chapter 2/Main/Shimmering pond.md",
     "Chapter 2/Main/Sakura grove.md",
     "Chapter 2/Main/Pastry training with Ingram.md",
-    "Chapter 2/Ingram/Ingram's cafe duties.md",
     "Chapter 2/Main/Entering the mirror.md",
     "Chapter 2/Ingram/Milk & honey.md",
     "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 2/Ingram/First aid.md",
-    "Chapter 2/Akira/Meeting Akira.md",
-    "Chapter 2/Chapter 2 Master.md",
     "Chapter 2/Akira/Rooftop peaches.md",
     "Chapter 2/Akira/Twilight stroll.md",
     "Chapter 2/Akira/Peaches on the rooftop.md",
@@ -173,7 +174,6 @@
     "Chapter 2/Kai/Leisure at the swimming hole.md",
     "Chapter 2/Annelise/Lull of lavender.md",
     "Chapter 2/Kai/Midnight snack.md",
-    "Chapter 2/Main/A new customer.md",
     "Chapter 2/Main",
     "Chapter 2/Ingram",
     "Chapter 2/Kai",

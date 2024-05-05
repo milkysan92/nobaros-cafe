@@ -7,47 +7,47 @@ image phantasia = "phantasia.png"
 label phantasia:
     scene light with fade
     
-    unknown_i ". . ."
+    uk_ingram ". . ."
     
-    unknown_i "{size=15}. . .ve me. . .{/size}"
+    uk_ingram "{size=15}. . .ve me. . .{/size}"
     
-    unknown_e "Mmm..."
+    uk_emi "Mmm..."
     
-    unknown_e "(It's warm. . .)"
+    uk_emi "(It's warm. . .)"
     
-    unknown_i "{size=20}. . .{/size}"
+    uk_ingram "{size=20}. . .{/size}"
     
-    unknown_i "{size=20}Someone. . .{/size}"
+    uk_ingram "{size=20}Someone. . .{/size}"
     
-    unknown_e "(. . .?)"
+    uk_emi "(. . .?)"
     
-    unknown_e "(Is. . . someone calling me?)"
+    uk_emi "(Is. . . someone calling me?)"
     
-    unknown_i "{size=25}Where are you. . .{/size}"
+    uk_ingram "{size=25}Where are you. . .{/size}"
     
-    unknown_i "{size=25}I don't want to be alone. . .{/size}"
+    uk_ingram "{size=25}I don't want to be alone. . .{/size}"
     
-    unknown_e "(Who. . .?)"
+    uk_emi "(Who. . .?)"
     
-    unknown_e "(Whose voice is. . .?)"
+    uk_emi "(Whose voice is. . .?)"
     
-    unknown_i "Please. . ."
+    uk_ingram "Please. . ."
     
-    unknown_i "Wake up. . . {font=gui/font/PublicPixel.ttf}■■■■■■{/font}"
+    uk_ingram "Wake up. . . {font=gui/font/PublicPixel.ttf}■■■■■■{/font}"
     
-    unknown_e "(. . . !)"
+    uk_emi "(. . . !)"
 
     scene phantasia with dissolve
     
-    unknown_e "*pant**pant*"
+    uk_emi "*pant**pant*"
     
-    unknown_e "(Agh my head. . . everything's so fuzzy. . .)"
+    uk_emi "(Agh my head. . . everything's so fuzzy. . .)"
     
-    unknown_e "(What was I doing just now?)"
+    uk_emi "(What was I doing just now?)"
     
-    unknown_e "(Was I sleeping?)"
+    uk_emi "(Was I sleeping?)"
     
-    unknown_e "(But why. . . ?)"
+    uk_emi "(But why. . . ?)"
 
     narrator "So many questions came to mind, but no answers accompanied them."
     
@@ -61,11 +61,11 @@ label phantasia:
     
     narrator "With a bit of effort, I fought the disoriented feeling and got up onto my feet."
     
-    unknown_e "(Ugh, why do I feel so groggy?)"
+    uk_emi "(Ugh, why do I feel so groggy?)"
     
-    unknown_e "(Maybe some deep breaths will help. . .)"
+    uk_emi "(Maybe some deep breaths will help. . .)"
     
-    unknown_e "(In. . . and out.)"
+    uk_emi "(In. . . and out.)"
     
     narrator "Fresh, crisp air found its way into my lungs, giving me goosebumps."
     
@@ -81,19 +81,19 @@ label phantasia:
     
     narrator "I couldn't help but feel revitalized at such a scene."
     
-    unknown_e "(Alright then. So how did I get here?)"
+    uk_emi "(Alright then. So how did I get here?)"
     
     narrator "I quickly scanned my surroundings, looking to see if anybody else was around."
     
-    unknown_e "Hmm, not a living soul in sight. Looks like I'm alone."
+    uk_emi "Hmm, not a living soul in sight. Looks like I'm alone."
     
-    unknown_e "(So that rules out someone bringing me here. . .)"
+    uk_emi "(So that rules out someone bringing me here. . .)"
     
-    unknown_e "(Nothing in this place seems familiar to me.)"
+    uk_emi "(Nothing in this place seems familiar to me.)"
     
-    unknown_e "(My memories. . . it's a total blank slate.)"
+    uk_emi "(My memories. . . it's a total blank slate.)"
     
-    unknown_e "(Ugh, if only I could remember something. It's as if my head's being blocked by something.)"
+    uk_emi "(Ugh, if only I could remember something. It's as if my head's being blocked by something.)"
     
     narrator "No matter how hard I tried, I couldn't recall a single thing."
     
@@ -103,7 +103,7 @@ label phantasia:
     
     narrator "I couldn't help but notice some slight hints of a sweet, earthy scent."
     
-    unknown_e "Oh, that smells nice. Where is it coming from?"
+    uk_emi "Oh, that smells nice. Where is it coming from?"
     
     narrator "I walked towards the scent, which got stronger the more I walked."
     
@@ -111,7 +111,7 @@ label phantasia:
     
     narrator "Eventually, I found myself at a glistening lake with patches of healthy irises sprinkled here and there."
     
-    unknown_e "(Ah, so that's what smelled so sweet. . .)"
+    uk_emi "(Ah, so that's what smelled so sweet. . .)"
     
     narrator "I approached the lake, wanting to take a closer look."
     

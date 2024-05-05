@@ -31,7 +31,7 @@ Emi: ". . . Ah!"
 
 Emi: "I'm so sorry! I didn't see you there. Are you okay?"
 
-???: "O-oh, um, yes! I'm fine. I was just. . . lost in my books, so I didn't realize someone else entered the room. . ."
+UK Annelise: "O-oh, um, yes! I'm fine. I was just. . . lost in my books, so I didn't realize someone else entered the room. . ."
 
 *The girl answers in a meek voice that is barely audible. It nearly takes all of my concentration to make out what she's saying.*
 
@@ -43,25 +43,25 @@ Emi: "Don't worry about it, it's my fault for not looking where I was going!"
 
 Emi: "Are you sure you're really alright? I didn't hurt you or anything?"
 
-???: " That's okay, I was just a bit startled that's all."
+UK Annelise: " That's okay, I was just a bit startled that's all."
 
-???: "Thank you for helping with the books. I didn't realize anyone else would be here today. . ."
+UK Annelise: "Thank you for helping with the books. I didn't realize anyone else would be here today. . ."
 
 Emi: "Oh, I'm here to help dust the library as per Ingram's orders!"
 
 Emi: "My name's Emi by the way. I recently started helping out around the cafe, so I'm relatively new around here."
 
-???: "Ah, Ingram? Really? You're a friend of his?"
+UK Annelise: "Ah, Ingram? Really? You're a friend of his?"
 
 *Mentioning Ingram's name seems to have sparked something in the girl. Her eyes brighten with a newfound clarity.*
 
 Emi: "Yeah, you could say that! He thought I could help pitch in with things around the cafe, so that's how I ended up here. Oh, and with spirit guiding too!"
 
-???: "Could you be the new girl that Ingram was mentioning? You'll be staying at Yuugen House too then?"
+UK Annelise: "Could you be the new girl that Ingram was mentioning? You'll be staying at Yuugen House too then?"
 
 Emi: "That's me! Sorry, but I don't think I caught your name?"
 
-???: "Oh s-sorry! I forgot to introduce myself. My name is Annelise. It's nice to have another girl around."
+UK Annelise: "Oh s-sorry! I forgot to introduce myself. My name is Annelise. It's nice to have another girl around."
  
 *Annelise smiles timidly, feeling a tad more relaxed after realizing that I was a friend of Ingram's.*
 

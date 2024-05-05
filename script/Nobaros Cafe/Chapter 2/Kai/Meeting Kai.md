@@ -21,7 +21,7 @@ Emi: "What a pretty charm! I wonder where it came from. . . maybe someone's neck
 
 *Just as I'm about to finish up, the front door bursts open and a blaring voice shatters my eardrums.*
 
-???: "INGRAM!! ARE YOU IN HERE?!"
+UK Kai: "INGRAM!! ARE YOU IN HERE?!"
 
 *I shoot my eyes towards the cafe entrance.*
 
@@ -35,25 +35,25 @@ Emi: "Sorry, Ingram is busy at the moment. Can I help you with something?"
 
 *The guy looks at me desperately and claps his hands together, as if he's about to pray.*
 
-???: "Oh thank god you're here! I lost something and I think it might be somewhere around here."
+UK Kai: "Oh thank god you're here! I lost something and I think it might be somewhere around here."
 
 Emi: "What did you lose? Maybe I can help you find it."
 
-???: "It's kinda like a small golden thing. It should look like a flower of some kind."
+UK Kai: "It's kinda like a small golden thing. It should look like a flower of some kind."
 
 Emi: "Wait a minute, could you be talking about this?"
 
 *I dig into my apron pocket and fish out the golden camellia charm I found earlier. As I lay it in my palm and show it to him, his eyes light up, and he nods excitedly.*
 
-???: "That's the one! Thanks a bunch!"
+UK Kai: "That's the one! Thanks a bunch!"
 
 *I offer the charm to him, which he graciously receives with both hands.*
 
-???: "By the way, you're new around here aren't you? Ingram doesn't usually work with anyone in the cafe."
+UK Kai: "By the way, you're new around here aren't you? Ingram doesn't usually work with anyone in the cafe."
 
-???: "Actually, I don't think I've ever seen Ingram working with *anyone* in general. . ."
+UK Kai: "Actually, I don't think I've ever seen Ingram working with *anyone* in general. . ."
 
-???: "But never mind that! Let me introduce myself. My name's Kai, what's yours?"
+UK Kai: "But never mind that! Let me introduce myself. My name's Kai, what's yours?"
 
 Emi: "Oh, right, I'm Emi! I'm helping Ingram out with both the cafe and with spirit guiding."
 
