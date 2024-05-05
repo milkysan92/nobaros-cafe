@@ -53,7 +53,7 @@ def write(source_path: str) -> None:
             # new label
             if l.startswith("#"):
                 if not first:
-                    fw.writelines(f"\n")
+                    fw.writelines(f"    return\n\n")
                 title = l.removeprefix("#").strip().lower().replace(" ", "_")
                 fw.writelines(f"label {title}:\n")
                 first = False
@@ -67,6 +67,7 @@ def write(source_path: str) -> None:
                 char = l.split(":")[0].lower()
                 result = f"{char}{l[len(char):]}"
                 fw.writelines(f"    {result}\n")
+        fw.writelines(f"    return\n")
 
 if __name__ == "__main__":
     main()
