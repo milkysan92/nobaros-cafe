@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import os
+import re
 from pathlib import Path
 
 SOURCE_ROOT = './script/Nobaros Cafe'
@@ -38,7 +39,6 @@ def write(source_path: str) -> None:
     file_name_idx = target_path.rfind("/")
     directory_path = target_path[:file_name_idx]
 
-    print(f"generating {source_path} ==> {target_path}")
     Path(directory_path).mkdir(parents=True, exist_ok=True)
     
     with open(source_path, "r") as fr:
@@ -46,7 +46,29 @@ def write(source_path: str) -> None:
 
     if len(lines) > 0 and not lines[0].startswith("#"):
         lines.insert(0, f"# {target_path[file_name_idx+1:]}".removesuffix(TARGET_EXT))
+    
+    if not Path(target_path).is_file():
+        print(f"generating {source_path} ==> {target_path}")
+        generate_new(target_path, lines)
+        return
+    
+    with open(target_path) as fe:
+        existing_lines = fe.readlines()
 
+    dialog_indices = []
+    for (i, line) in enumerate(existing_lines):
+        if re.match(r".+: \"*\"", line):
+            dialog_indices.append(i)
+        else:
+            print(line)
+
+    source_lines = [l for l in lines if not l.startswith("#")]
+    if len(dialog_indices) != len(source_lines):
+        print(target_path, len(dialog_indices), len(source_lines))
+
+
+
+def generate_new(target_path: str, lines: list[str]):
     first = True
     with open(target_path, "w") as fw:
         for l in lines:
@@ -68,6 +90,7 @@ def write(source_path: str) -> None:
                 result = f"{char}{l[len(char):]}"
                 fw.writelines(f"    {result}\n")
         fw.writelines(f"    return\n")
+
 
 if __name__ == "__main__":
     main()
