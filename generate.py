@@ -49,25 +49,33 @@ def write(source_path: str) -> None:
 
     validate(lines)
     
-    if not Path(target_path).is_file():
+    if not Path(target_path).is_file() or os.stat(target_path).st_size == 0:
         print(f"generating {source_path} ==> {target_path}")
         generate_new(target_path, lines)
         return
     
     with open(target_path) as fe:
-        existing_lines = fe.readlines()
+        existing_lines: list[str] = fe.readlines()
 
-    dialog_indices = []
+    dialog_indices: list[int] = []
     for (i, line) in enumerate(existing_lines):
         if re.match(r".+ \"*\"", line):
             dialog_indices.append(i)
 
     source_lines = [l for l in lines if not l.startswith("#")]
     if len(dialog_indices) != len(source_lines):
-        print(target_path, len(dialog_indices), len(source_lines))
-    else:
-        print(target_path, "OK")
-
+        print(f"ERROR - {target_path[len(TARGET_ROOT):]} and {source_path[len(SOURCE_ROOT):]} have different number of lines: rpy = {len(dialog_indices)}, md = {len(source_lines)}")
+        return
+    
+    print(f"modifying {source_path} ==> {target_path}")
+    for (i, l) in enumerate(source_lines):
+        current: str = existing_lines[dialog_indices[i]]
+        num_leading_spaces = len(current) - len(current.lstrip())
+        existing_lines[dialog_indices[i]] = f"{' '*num_leading_spaces}{convert_line(l)}"
+    
+    with open(target_path, "w") as fw:
+        fw.writelines(existing_lines)
+        
 
 def validate(source_lines: list[str]) -> None:
     for (i, l) in enumerate(source_lines):
@@ -79,7 +87,19 @@ def validate(source_lines: list[str]) -> None:
             assert l.endswith("*"), f"narrator line {i+1} '{l}' does not end with '*'"
         else: # character, convert name to lowercase
             assert re.match(r".+ \"*\"", l), f"dialogue line {i+1} '{l}' is invalid"
-        
+
+
+def convert_line(line: str) -> str:
+    # narrator
+    if line.startswith("*"):
+        result = line.removeprefix("*").removesuffix("*")
+        return f"narrator \"{result}\"\n"
+    
+    # character, convert name to lowercase
+    char = line.split(":")[0].lower()
+    result = f"{char}{line[len(char)+1:]}"
+    return f"{result}\n"
+
 
 def generate_new(target_path: str, source_lines: list[str]):
     first = True
@@ -92,15 +112,8 @@ def generate_new(target_path: str, source_lines: list[str]):
                 title = l.removeprefix("#").strip().lower().replace(" ", "_")
                 fw.writelines(f"label {title}:\n")
                 first = False
- 
-            # narrator
-            elif l.startswith("*"):
-                result = l.removeprefix("*").removesuffix("*")
-                fw.writelines(f"    narrator \"{result}\"\n")
-            else: # character, convert name to lowercase
-                char = l.split(":")[0].lower()
-                result = f"{char}{l[len(char)+1:]}"
-                fw.writelines(f"    {result}\n")
+            else:
+                fw.writelines(f"    {convert_line(l)}")
         fw.writelines(f"    return\n")
 
 
