@@ -46,6 +46,8 @@ def write(source_path: str) -> None:
 
     if len(lines) > 0 and not lines[0].startswith("#"):
         lines.insert(0, f"# {target_path[file_name_idx+1:]}".removesuffix(TARGET_EXT))
+
+    validate(lines)
     
     if not Path(target_path).is_file():
         print(f"generating {source_path} ==> {target_path}")
@@ -57,21 +59,32 @@ def write(source_path: str) -> None:
 
     dialog_indices = []
     for (i, line) in enumerate(existing_lines):
-        if re.match(r".+: \"*\"", line):
+        if re.match(r".+ \"*\"", line):
             dialog_indices.append(i)
-        else:
-            print(line)
 
     source_lines = [l for l in lines if not l.startswith("#")]
     if len(dialog_indices) != len(source_lines):
         print(target_path, len(dialog_indices), len(source_lines))
+    else:
+        print(target_path, "OK")
 
 
+def validate(source_lines: list[str]) -> None:
+    for (i, l) in enumerate(source_lines):
+        # new label
+        if l.startswith("#"):
+            continue
+        # narrator
+        elif l.startswith("*"):
+            assert l.endswith("*"), f"narrator line {i+1} '{l}' does not end with '*'"
+        else: # character, convert name to lowercase
+            assert re.match(r".+ \"*\"", l), f"dialogue line {i+1} '{l}' is invalid"
+        
 
-def generate_new(target_path: str, lines: list[str]):
+def generate_new(target_path: str, source_lines: list[str]):
     first = True
     with open(target_path, "w") as fw:
-        for l in lines:
+        for l in source_lines:
             # new label
             if l.startswith("#"):
                 if not first:
@@ -82,12 +95,11 @@ def generate_new(target_path: str, lines: list[str]):
  
             # narrator
             elif l.startswith("*"):
-                # assert l.endswith("*"), f"narrator line '{l}' does not end with '*'"
                 result = l.removeprefix("*").removesuffix("*")
-                fw.writelines(f"    narrator: \"{result}\"\n")
+                fw.writelines(f"    narrator \"{result}\"\n")
             else: # character, convert name to lowercase
                 char = l.split(":")[0].lower()
-                result = f"{char}{l[len(char):]}"
+                result = f"{char}{l[len(char)+1:]}"
                 fw.writelines(f"    {result}\n")
         fw.writelines(f"    return\n")
 
