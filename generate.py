@@ -2,6 +2,7 @@
 
 import os
 import re
+import sys
 from pathlib import Path
 
 SOURCE_ROOT = './script/Nobaros Cafe'
@@ -17,22 +18,23 @@ IGNORE_DIRS = [
 ]
 
 def main():
+    force_regenerate = "--force" in sys.argv
     for subdir, dirs, files in os.walk(SOURCE_ROOT):
         if subdir in IGNORE_DIRS:
-            print(f"igoring directory: {subdir}")
+            print(f"ignoring directory: {subdir}")
             continue
         
         for file in files:
             path = os.path.join(subdir, file)
             if should_ignore_file(path):
-                print(f"igoring file: {path}")
+                print(f"ignoring file: {path}")
                 continue
 
             if file.endswith(SOURCE_EXT):
-                write(path)
+                write(path, force_regenerate)
 
 
-def write(source_path: str) -> None:
+def write(source_path: str, force_regenerate: bool) -> None:
     suffix = source_path[len(SOURCE_ROOT):]
     target_path = f"{TARGET_ROOT}{suffix}".replace(" ", "_").lower()
     target_path = target_path.removesuffix(SOURCE_EXT) + TARGET_EXT
@@ -49,7 +51,7 @@ def write(source_path: str) -> None:
 
     validate(lines)
     
-    if not Path(target_path).is_file() or os.stat(target_path).st_size == 0:
+    if force_regenerate or not Path(target_path).is_file() or os.stat(target_path).st_size == 0:
         print(f"generating {source_path} ==> {target_path}")
         generate_new(target_path, lines)
         return
@@ -67,15 +69,21 @@ def write(source_path: str) -> None:
         print(f"ERROR - {target_path[len(TARGET_ROOT):]} and {source_path[len(SOURCE_ROOT):]} have different number of lines: rpy = {len(dialog_indices)}, md = {len(source_lines)}")
         return
     
-    print(f"modifying {source_path} ==> {target_path}")
+    has_change = False
     for (i, l) in enumerate(source_lines):
         current: str = existing_lines[dialog_indices[i]]
         num_leading_spaces = len(current) - len(current.lstrip())
-        existing_lines[dialog_indices[i]] = f"{' '*num_leading_spaces}{convert_line(l)}"
+        new_line = f"{' '*num_leading_spaces}{convert_line(l)}"
+
+        if current != new_line:
+            has_change = True
+            existing_lines[dialog_indices[i]] = new_line
     
-    with open(target_path, "w") as fw:
-        fw.writelines(existing_lines)
-        
+    if has_change:
+        print(f"modifying {source_path} ==> {target_path}")
+        with open(target_path, "w") as fw:
+            fw.writelines(existing_lines)
+       
 
 def validate(source_lines: list[str]) -> None:
     for (i, l) in enumerate(source_lines):
@@ -86,7 +94,7 @@ def validate(source_lines: list[str]) -> None:
         elif l.startswith("*"):
             assert l.endswith("*"), f"narrator line {i+1} '{l}' does not end with '*'"
         else: # character, convert name to lowercase
-            assert re.match(r".+ \"*\"", l), f"dialogue line {i+1} '{l}' is invalid"
+            assert re.match(r".+: \"*\"", l), f"dialogue line {i+1} '{l}' is invalid"
 
 
 def convert_line(line: str) -> str:
