@@ -105,7 +105,7 @@ Emi: "(Okay, let's do this!)"
 
 Emi: "(I should follow Ingram's advice and just focus on one thing at a time. This will all be over in the blink of an eye.)"
 
-*I smack my face twice in an attempt to pump myself up.
+*I smack my face twice in an attempt to pump myself up.*
 
 Ingram: ". . .pfft."
 

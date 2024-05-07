@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6d2e9efac61a4e54",
+        "id": "290c0bc65e8775d5",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3c2de89b2b93f0",
+            "id": "0418c5356ae1877e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Akira/Meeting Akira.md",
-                "mode": "source",
+                "file": "Chapter 2/Chapter 2 Master.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1ddac3fdcefaab75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Chapter 3 Master.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f4933dcf7a9b6724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 4/Chapter 4 Master.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "770f2649500378ff",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Akira/Meeting Akira.md",
+                "file": "Chapter 4/Chapter 4 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Akira/Meeting Akira.md",
+                "file": "Chapter 4/Chapter 4 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Akira/Meeting Akira.md"
+                "file": "Chapter 4/Chapter 4 Master.md"
               }
             }
           }
@@ -146,10 +172,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff3c2de89b2b93f0",
+  "active": "f4933dcf7a9b6724",
   "lastOpenFiles": [
+    "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Chapter 2 Master.md",
+    "Chapter 4/Chapter 4 Master.md",
+    "Chapter 2/Akira/Cafe duties.md",
     "Chapter 2/Akira/Meeting Akira.md",
+    "Chapter 2/Akira/Afternoon chat.md",
+    "Chapter 2/Kai/Macarons.md",
+    "Chapter 2/Annelise/Shelve books.md",
+    "Chapter 2/Annelise/Meeting Annelise.md",
+    "Chapter 2/Annelise/Continue dusting.md",
+    "Chapter 2/Kai/Strawberry tart.md",
+    "Chapter 2/Kai/Meeting Kai.md",
+    "Chapter 2/Kai/Choices",
+    "Chapter 4",
+    "Chapter 2/Chapter 2 Master 1.md",
+    "Chapter 3",
     "Chapter 2/Ingram/About Ingram.md",
     "About Ingram.md",
     "Chapter 2/Main/Cafe Intro.md",
@@ -163,17 +203,6 @@
     "Chapter 2/Main/Pastry training with Ingram.md",
     "Chapter 2/Main/Entering the mirror.md",
     "Chapter 2/Ingram/Milk & honey.md",
-    "Chapter 2/Annelise/Meeting Annelise.md",
-    "Chapter 2/Ingram/First aid.md",
-    "Chapter 2/Akira/Rooftop peaches.md",
-    "Chapter 2/Akira/Twilight stroll.md",
-    "Chapter 2/Akira/Peaches on the rooftop.md",
-    "Chapter 2/Kai/Meeting Kai.md",
-    "Untitled.md",
-    "Chapter 2/Annelise/Afternoon tea.md",
-    "Chapter 2/Kai/Leisure at the swimming hole.md",
-    "Chapter 2/Annelise/Lull of lavender.md",
-    "Chapter 2/Kai/Midnight snack.md",
     "Chapter 2/Main",
     "Chapter 2/Ingram",
     "Chapter 2/Kai",
