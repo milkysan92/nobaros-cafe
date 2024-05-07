@@ -5,7 +5,9 @@ Emi: "(Huh? Where'd he go? I thought I told him to wait here.)"
 
 *I scan the cafe, searching for any sign of Kai.*
 
-*Suddenly, a pair of hands slam down on my shoulders, causing me to gasp and almost drop the box. Kai bursts into laughter, clearly amused by his prank.*
+*Suddenly, a pair of hands slam down on my shoulders, causing me to gasp and almost drop the box.*
+
+*Kai bursts into laughter, clearly amused by his prank.*
 
 Kai: "Gotcha, Emi! Sorry, I couldn't resist."
 
@@ -13,7 +15,7 @@ Kai: "Gotcha, Emi! Sorry, I couldn't resist."
 
 Emi: "Kai, you scared me!"
 
-Kai: "Aw, come on, it was just a little joke. Here, let me make it up to you."
+Kai: "Aw, come on, it was just a little joke."
 
 *He wipes a tear from his eye, looking at me with a sheepish smile.*
 
@@ -53,8 +55,6 @@ Emi: "W-wait, you don't have to-!"
 
 *He forces a smile and shows me a thumbs up, signaling that he's okay. But the expression on his face says otherwise.*
 
-Kai: "Alright, I'm gonna head out now. Thanks so much for the help! It was nice to finally meet you, I'll see you later."
-
 Kai: ". . .mmph!"
 
 Emi: "(!!!)"
@@ -77,8 +77,10 @@ Kai: "Thanks for the help Emi. I'll see you later."
 
 *I watch Kai stagger out of the cafe, the door chime tinkling as he leaves, my heart heavy with guilt.*
 
-Emi: "(Dang it, I should've chosen the macarons!)"
+Emi: "(I knew I should've chosen the macarons!)"
 
 Emi: "(Next time, I'll make sure to ask about dietary preferences instead of assuming.)"
 
-Emi: "(Anyways, now that's over with, let's get onto the next chore.)"
+Emi: "(I hope the tart doesn't affect him the whole day. . .)"
+
+Emi: "(Let's get onto the next chore. . .)"

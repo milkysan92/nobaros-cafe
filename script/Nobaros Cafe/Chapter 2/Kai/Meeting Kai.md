@@ -1,7 +1,7 @@
 # Meeting Kai
 Emi: "Let's sweep the foyer!"
 
-*I grab the broom leaning against the corner and head out to the floor, collecting the day's accumulation of dust and dirt*
+*I grab the broom leaning against the corner and head out to the floor, collecting the day's accumulation of dust and dirt.*
 
 *Starting at each table, I create small piles, nudging them towards a corner where a larger pile awaits.*
 
@@ -35,33 +35,39 @@ Emi: "Sorry, Ingram is busy at the moment. Can I help you with something?"
 
 *The guy looks at me desperately and claps his hands together, as if he's about to pray.*
 
-UK Kai: "Oh thank god you're here! I lost something and I think it might be somewhere around here."
+UK_Kai: "Oh thank god you're here! I lost something and I think it might be somewhere around here."
 
 Emi: "What did you lose? Maybe I can help you find it."
 
-UK Kai: "It's kinda like a small golden thing. It should look like a flower of some kind."
+UK_Kai: "It's kinda like a small golden thing. It should look like a flower of some kind."
 
 Emi: "Wait a minute, could you be talking about this?"
 
-*I dig into my apron pocket and fish out the golden camellia charm I found earlier. As I lay it in my palm and show it to him, his eyes light up, and he nods excitedly.*
+*I dig into my apron pocket and fish out the golden camellia charm I found earlier.*
 
-UK Kai: "That's the one! Thanks a bunch!"
+*As I lay it in my palm and show it to him, his eyes light up, and he nods excitedly.*
+
+UK_Kai: "That's the one! Thanks a bunch!"
 
 *I offer the charm to him, which he graciously receives with both hands.*
 
-UK Kai: "By the way, you're new around here aren't you? Ingram doesn't usually work with anyone in the cafe."
+UK_Kai: "By the way, are you new around here? Ingram doesn't usually work with anyone in the cafe."
 
-UK Kai: "Actually, I don't think I've ever seen Ingram working with *anyone* in general. . ."
+UK_Kai: "Actually, I don't think I've ever seen Ingram working with *anyone* in general. . ."
 
-UK Kai: "But never mind that! Let me introduce myself. My name's Kai, what's yours?"
+UK_Kai: "But never mind that! Let me introduce myself. My name's Kai, what's yours?"
 
 Emi: "Oh, right, I'm Emi! I'm helping Ingram out with both the cafe and with spirit guiding."
 
-Kai: "Wait, *Emi*? I think I know you! Ingram was mentioning that we'd be getting a new roommate at Yuugen House!"
+Kai: "Wait, *Emi*? I think I know you!"
+
+Kai: "Ingram was mentioning that we'd be getting a new roommate at Yuugen House!"
 
 Emi: "I guess news spreads fast around here, huh?"
 
-Kai: "Oh, it's nothing like that. Ingram just decided to gather everyone and tell us all at once. I was beginning to wonder when I'd get to meet you!"
+Kai: "Oh, it's nothing like that. Ingram just decided to gather everyone and tell us all at once."
+
+Kai: "I was beginning to wonder when I'd get to meet you!"
 
 Emi: "(Huh, I didn't expect anybody to be so excited about a new roommate.)"
 
@@ -73,7 +79,7 @@ Emi: "(It doesn't really fit his. . . style?)"
 
 Emi: "By the way, how did you lose the charm? Was it from a piece of jewelry or something?"
 
-Kai:  "Oh right, let me show you!"
+Kai: "Oh right, let me show you!"
 
 *Kai rolls up his left sleeve, revealing a jade bracelet wrapped around his slender wrist.*
 

@@ -14,7 +14,7 @@ label cafe_intro:
     narrator "Today had been unusually hectic at the cafe. The morning hours were peaceful, with only a handful of regulars popping in for their usual coffee or bagel."
     narrator "As the sun climbed higher in the sky, more and more customers trickled in, looking for a refreshment to enjoy."
     narrator "Before I knew it, the store had filled up in the blink of an eye. I was scrambling in every direction, jotting down orders and relaying them to Ingram. Somehow, I made it through. Just barely."
-    narrator "I collapse into a chair at an empty table, stretching my arms to relieve the tension in my muscles." 
+    narrator "I collapse into a chair at an empty table, stretching my arms to relieve the tension in my muscles."
     narrator "Out of nowhere, a light poke taps at my shoulder. I turn to see Ingram standing there, with two icy drinks in hand."
     show emi at right with move
     show ingram at left with dissolve
@@ -45,7 +45,7 @@ label cafe_intro:
     emi ". . .*sigh*"
     emi "Alright then. What do we have to do?"
     narrator "Ingram glances over at me, his smug smile unwavering. He seems almost gleeful, as if he's looking forward to putting me to work."
-    ingram "Well for starters, there's a little housekeeping that needs to be done." 
+    ingram "Well for starters, there's a little housekeeping that needs to be done."
     ingram "Let's see. . ."
     ingram "Well, the foyer needs some sweeping. . .{w=0.1}and there's empty dishes that need to be collected from the tables. {w=0.1}Oh, and the library corner could use some dusting."
     emi ". . ."
@@ -58,7 +58,7 @@ label cafe_intro:
     ingram "You're still learning the ropes, so I think it's best if I handle those tasks for now."
     ingram "At least, until you're more comfortable with everything."
     emi "Oh. . .I guess that makes sense."
-    ingram "Alright, let's get down to business then. {w=0.5} I'm going to go refill some of the pastries in the display case. You can find anything you need in the back."
+    ingram "Alright, let's get down to business then. {w=0.5}I'm going to go refill some of the pastries in the display case. You can find anything you need in the back."
     emi "Ah, yes boss!"
     hide ingram with dissolve
     show emi at center with move
@@ -88,7 +88,7 @@ label cafe_intro:
     emi "That's fair. What are their names?"
     ingram "There's [kai_name!t], [annelise_name!t], and [akira_name!t]. {w=0.3}I've mentioned you before, so they should be aware of who you are."
     ingram "If you haven't met any of them already, today might be your chance. I'm sure they'll be happy to meet you."
-    emi "[kai_name!t], [annelise_name!t] and [akira_name!t]...{w=0.5} alright, {w=0.1}I'll remember that."
+    emi "[kai_name!t], [annelise_name!t], and [akira_name!t]. . . {w=0.5}alright, {w=0.1}I'll remember that."
     emi "Well then, {w=0.1}I'll be back soon!"
     ingram "Sounds good. {w=0.3}I'll be right here if you need anything."
     ingram "Just don't go beating yourself up unprompted again."
