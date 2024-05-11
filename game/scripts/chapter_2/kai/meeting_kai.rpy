@@ -64,7 +64,7 @@ label meeting_kai:
     emi "But I just ate lunch a few hours ago! I think I'd know if it was my own stomach."
     narrator "Just then, another growl rumbles. This time, it's clearly coming from Kai."
     kai ". . ."
-    kai "Do. {w=0.1}Not. {w=0.1}Say. {w=0.1}A. {w=0.1}Thing."
+    kai "Do. {w}Not. {w}Say. {w}A. {w}Thing."
     emi ". . . I-"
     kai "AHHHHHHHHH!!"
     narrator "I barely open my mouth before Kai waves his hands frantically, trying to stop me from talking. I could see his entire face turning beet red, spreading from his cheeks to the tips of his ears."

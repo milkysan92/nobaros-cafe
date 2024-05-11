@@ -46,7 +46,7 @@ label meeting_annelise:
     show emi at right with move
     show annelise at left with dissolve
     narrator "As I approach Annelise, I notice the pile of books beside her has grown."
-        emi "(Is she planning to read those books? Or has she already finished them?)"
+    emi "(Is she planning to read those books? Or has she already finished them?)"
 
     # Choose whether to put the books away or leave Annelise alone
     menu:
