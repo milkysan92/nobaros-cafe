@@ -5,8 +5,8 @@ import re
 import argparse
 from pathlib import Path
 
-SOURCE_ROOT = 'script/Nobaros Cafe'
-TARGET_ROOT = "game/scripts"
+SOURCE_ROOT = Path("script", "Nobaros Cafe")
+TARGET_ROOT = Path("game", "scripts")
 TARGET_EXT = ".rpy"
 
 def should_ignore_file(file: str) -> bool:
@@ -25,24 +25,17 @@ def main():
             print(f"ignoring file: {path}")
             continue
 
-        write(path, force_regenerate)
+        write(file, force_regenerate)
 
 
-def write(source_path: str, force_regenerate: bool) -> None:
-    suffix = source_path[len(SOURCE_ROOT):]
-    target_path = f"{TARGET_ROOT}{suffix}".replace(" ", "_").lower()
-    idx = target_path.rfind(".")
-    target_path = target_path[:idx] + TARGET_EXT
-    file_name_idx = target_path.rfind("/")
-    directory_path = target_path[:file_name_idx]
-
-    Path(directory_path).mkdir(parents=True, exist_ok=True)
+def write(source_path: Path, force_regenerate: bool) -> None:
+    source_suffix: Path = source_path.relative_to(SOURCE_ROOT)
+    target_path: Path = Path(str(TARGET_ROOT / source_suffix).replace(" ", "_").lower()).with_suffix(TARGET_EXT)
+    target_dir = target_path.parent
+    target_dir.mkdir(parents=True, exist_ok=True)
     
     with open(source_path, "r") as fr:
         lines = [line for l in fr.readlines() if (line := l.strip())]
-
-    if len(lines) > 0 and not lines[0].startswith("#"):
-        lines.insert(0, f"# {target_path[file_name_idx+1:]}".removesuffix(TARGET_EXT))
 
     validate(source_path, lines)
     
@@ -61,7 +54,7 @@ def write(source_path: str, force_regenerate: bool) -> None:
 
     source_lines = [l for l in lines if not l.startswith("#")]
     if len(dialog_indices) != len(source_lines):
-        print(f"ERROR - {target_path[len(TARGET_ROOT):]} and {source_path[len(SOURCE_ROOT):]} have different number of lines: rpy = {len(dialog_indices)}, md = {len(source_lines)}")
+        print(f"ERROR - '{target_path.relative_to(TARGET_ROOT)}' and '{source_suffix}' have different number of lines: rpy = {len(dialog_indices)}, md = {len(source_lines)}")
         return
     
     has_change = False
@@ -80,7 +73,8 @@ def write(source_path: str, force_regenerate: bool) -> None:
             fw.writelines(existing_lines)
        
 
-def validate(source_path: str, source_lines: list[str]) -> None:
+def validate(source_path: Path, source_lines: list[str]) -> None:
+    assert source_lines[0].startswith("#"), f"missing title starting with # ({source_path})"
     for (i, l) in enumerate(source_lines):
         # new label
         if l.startswith("#"):
@@ -104,7 +98,7 @@ def convert_line(line: str) -> str:
     return f"{result}\n"
 
 
-def generate_new(target_path: str, source_lines: list[str]):
+def generate_new(target_path: Path, source_lines: list[str]):
     first = True
     with open(target_path, "w") as fw:
         for l in source_lines:
