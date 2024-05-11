@@ -123,7 +123,9 @@ init python:
 
 style window is default
 style say_label is default
-style say_dialogue is default
+style say_dialogue:
+    line_leading 5
+    line_spacing 5
 style say_thought is say_dialogue
 
 style namebox is default

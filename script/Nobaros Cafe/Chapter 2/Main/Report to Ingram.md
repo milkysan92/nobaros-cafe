@@ -5,15 +5,17 @@ Emi: "Let's report back to Ingram and see how he's doing."
 
 *After checking that all the tools were back in place, I exit the storage room.*
 
-*Heading back to the counter, I spot Ingram looking over the cafe, lost in thought.*
+*The cafe is bathed in a soft, golden glow, casting long shadows that dance across the floor. With only a few lingering customers left, an intimate sense of tranquility envelops the space.*
 
-Emi: "(That's rare, I would've thought he would be in the middle of preparing drinks or something.)"
+*As I return to the counter, I notice Ingram standing there with a cloth in hand. Although he appears to be looking at the customers, his gaze is distant, as though he's staring at something far beyond the cafe walls.*
 
-Emi: "(I guess it is getting late, so there isn't as much traffic as before.)"
+Emi: "(That's rare, I thought he would've been in the middle of preparing drinks.)"
+ 
+Emi: "(But I guess it is getting late. Thankfully, there isn't as many people now, compared to this morning.)"
 
 Emi: "Ingram, I'm back!"
 
-*My voice seems to break his trance, and he glances over at me.*
+*My voice breaks his trance, drawing his previously distant eyes to focus on me. His expression shifts, a small smile playing on his lips as he turns to face my direction.*
 
 Ingram: "Welcome back. I take it that everything went smoothly?"
 
@@ -29,10 +31,14 @@ Ingram: "It was alright. Nothing out of the ordinary, which I'd consider to be a
 
 Emi: "(Now that I think about it, why isn't there anybody else working here?)"
 
-Emi: "(Managing this entire place alone must be a huge weight on Ingram's shoulders. So why doesn't he get more people to divide up the work?)"
+Emi: "(Managing this entire place alone must be a huge weight on Ingram's shoulders.)"
 
-Emi: "(I'm kind of curious, should I ask him?)"
+Emi: "(So why doesn't he get more people to divide up the work?)"
 
-Emi: "(Oh, but I should also tell him about how I ran into Kai, Akira and Annelise earlier. )"
+Emi: "(. . .I'm kind of curious.)"
+
+Emi: "(Should I ask him?)"
+
+Emi: "(Oh, but I should also let him know about how I ran into Kai, Akira and Annelise earlier. )"
 
 Emi: "(What should I tell him. . .?)"

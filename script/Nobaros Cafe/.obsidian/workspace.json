@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "284d1bee41f6dc25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Ingram/About Ingram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b82351017d041ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Chapter 2 Master.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -149,12 +173,14 @@
   },
   "active": "99603ae10adbdd86",
   "lastOpenFiles": [
+    "Chapter 2/Ingram/About Ingram.md",
+    "Chapter 2/Main/Report to Ingram.md",
+    "Chapter 2/Chapter 2 Master.md",
     "Chapter 2/Main/Cafe Intro.md",
     "Chapter 2/Kai/Macarons.md",
     "Chapter 2/Kai/Strawberry tart.md",
     "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 2/Kai/Meeting Kai.md",
-    "Chapter 2/Chapter 2 Master.md",
     "Chapter 3/Chapter 3 Master.md",
     "Chapter 4/Chapter 4 Master.md",
     "Chapter 2/Akira/Cafe duties.md",
@@ -166,10 +192,8 @@
     "Chapter 4",
     "Chapter 2/Chapter 2 Master 1.md",
     "Chapter 3",
-    "Chapter 2/Ingram/About Ingram.md",
     "About Ingram.md",
     "Chapter 2/Main/Meeting others.md",
-    "Chapter 2/Main/Report to Ingram.md",
     "Chapter 2/Main/Welcome dinner for Emi.md",
     "Chapter 2/Main/Taking a bath.md",
     "Chapter 2/Main/Table for 5.md",
