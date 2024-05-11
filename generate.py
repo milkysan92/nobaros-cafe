@@ -2,42 +2,37 @@
 
 import os
 import re
-import sys
+import argparse
 from pathlib import Path
 
-SOURCE_ROOT = './script/Nobaros Cafe'
-SOURCE_EXT = ".md"
-TARGET_ROOT = "./game/scripts"
+SOURCE_ROOT = 'script/Nobaros Cafe'
+TARGET_ROOT = "game/scripts"
 TARGET_EXT = ".rpy"
 
 def should_ignore_file(file: str) -> bool:
     return file.lower().endswith("master.md")
 
-IGNORE_DIRS = [
-    "./script/Nobaros Cafe/.obsidian"
-]
-
 def main():
-    force_regenerate = "--force" in sys.argv
-    for subdir, dirs, files in os.walk(SOURCE_ROOT):
-        if subdir in IGNORE_DIRS:
-            print(f"ignoring directory: {subdir}")
-            continue
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-f", "--files", help="the input file patterns", default="*.md")
+    parser.add_argument("-r", "--regenerate", help="force the regeneration of the scripts", action="store_true")
+    args = parser.parse_args()
+    force_regenerate = args.regenerate
         
-        for file in files:
-            path = os.path.join(subdir, file)
-            if should_ignore_file(path):
-                print(f"ignoring file: {path}")
-                continue
+    for file in Path(SOURCE_ROOT).rglob(args.files):
+        path: str = str(file)
+        if should_ignore_file(path):
+            print(f"ignoring file: {path}")
+            continue
 
-            if file.endswith(SOURCE_EXT):
-                write(path, force_regenerate)
+        write(path, force_regenerate)
 
 
 def write(source_path: str, force_regenerate: bool) -> None:
     suffix = source_path[len(SOURCE_ROOT):]
     target_path = f"{TARGET_ROOT}{suffix}".replace(" ", "_").lower()
-    target_path = target_path.removesuffix(SOURCE_EXT) + TARGET_EXT
+    idx = target_path.rfind(".")
+    target_path = target_path[:idx] + TARGET_EXT
     file_name_idx = target_path.rfind("/")
     directory_path = target_path[:file_name_idx]
 
@@ -49,7 +44,7 @@ def write(source_path: str, force_regenerate: bool) -> None:
     if len(lines) > 0 and not lines[0].startswith("#"):
         lines.insert(0, f"# {target_path[file_name_idx+1:]}".removesuffix(TARGET_EXT))
 
-    validate(lines)
+    validate(source_path, lines)
     
     if force_regenerate or not Path(target_path).is_file() or os.stat(target_path).st_size == 0:
         print(f"generating {source_path} ==> {target_path}")
@@ -85,16 +80,16 @@ def write(source_path: str, force_regenerate: bool) -> None:
             fw.writelines(existing_lines)
        
 
-def validate(source_lines: list[str]) -> None:
+def validate(source_path: str, source_lines: list[str]) -> None:
     for (i, l) in enumerate(source_lines):
         # new label
         if l.startswith("#"):
             continue
         # narrator
         elif l.startswith("*"):
-            assert l.endswith("*"), f"narrator line {i+1} '{l}' does not end with '*'"
+            assert l.endswith("*"), f"narrator line {i+1} '{l}' does not end with '*' ({source_path})"
         else: # character, convert name to lowercase
-            assert re.match(r".+: \"*\"", l), f"dialogue line {i+1} '{l}' is invalid"
+            assert re.match(r".+: \"*\"", l), f"dialogue line {i+1} '{l}' is invalid ({source_path})"
 
 
 def convert_line(line: str) -> str:
