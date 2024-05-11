@@ -40,5 +40,3 @@ Emi: "(. . .I'm kind of curious.)"
 Emi: "(Should I ask him?)"
 
 Emi: "(Oh, but I should also let him know about how I ran into Kai, Akira and Annelise earlier. )"
-
-Emi: "(What should I tell him. . .?)"

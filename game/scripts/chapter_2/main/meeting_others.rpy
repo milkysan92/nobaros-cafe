@@ -1,4 +1,4 @@
 label meeting_others:
-    narrator "A gut feeling tells me to leave the thought alone."
-    emi "I managed to meet Kai, Annelise and Akira while I was going around!"
+    emi "Actually, speaking of which, I ended up meeting the other roommates while going around the cafe!"
+    ingram "Ah, so you did end up seeing them after all. How did your introductions go?"
     return

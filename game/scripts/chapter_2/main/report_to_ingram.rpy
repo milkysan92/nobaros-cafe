@@ -28,5 +28,4 @@ label report_to_ingram:
     emi "(. . .I'm kind of curious.)"
     emi "(Should I ask him?)"
     emi "(Oh, but I should also let him know about how I ran into Kai, Akira and Annelise earlier. )"
-    emi "(What should I tell him. . .?)"
     return

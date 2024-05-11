@@ -1,4 +1,4 @@
 # Meeting others
-*A gut feeling tells me to leave the thought alone.*
+Emi: "Actually, speaking of which, I ended up meeting the other roommates while going around the cafe!"
 
-Emi: "I managed to meet Kai, Annelise and Akira while I was going around!"
+Ingram: "Ah, so you did end up seeing them after all. How did your introductions go?"
