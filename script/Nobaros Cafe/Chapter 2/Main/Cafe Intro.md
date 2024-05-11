@@ -21,7 +21,7 @@ Ingram: "Here, I made some iced coffee for us. I figured you might need a little
 
 *Ingram takes the seat in front of me, passing one of the drinks my way. I take the glass, divulging in the drink with modest sips to avoid spilling coffee on myself.*
 
-Emi: "(Oh? This coffee...)"
+Emi: "(Oh? This coffee. . .)"
 
 *My tastebuds are greeted by a delightful sweetness, a subtle hint of vanilla hidden within. In an instant, my sweet tooth kicks in, tempting me to devour the whole thing.*
 
@@ -63,7 +63,7 @@ Ingram: "Hmm? Of course, we're only halfway through the day. There's still lots 
 
 *I glance over at Ingram, who's already starting to wipe down the countertops and fill the coffee grinders.*
 
-Emi: ". . . *sigh*."
+Emi: ". . .*sigh*"
 
 Emi: "Alright then. What do we have to do?"
 
@@ -73,7 +73,7 @@ Ingram: "Well for starters, there's a little housekeeping that needs to be done.
 
 Ingram: "Let's see. . ."
 
-Ingram: "Well, the foyer needs some sweeping. . . and there's empty dishes that need to be collected from the tables. Oh, and the library corner could use some dusting. "
+Ingram: "Well, the foyer needs some sweeping. . . and there's empty dishes that need to be collected from the tables. Oh, and the library corner could use some dusting."
 
 Emi: ". . ."
 
@@ -93,19 +93,19 @@ Ingram: "You're still learning the ropes, so I think it's best if I handle those
 
 Ingram: "At least, until you're more comfortable with everything."
 
-Emi: "Oh. . . I guess that makes sense."
+Emi: "Oh. . .I guess that makes sense."
 
-Ingram: "Alright, let's get down to business then. I'm gonna go refill some of the pastries in the display case. You can find anything you need in the back."
+Ingram: "Alright, let's get down to business then. I'm going to go refill some of the pastries in the display case. You can find anything you need in the back."
 
 Emi: "Ah, yes boss!"
 
-*As Ingram heads over to the other side of the coun ter, I turn around to look for supplies in the back.*
+*As Ingram heads over to the other side of the counter, I turn around to look for supplies in the back.*
 
 Emi: "(Okay, let's do this!)" 
 
-Emi: "(I should follow Ingram's advice and just focus on one thing at a time. This will all be over in the blink of an eye.)"
+Emi: "(I should follow Ingram's advice and just focus on one thing at a time. This will all be over in the blink of an eye!)"
 
-*I smack my face twice in an attempt to pump myself up.
+*I smack my face twice in an attempt to pump myself up.*
 
 Ingram: ". . .pfft."
 
@@ -125,11 +125,11 @@ Ingram: "Though I didn't expect you to slap yourself as soon as I turned my back
 
 *Ingram nearly slips at the end of his sentence, but manages to keep himself together.*
 
-Emi: "(. . . isn't he enjoying this a little too much?)"
+Emi: "(. . .isn't he enjoying this a little too much?)"
 
 *I feel the burning sensation from my cheeks spread up to my ears.*
 
-Emi: "(I wish I could just jump into a hole and bury myself six feet under. I'm gonna die of embarrassment!)"
+Emi: "(I wish I can just jump in a hole and bury myself six feet under. I'm gonna die of embarrassment!)"
 
 Emi: "(I better change the subject before he says anything else. . .)"
 
@@ -139,7 +139,7 @@ Ingram: "Right, I wanted to let you know that you might meet some of the others 
 
 Ingram: "They often lounge around the cafe at this time."
 
-Ingram: "It's a good chance for you to introduce yourself and get to know them a bit if you'd like."
+Ingram: "It might be a good chance for you to introduce yourself and get to know them a bit if you'd like."
 
 Emi: "That's fair. What are their names?"
 
@@ -165,7 +165,7 @@ Emi: "Whoa! This place is surprisingly clean."
 
 *I'm pleasantly surprised by the level of organization.*
 
-*Rows of shelves line the walls from floor to ceiling, holding various cleaning supplies such as disinfectant spray bottles, sponges and cleaning cloths. The supplies are meticulously arranged by type, making them easy to find and access.*
+*Rows of shelves line the walls from floor to ceiling, holding various cleaning supplies such as disinfectant spray bottles, sponges and cleaning cloths. They are all meticulously arranged by type, making them easy to find and access.*
 
 *On the opposite end of the room, a large cooler stands. It seems to be well-maintained, containing unopened cartons of milk, cream and other baking ingredients.*
 
