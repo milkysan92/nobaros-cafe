@@ -84,7 +84,9 @@ Ingram: "Is that so? A penny for your thoughts?"
 
 Emi: "Well. . .I was just thinking about how glad I am to be here, to help lighten your load a bit."
 
-*Ingram's eyes widen, clearly taken aback by my response. There's a subtle shift in his expression, a brief moment of surprise that quickly fades. As soon as I register the change, he resumes the same smile as before.*
+*Ingram's eyes widen, clearly taken aback by my response. There's a subtle shift in his expression, a brief moment of surprise that quickly fades.*
+
+*As soon as I register the change, he resumes the same smile as before.*
 
 Ingram: "That'll depend on your capabilities. If you manage to learn things quickly, then maybe that might be true."
 

@@ -11,11 +11,28 @@
             "id": "88c0dd0ebcd00842",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New customer 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "989bfbe6be7170f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Ingram/About Ingram.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Emi: \" ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 2/Ingram/About Ingram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapter 2/Ingram/About Ingram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapter 2/Ingram/About Ingram.md"
+              }
             }
           }
         ]
@@ -140,30 +160,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88c0dd0ebcd00842",
+  "active": "989bfbe6be7170f0",
   "lastOpenFiles": [
     "Chapter 2/Main/Meeting others.md",
-    "Chapter 2/Ingram/About Ingram.md",
-    "Chapter 2/Main/Cafe Intro.md",
+    "New customer 2.md",
     "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Ingram/About Ingram.md",
+    "Chapter 2/Main/Report to Ingram.md",
+    "Chapter 2/Akira/Cafe duties.md",
+    "Chapter 2/Akira/Afternoon chat.md",
+    "Chapter 2/Akira/Meeting Akira.md",
+    "Chapter 2/Annelise/Shelve books.md",
+    "Chapter 2/Annelise/Continue dusting.md",
+    "Chapter 2/Annelise/Meeting Annelise.md",
+    "Chapter 2/Kai/Strawberry tart.md",
+    "Chapter 2/Kai/Macarons.md",
     "Chapter 2/Kai/Meeting Kai.md",
+    "Chapter 2/Main/Cafe Intro.md",
     "Chapter 4/Chapter 4 Master.md",
     "Chapter 4",
     "Chapter 3/Chapter 3 Master.md",
     "Chapter 3",
-    "Chapter 2/Kai/Strawberry tart.md",
-    "Chapter 2/Kai/Macarons.md",
-    "Chapter 2/Annelise/Shelve books.md",
-    "Chapter 2/Annelise/Continue dusting.md",
-    "Chapter 2/Akira/Cafe duties.md",
-    "Chapter 2/Akira/Afternoon chat.md",
-    "Chapter 2/Main/Report to Ingram.md",
     "Chapter 2/Main",
     "Chapter 2/Kai",
     "Chapter 2/Ingram",
-    "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 2/Annelise",
-    "Chapter 2/Akira/Meeting Akira.md",
     "Chapter 2/Akira",
     "Chapter 2/Meeting Kai.md",
     "Chapter 2/Intro to CH2.md",
