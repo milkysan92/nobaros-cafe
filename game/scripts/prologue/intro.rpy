@@ -1,4 +1,3 @@
-image swevenMirror = "sweven-mirror.jpg"
 image blank = "#000000"
 
 # A monologue about the significance of memories

@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "290c0bc65e8775d5",
+        "id": "b0a87fb76cd33ff2",
         "type": "tabs",
         "children": [
           {
-            "id": "99603ae10adbdd86",
+            "id": "96a8669819cf7d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Main/Report to Ingram.md",
+                "file": "Chapter 2/Main/New customer 2.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "284d1bee41f6dc25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Ingram/About Ingram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b82351017d041ca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -73,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Main/Report to Ingram.md",
+                "file": "Chapter 2/Main/New customer 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Main/Report to Ingram.md",
+                "file": "Chapter 2/Main/New customer 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Main/Report to Ingram.md"
+                "file": "Chapter 2/Main/New customer 2.md"
               }
             }
           }
@@ -171,42 +147,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99603ae10adbdd86",
+  "active": "96a8669819cf7d6e",
   "lastOpenFiles": [
-    "Chapter 2/Ingram/About Ingram.md",
     "Chapter 2/Main/Report to Ingram.md",
+    "Chapter 2/Ingram/About Ingram.md",
+    "Chapter 2/Main/New customer 2.md",
     "Chapter 2/Chapter 2 Master.md",
-    "Chapter 2/Main/Cafe Intro.md",
-    "Chapter 2/Kai/Macarons.md",
-    "Chapter 2/Kai/Strawberry tart.md",
-    "Chapter 2/Annelise/Meeting Annelise.md",
-    "Chapter 2/Kai/Meeting Kai.md",
-    "Chapter 3/Chapter 3 Master.md",
     "Chapter 4/Chapter 4 Master.md",
+    "Chapter 3/Chapter 3 Master.md",
+    "Chapter 2/Main/Meeting others.md",
+    "Game development roadmap.md",
+    "New customer 2.md",
+    "Untitled",
     "Chapter 2/Akira/Cafe duties.md",
-    "Chapter 2/Akira/Meeting Akira.md",
     "Chapter 2/Akira/Afternoon chat.md",
+    "Chapter 2/Akira/Meeting Akira.md",
     "Chapter 2/Annelise/Shelve books.md",
     "Chapter 2/Annelise/Continue dusting.md",
-    "Chapter 2/Kai/Choices",
+    "Chapter 2/Annelise/Meeting Annelise.md",
+    "Chapter 2/Kai/Strawberry tart.md",
+    "Chapter 2/Kai/Macarons.md",
+    "Chapter 2/Kai/Meeting Kai.md",
+    "Chapter 2/Main/Cafe Intro.md",
     "Chapter 4",
-    "Chapter 2/Chapter 2 Master 1.md",
     "Chapter 3",
-    "About Ingram.md",
-    "Chapter 2/Main/Meeting others.md",
-    "Chapter 2/Main/Welcome dinner for Emi.md",
-    "Chapter 2/Main/Taking a bath.md",
-    "Chapter 2/Main/Table for 5.md",
-    "Chapter 2/Main/Shimmering pond.md",
-    "Chapter 2/Main/Sakura grove.md",
-    "Chapter 2/Main/Pastry training with Ingram.md",
-    "Chapter 2/Main/Entering the mirror.md",
-    "Chapter 2/Ingram/Milk & honey.md",
     "Chapter 2/Main",
-    "Chapter 2/Ingram",
     "Chapter 2/Kai",
+    "Chapter 2/Ingram",
     "Chapter 2/Annelise",
     "Chapter 2/Akira",
+    "Chapter 2/Meeting Kai.md",
+    "Chapter 2/Intro to CH2.md",
+    "Chapter 2/Kai/Choices",
+    "Chapter 2/Chapter 2 Master 1.md",
+    "About Ingram.md",
+    "Chapter 2/Main/Welcome dinner for Emi.md",
+    "Chapter 2/Main/Taking a bath.md",
     "Chapter 2"
   ]
 }
