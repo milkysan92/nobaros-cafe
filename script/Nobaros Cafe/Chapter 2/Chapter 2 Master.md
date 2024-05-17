@@ -18,8 +18,8 @@ ingram-job[About Ingram]
 meeting-others[Meeting others]
 customer2[New customer 2]
 mirror2[Sweven mirror 2]
-pond[Shimmering pond]
-sakura[Sakura grove]
+waterfall[Waterfall]
+maple[Maple grove]
 celebrate-dinner[Welcome dinner]
 bathtime[Bath time]
 choose-drink[Something to drink]
@@ -55,9 +55,9 @@ meet-akira--Stay and chat-->chat-akira-->report-ingram
 meet-akira--Clear tables-->clean-akira-->report-ingram
 report-ingram--Describe encounters-->meeting-others
 report-ingram--Ask about Ingram-->ingram-job-->meeting-others
-meeting-others-->customer2-->mirror2--Go to pond-->pond
-mirror2--Go to sakura--> sakura
-sakura & pond-->celebrate-dinner
+meeting-others-->customer2-->mirror2--Follow the trail-->waterfall
+mirror2--Go to maple trees-->maple
+maple & waterfall-->celebrate-dinner
 celebrate-dinner-->bathtime
 bathtime--Head straight to bed-->night-akira
 bathtime--Head downstairs-->choose-drink
@@ -79,8 +79,8 @@ class school-dreams emi-route
 class CH2,report-ingram,meeting-others,customer2,mirror2,pond,sakura,celebrate-dinner,bathtime,choose-drink,school-dreams,masterchef,group-dinner internal-link
 
 %% Spiritguiding
-class mirror2,pond,sakura spirit-route
-class mirror2,pond,sakura internal-link
+class mirror2,waterfall,maple spirit-route
+class mirror2,waterfall,maple internal-link
 
 %% Ingram route
 class ingram-job,night-ingram,sweets-ingram ingram-route

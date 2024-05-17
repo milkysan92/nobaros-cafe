@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Main/New customer 2.md",
+                "file": "Chapter 2/Mirror/Maple grove.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "770f2649500378ff",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Main/New customer 2.md",
+                "file": "Chapter 2/Mirror/Maple grove.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Main/New customer 2.md",
+                "file": "Chapter 2/Mirror/Maple grove.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Main/New customer 2.md"
+                "file": "Chapter 2/Mirror/Maple grove.md"
               }
             }
           }
@@ -147,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96a8669819cf7d6e",
+  "active": "629c26ae813d7639",
   "lastOpenFiles": [
+    "Chapter 2/Mirror/Sweven Mirror 2.md",
+    "Chapter 2/Mirror/Maple grove.md",
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Mirror",
+    "Game development roadmap.md",
+    "Chapter 2/Main/New customer 2.md",
     "Chapter 2/Main/Report to Ingram.md",
     "Chapter 2/Ingram/About Ingram.md",
-    "Chapter 2/Main/New customer 2.md",
-    "Chapter 2/Chapter 2 Master.md",
     "Chapter 4/Chapter 4 Master.md",
     "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Main/Meeting others.md",
-    "Game development roadmap.md",
     "New customer 2.md",
-    "Untitled",
     "Chapter 2/Akira/Cafe duties.md",
     "Chapter 2/Akira/Afternoon chat.md",
     "Chapter 2/Akira/Meeting Akira.md",
@@ -182,7 +183,6 @@
     "Chapter 2/Chapter 2 Master 1.md",
     "About Ingram.md",
     "Chapter 2/Main/Welcome dinner for Emi.md",
-    "Chapter 2/Main/Taking a bath.md",
     "Chapter 2"
   ]
 }
