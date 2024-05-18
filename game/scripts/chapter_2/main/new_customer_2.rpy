@@ -1,15 +1,18 @@
 label new_customer_2:
+    scene cafe
+    show ingram at left
+    show emi at right
     uk_generic "Um, excuse me. . ."
     narrator "A hesitant voice breaks my train of thought, and I turn my head to find a man who appears quite disoriented."
-    show ingram at Position(xpos=800, xanchor='left')
-    show emi at Position(xpos=2050, xanchor='right')
+    show ingram at Position(xpos=1600, xanchor='left')
+    show emi at Position(xpos=4100, xanchor='right')
     with move
     show izumi_base at left with dissolve
     emi "Hi, how can I help you?"
     uk_generic "Do you know where I am? I think I'm a bit lost."
     emi "(He doesn't know where he is? Could he be a customer?)"
     narrator "I glance at Ingram, who seems to have realized what I was thinking. He nods at me, confirming my suspicions, and steps forward to greet the man."
-    show ingram at Position(xpos=750, xanchor='left') with move
+    show ingram at Position(xpos=1500, xanchor='left') with move
     ingram "Welcome to Nobaros, the realm situated between life and death."
     ingram "My name is Ingram, I work as a barista here at Nobaros Cafe."
     ingram "It's a pleasure to meet you. May I know how I should refer to you?"
@@ -50,33 +53,42 @@ label new_customer_2:
     izumi ". . ."
     emi "(Ingram, I'm begging you, please come back soon. . .)"
     narrator "I carefully watch Izumi out of the corner of my eye, trying to be as discreet as possible."
+    narrator "He appears to be studying the cafe interior, soaking in all the little details. His gaze becomes fixated on the array of coffee beans stacked against the wall, staring while deep in thought."
+    narrator "As he looks over the coffee selection, the ambient light accentuates his photogenic features, almost as if he came straight out of a book. Despite his towering height, he has a gentle demeanor that's far from intimidating."
     narrator "Interestingly, he doesn't seem very shocked or angry, despite his circumstances."
     emi "(Hmm, I thought he'd be more distressed in this situation.)"
     emi "(Obviously, nobody would be very happy after a heart attack, but he's strangely calm.)"
     emi "(If it were me in his position. . .)"
     narrator "A chill runs through my spine. Shaking my head, I decide not to explore that thought."
-    emi "(I don't want to accidentally jinx myself. I haven't recovered my memories yet.)"
-    emi "(Who knows what could've happened to me?)"
-    show ingram at Position(xpos=800, xanchor='left') behind emi with dissolve
-    show emi at Position(xpos=2050, xanchor='right') with move
+    emi "(Let's not accidentally jinx myself.)"
+    emi "(I haven't recovered my memories yet. Until then, who knows what could've happened to me?)"
+    show ingram at Position(xpos=1600, xanchor='left') behind emi with dissolve
+    show emi at Position(xpos=4100, xanchor='right') with move
     narrator "Just then, Ingram returns with a pot of freshly brewed sencha tea."
-    narrator "As he pours a cup for Izumi, hot steam emanates from the flowing stream, dissipating into the air with each passing moment."
+    ingram "Sorry for the wait, here's your sencha tea."
+    narrator "As Ingram pours some tea for Izumi, hot steam emanates from the spout, dissipating into the air with each passing moment."
+    izumi "Thank you, sorry for the trouble."
     narrator "As Izumi sips his tea, the tension in his shoulders disappears and his body deflates with a satisfied look."
-    narrator "Ingram starts explaining the spirit guiding process, while Izumi listens attentively, nodding every so often."
+    narrator "After a moment of relaxation, Ingram starts explaining the spirit guiding process. Izumi listens attentively, nodding with an acknowledging look every so often."
     emi "(. . .He hasn't questioned anything Ingram said so far. This guy really is handling himself well.)"
-    narrator "Izumi notices my gaze and turns to me."
+    narrator "Just as Ingram finishes his explanation, Izumi notices my gaze and turns to me."
     izumi "Um sorry, is there something on my face?"
     izumi "It's just that you're staring at me so intently. . ."
     emi "Oh no, sorry! I didn't mean to make you uncomfortable."
-    emi "I'm impressed by how well you're taking everything."
-    izumi "It's alright. No harm done."
-    ingram "All sorts of people come through these parts. Some take more time for the reality to set in."
-    ingram "But from what I can see, it almost seems like you've accepted what happened already."
+    izumi "It's alright, I was just a little anxious whether my glasses were offset or something."
+    emi "Don't worry, it's nothing like that. I was just impressed by how well you're taking Ingram's explanation."
+    emi "It's quite a lot of new information to take in, especially after you just learned about your. . .erm. . ."
+    izumi "It's okay, I'm alright. There's no need to beat around the bush, you can speak comfortably."
+    ingram "Emi does have a point though. All sorts of people come through these parts."
+    ingram "It usually takes time for the reality to set in, with some taking longer than others."
+    ingram "But from what I can see, it almost seems like you've accepted what happened already, is that right?"
+    izumi "Ah, well. . ."
+    narrator "Izumi averts his gaze, his eyes falling on the trail of steam rising lazily from his cup. Unspoken words and unresolved emotions are conveyed in his expression, but his lips don't move."
+    narrator "Finally, he speaks, his soft voice tinged with a hint of melancholy."
+    izumi "Would you care to listen to my story?"
+    ingram "Of course, go ahead. Whatever you're comfortable telling us."
+    ingram "It would help us understand you and your life better."
     izumi ". . ."
-    narrator "Izumi averts his gaze, his eyes falling on the trail of steam rising lazily from his cup."
-    izumi ". . .Would you care to listen to my story?"
-    ingram "Please, go right ahead. Whatever you're comfortable telling us."
-    ingram "It would help us understand you and your life experiences better."
     izumi ". . .I have what's called cardiomyopathy. It's a condition that makes it harder for my heart to pump blood."
     izumi "Because of my condition, I've dealt with heart complications all my life."
     izumi "Although I used to live in the city as a kid, my parents decided to move to the countryside when I entered middle school."
@@ -84,7 +96,7 @@ label new_customer_2:
     hide izumi_base
     show izumi_smile at left
     izumi "But as a kid, there was nothing more boring than being surrounded by nothing to do."
-    narrator "Izumi laughs, reminiscing his youth."
+    narrator "Izumi chuckles, his laughter carrying a hint of nostalgia as he reminisces his youth."
     izumi "I started picking up photography to pass the time. At first, it was just borrowing my dad's camera to take pictures of the cicadas during the summer."
     izumi "But over time, the hobby grew on me. That's how I became a photographer."
     emi "Oh wow, that's amazing! Did you ever publish your photos at an exhibition of some sorts?"
@@ -98,57 +110,78 @@ label new_customer_2:
     izumi "In fact, some of my favourite memories are from photography trips my sister organized. She'd find out about a scenic location from social media, then drag me there to sightsee and take photos."
     izumi "When I told her I wanted to go professional, she bought me a brand new camera for my birthday. It was the super expensive kind too."
     izumi "She was always supportive of me. Even after she moved out and got married, she kept the photography blog going."
-    narrator "A warm smile carves itself on Izumi's lips as he reminisces about his sister."
-    emi "(Seeing him talk so passionately about photography makes me feel all warm and fuzzy inside.)"
-    emi "(His sister must've been proud of him to support him so wholeheartedly. He talks about her so kindly.)"
+    narrator "A warm smile carves itself on Izumi's lips at the mention of his sister. He looks out the window with a tender look."
+    izumi "It was her way of trying to create memories with me."
+    izumi "With my heart condition, I couldn't help but get anxious about what would happen if I passed away at any given moment."
+    izumi "She was the one who showed me how to live in the present."
+    emi "(. . .His sister must've been proud of him to support him so wholeheartedly. He talks about her so kindly.)"
     hide izumi_smile
     show izumi_base at left
-    izumi "In spite of all that, there's just one thing I haven't been able to achieve."
+    izumi "Now that I'm here, it's sort of a funny feeling. On one hand, I really miss her."
+    izumi "But on the other hand, I'm really glad that I was able to leave behind all of my photos at least."
+    hide izumi_base
+    show izumi_smile at left
+    izumi "That way, a part of me will always remain by her side as she carries on with life."
+    hide izumi_smile
+    show izumi_base at left
+    izumi "So. . .I guess that's why in your eyes, I'm dealing with this relatively well. A part of me has always expected this to happen someday."
+    emi "I see. You're really mature for thinking that way, it's admirable."
+    hide izumi_base
+    show izumi_smile at left
+    izumi "Thanks for the compliment."
+    hide izumi_smile
+    show izumi_base at left
+    izumi ". . .There's just one thing I haven't been able to achieve as a photographer."
     izumi "To create my magnum opus. My one true masterpiece."
-    izumi "I definitely have photos that I'm proud of, but there was something missing from all of them."
+    izumi "There were definitely lots of photos that turned out beautifully, but there was always something missing from them."
     emi "What was missing? Was there a certain feeling or subject you were aiming for?"
-    narrator "Izumi shakes his head, staring down at his lap without an answer."
-    narrator "Judging from the melancholy in his expression, the idea of creating his magnum opus must've weighed heavily on him."
+    narrator "Izumi shakes his head, staring down at his lap without an answer. Judging from the melancholy in his expression, the topic must've weighed heavily on him."
     izumi "Unfortunately, I'm not actually sure what that 'something' is."
     izumi "I'm just not satisfied with the photos I've taken to date."
-    narrator "Izumi looks right at me and Ingram, his eyes carrying a determined glint that speaks of both regret and hope."
-    izumi "This must be what Ingram was referring to earlier about an unresolved matter from my life."
-    izumi "So if you guys are supposed to help me before I go. . .I'll definitely take this as another chance to create the photo I've been striving for."
-    ingram "I see, I admire your determination."
-    ingram "I'm sure once you find that missing puzzle piece, that perfectionist side of you won't burden you anymore."
+    narrator "Izumi meets our gaze, his eyes carrying a determined glint of hope."
+    narrator "In that moment, I realize that despite his gentle impression, there's a resilience in him; a quiet, stubborn strength to fulfill his desire."
+    izumi "So this spirit guiding thing. . ."
+    izumi "I'll use it as another chance to create the photo I've been striving for."
+    ingram ". . .I see, I applaud your resolve."
+    ingram "I'm sure once you find that missing puzzle piece, that desire of yours won't burden you anymore."
     ingram "And I'd wager your sister would want you to move on freely."
     ingram "Thank you for sharing about your life with us. We'll definitely do our best to help you."
     narrator "Ingram rises from his chair and walks over to Izumi, extending his hand."
-    narrator "Izumi accepts the gesture with a slight bow. A quiet understanding seems to form between the two, almost like an unspoken promise."
+    hide izumi_base
+    show izumi_smile at left
+    narrator "Izumi smiles, accepting the gesture with a slight bow. A quiet understanding seems to form between the two, almost like an unspoken promise."
+    hide izumi_smile
+    show izumi_base at left
     ingram "Emi, can you start stacking the chairs on the tables? I don't think we'll receive any more customers, so we'll be closing up shop a bit earlier than usual."
     ingram "We'll bring Izumi to the mirror afterwards."
     emi "Okay, just leave it to me! I'll get it done in no time."
     izumi ". . ."
     scene sweven_mirror with fade
-    show ingram at Position(xpos=800, xanchor='left') behind emi
-    show emi at Position(xpos=2050, xanchor='right')
+    show ingram at Position(xpos=1600, xanchor='left') behind emi
+    show emi at Position(xpos=4100, xanchor='right')
     show izumi_base at left
     with dissolve
     ingram "Here we are. This is the Sweven Mirror, where the spirit guiding will take place."
-    ingram "Once you enter, there's no coming back."
-    izumi "So this is where I'm going to. . ."
-    narrator "Izumi approaches the mirror, stopping just shy of it. For a moment, he appears to be pondering something."
-    narrator "But before long, he takes a deep breath and turns around to face me and Ingram."
+    ingram "Once you enter, you'll go through a dream sequence before finally being sent off to the afterlife."
+    izumi "So this is where it's all going to happen. . ."
+    narrator "Izumi approaches the mirror, stopping just shy of it. For a moment, he appears to be pondering something. But before long, he takes a deep breath and turns around to face me and Ingram."
+    izumi "Thank you for this. I really do appreciate it."
     hide izumi_base
     show izumi_smile at left
-    izumi "Thank you for this. I really do appreciate it."
-    narrator "Izumi's face lights up with determination, full of motivation and life."
+    narrator "Izumi's face lights up, his eyes shining with resolve. His expression is unwavering; a reflection of the courage he's mustered to face his past."
+    narrator "As he steps towards the mirror, its surface begins to shimmer with an ethereal light, enveloping him in a gentle embrace."
+    narrator "I watch as the light swirls around him, drawing him into its depths with a soft, almost melodic hum."
     hide izumi_smile with dissolve
     show ingram at left
     show emi at right
     with move
-    narrator "My chest tightens slightly as I watch him enter the mirror, its light enveloping him whole. As soon as there's no more trace of him, Ingram turns towards me."
+    narrator "As Izumi disappears into the mirror, its light slowly fades, leaving behind a lingering sense of peace. With a simple gesture, Ingram indicates that it's now my turn to enter."
     ingram "Emi, remember that you can always consult me if you get stuck while going through his memories."
     ingram "Just call for me, and I'll respond."
     emi "Thanks Ingram, I think I have an idea of what I'm doing."
-    narrator "Ingram smiles hearing my response and closes his eyes. Raising both arms, he opens his palms and mutters under his breath."
+    narrator "Ingram smiles at my response and closes his eyes. Raising both arms, he opens his palms and mutters under his breath."
     narrator "Within seconds, a blue luminescent aura forms itself around the both of us. A tender feeling courses through my body, bringing a sense of weightlessness."
-    emi "(The aura feels a lot gentler this time. Did he adjust his powers slightly to make me more comfortable?)"
+    emi "(The aura feels gentler this time. Did he adjust his powers slightly to make me more comfortable?)"
     narrator "With Ingram concentrating on maintaining the aura around us, I turn to face the mirror."
     emi "(Let's go. I'll do everything I can to help Izumi!)"
     return
