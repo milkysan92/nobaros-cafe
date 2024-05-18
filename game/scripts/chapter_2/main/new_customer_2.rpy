@@ -4,15 +4,16 @@ label new_customer_2:
     show emi at right
     uk_generic "Um, excuse me. . ."
     narrator "A hesitant voice breaks my train of thought, and I turn my head to find a man who appears quite disoriented."
+#TODO: Figure out how to simultaneously ease the duo while dissolving izumi
     show ingram at Position(xpos=1600, xanchor='left')
     show emi at Position(xpos=4100, xanchor='right')
-    with move
+    with ease
     show izumi_base at left with dissolve
     emi "Hi, how can I help you?"
     uk_generic "Do you know where I am? I think I'm a bit lost."
     emi "(He doesn't know where he is? Could he be a customer?)"
     narrator "I glance at Ingram, who seems to have realized what I was thinking. He nods at me, confirming my suspicions, and steps forward to greet the man."
-    show ingram at Position(xpos=1500, xanchor='left') with move
+    show ingram at Position(xpos=1500, xanchor='left') with ease
     ingram "Welcome to Nobaros, the realm situated between life and death."
     ingram "My name is Ingram, I work as a barista here at Nobaros Cafe."
     ingram "It's a pleasure to meet you. May I know how I should refer to you?"
@@ -36,7 +37,7 @@ label new_customer_2:
     ingram "Coming right up."
     hide ingram with dissolve
     show emi at right
-    with move
+    with ease
     narrator "Ingram leaves to go prepare the tea, leaving the two of us alone at the counter."
     narrator "As soon as Ingram is out of sight, Izumi turns to me with an uncertain look."
     izumi "So your name is. . .?"
@@ -63,24 +64,25 @@ label new_customer_2:
     emi "(Let's not accidentally jinx myself.)"
     emi "(I haven't recovered my memories yet. Until then, who knows what could've happened to me?)"
     show ingram at Position(xpos=1600, xanchor='left') behind emi with dissolve
-    show emi at Position(xpos=4100, xanchor='right') with move
-    narrator "Just then, Ingram returns with a pot of freshly brewed sencha tea."
-    ingram "Sorry for the wait, here's your sencha tea."
-    narrator "As Ingram pours some tea for Izumi, hot steam emanates from the spout, dissipating into the air with each passing moment."
+    show emi at Position(xpos=4100, xanchor='right') with dissolve
+    narrator "Just then, Ingram returns with a pot of freshly brewed sencha."
+    ingram "Sorry for the wait, here's your tea."
+    narrator "As Ingram pours a cup for Izumi, hot steam emanates from the spout, dissipating into the air with each passing moment."
     izumi "Thank you, sorry for the trouble."
-    narrator "As Izumi sips his tea, the tension in his shoulders disappears and his body deflates with a satisfied look."
+    narrator "As Izumi sips his drink, the tension in his shoulders disappears and his body deflates with a satisfied look."
     narrator "After a moment of relaxation, Ingram starts explaining the spirit guiding process. Izumi listens attentively, nodding with an acknowledging look every so often."
     emi "(. . .He hasn't questioned anything Ingram said so far. This guy really is handling himself well.)"
     narrator "Just as Ingram finishes his explanation, Izumi notices my gaze and turns to me."
     izumi "Um sorry, is there something on my face?"
     izumi "It's just that you're staring at me so intently. . ."
     emi "Oh no, sorry! I didn't mean to make you uncomfortable."
-    izumi "It's alright, I was just a little anxious whether my glasses were offset or something."
+    izumi "It's alright, I was just a little anxious whether my glasses were misaligned or something."
     emi "Don't worry, it's nothing like that. I was just impressed by how well you're taking Ingram's explanation."
     emi "It's quite a lot of new information to take in, especially after you just learned about your. . .erm. . ."
     izumi "It's okay, I'm alright. There's no need to beat around the bush, you can speak comfortably."
     ingram "Emi does have a point though. All sorts of people come through these parts."
-    ingram "It usually takes time for the reality to set in, with some taking longer than others."
+    ingram "It usually takes time for reality to set in, although it does vary from person to person."
+    ingram "Some need extra time to sort out their feelings, while others transition quite smoothly."
     ingram "But from what I can see, it almost seems like you've accepted what happened already, is that right?"
     izumi "Ah, well. . ."
     narrator "Izumi averts his gaze, his eyes falling on the trail of steam rising lazily from his cup. Unspoken words and unresolved emotions are conveyed in his expression, but his lips don't move."
@@ -145,6 +147,11 @@ label new_customer_2:
     ingram ". . .I see, I applaud your resolve."
     ingram "I'm sure once you find that missing puzzle piece, that desire of yours won't burden you anymore."
     ingram "And I'd wager your sister would want you to move on freely."
+    hide izumi_base
+    show izumi_smile at left
+    izumi "Yeah, I can just imagine her scolding me if I didn't."
+    hide izumi_smile
+    show izumi_base at left
     ingram "Thank you for sharing about your life with us. We'll definitely do our best to help you."
     narrator "Ingram rises from his chair and walks over to Izumi, extending his hand."
     hide izumi_base
@@ -156,7 +163,8 @@ label new_customer_2:
     ingram "We'll bring Izumi to the mirror afterwards."
     emi "Okay, just leave it to me! I'll get it done in no time."
     izumi ". . ."
-    scene sweven_mirror with fade
+    scene blank with bgwipe
+    scene sweven_mirror with bgwipe
     show ingram at Position(xpos=1600, xanchor='left') behind emi
     show emi at Position(xpos=4100, xanchor='right')
     show izumi_base at left
@@ -174,7 +182,7 @@ label new_customer_2:
     hide izumi_smile with dissolve
     show ingram at left
     show emi at right
-    with move
+    with ease
     narrator "As Izumi disappears into the mirror, its light slowly fades, leaving behind a lingering sense of peace. With a simple gesture, Ingram indicates that it's now my turn to enter."
     ingram "Emi, remember that you can always consult me if you get stuck while going through his memories."
     ingram "Just call for me, and I'll respond."
@@ -184,4 +192,7 @@ label new_customer_2:
     emi "(The aura feels gentler this time. Did he adjust his powers slightly to make me more comfortable?)"
     narrator "With Ingram concentrating on maintaining the aura around us, I turn to face the mirror."
     emi "(Let's go. I'll do everything I can to help Izumi!)"
+    scene swevenlight with swevenwipe_cw
+    pause(0.5)
+    scene blank with fade
     return

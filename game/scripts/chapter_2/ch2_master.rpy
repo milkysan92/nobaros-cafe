@@ -11,4 +11,5 @@ label ch2_master:
     #         narrator "A gut feeling tells me to leave the thought alone, so I decide to tell him about Kai, Akira and Annelise instead."
     # call meeting_others
     call new_customer_2
+    call sweven_mirror_2
     return

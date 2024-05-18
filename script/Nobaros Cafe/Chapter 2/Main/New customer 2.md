@@ -1,4 +1,3 @@
-
 # New customer 2
 UK_generic: "Um, excuse me. . ."
 
@@ -104,15 +103,15 @@ Emi: "(Let's not accidentally jinx myself.)"
 
 Emi: "(I haven't recovered my memories yet. Until then, who knows what could've happened to me?)"
 
-*Just then, Ingram returns with a pot of freshly brewed sencha tea.*
+*Just then, Ingram returns with a pot of freshly brewed sencha.*
 
-Ingram: "Sorry for the wait, here's your sencha tea."
+Ingram: "Sorry for the wait, here's your tea."
 
-*As Ingram pours some tea for Izumi, hot steam emanates from the spout, dissipating into the air with each passing moment.*
+*As Ingram pours a cup for Izumi, hot steam emanates from the spout, dissipating into the air with each passing moment.*
 
 Izumi: "Thank you, sorry for the trouble."
 
-*As Izumi sips his tea, the tension in his shoulders disappears and his body deflates with a satisfied look.*
+*As Izumi sips his drink, the tension in his shoulders disappears and his body deflates with a satisfied look.*
 
 *After a moment of relaxation, Ingram starts explaining the spirit guiding process. Izumi listens attentively, nodding with an acknowledging look every so often.*
 
@@ -126,7 +125,7 @@ Izumi: "It's just that you're staring at me so intently. . ."
 
 Emi: "Oh no, sorry! I didn't mean to make you uncomfortable."
 
-Izumi: "It's alright, I was just a little anxious whether my glasses were offset or something."
+Izumi: "It's alright, I was just a little anxious whether my glasses were misaligned or something."
 
 Emi: "Don't worry, it's nothing like that. I was just impressed by how well you're taking Ingram's explanation."
 
@@ -136,7 +135,9 @@ Izumi: "It's okay, I'm alright. There's no need to beat around the bush, you can
 
 Ingram: "Emi does have a point though. All sorts of people come through these parts."
 
-Ingram: "It usually takes time for the reality to set in, with some taking longer than others."
+Ingram: "It usually takes time for reality to set in, although it does vary from person to person."
+
+Ingram: "Some need extra time to sort out their feelings, while others transition quite smoothly."
 
 Ingram: "But from what I can see, it almost seems like you've accepted what happened already, is that right?"
 
@@ -233,6 +234,8 @@ Ingram: ". . .I see, I applaud your resolve."
 Ingram: "I'm sure once you find that missing puzzle piece, that desire of yours won't burden you anymore."
 
 Ingram: "And I'd wager your sister would want you to move on freely."
+
+Izumi: "Yeah, I can just imagine her scolding me if I didn't."
 
 Ingram: "Thank you for sharing about your life with us. We'll definitely do our best to help you."
 

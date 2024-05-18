@@ -1,4 +1,5 @@
 # Sweven Mirror 2
+*. . .*
 
 UK_generic: ". . .is."
 
@@ -110,7 +111,9 @@ Izumi: "Hmm, is that so. . ."
 
 Emi: "Everything ready to go? Shall we start shooting?"
 
-*Izumi gives a thumbs up and heads off towards a bridge in the distance, beginning to snap photos without a word.*
+*Izumi gives a thumbs up, indicating that he's ready to go.*
+
+*He heads off towards a bridge in the distance, beginning to snap photos without a word.*
 
 Emi: "(Hmm, I should probably let him focus on his own thing. He looks pretty content as is.)"
 
@@ -134,7 +137,7 @@ Emi: "This could be a great spot for a photoshoot with Izumi."
 
 *As I linger by the stream, the rhythmic sound of water splashing against the rocks becomes a soothing melody.*
 
-*I watch as people stroll by, their faces fill with awe and wonder. Some stop to whip out their phones and take photos, capturing the moment to cherish later.
+*I watch as people stroll by, their faces fill with awe and wonder. Some stop to whip out their phones and take photos, capturing the moment to cherish later.*
 
 *Eventually, I reluctantly tear myself away, deciding that I should go back to Izumi and tell him about my new discovery.*
 
@@ -180,7 +183,7 @@ Emi: "(This is the life! Homemade food really is the best.)"
 
 Emi: "By the way, Izumi, how did the photos turn out so far?"
 
-Izumi: They're okay, I guess. Here, you can have a look if you'd like."
+Izumi: "They're okay, I guess. Here, you can have a look if you'd like."
 
 *Izumi momentarily stops eating, wiping his hands in a meticulous manner before handing me his camera in a cautious manner.*
 
