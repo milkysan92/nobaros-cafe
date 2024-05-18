@@ -1,5 +1,4 @@
 image light = "#FFFFFF"
-image phantasia = "phantasia.png"
 
 # Emi awakens to a dream-like scene of clouds surrounding her
 # She wanders around, before accidentally falling into a pond 
