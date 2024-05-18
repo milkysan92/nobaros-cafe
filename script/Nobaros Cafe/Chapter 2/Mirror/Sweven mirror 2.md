@@ -28,19 +28,19 @@ Emi: "A-ahh, that's right! Sorry, I think I'm still half asleep."
 
 Emi: "Can you remind me where we're headed?"
 
-Izumi: "We're supposed to head to Momiji Park. It's apparently quite scenic at this time of year because all the leaves are starting to change colour."
+Izumi: "We're supposed to head to Momiji Park. It's apparently quite scenic at this time of year."
 
 Izumi: "Especially the maple trees at Momiji Shrine. I'm looking forward to seeing them myself."
 
-Izumi: "Anyways, you should get ready. It takes an hour to two to get there so we should head out as soon as we can."
+Izumi: "Anyways, you should get ready. It takes around one to two hours to get there so we should head out as soon as we can."
 
-*I watch as Izumi exits the room, closing the door with a solid thud behind him.* 
+*Izumi exits the room, closing the door with a solid thud behind him.* 
 
 *I slowly sit up from bed, stretching my arms towards the ceiling while letting out a deep yawn. A hint of sweet lavender blesses my nose, rousing me from my dazed state.*
 
 *In front of me, a wooden desk with a simple, minimalistic setup catches my eye. It features a large monitor, a few succulents, and a desk lamp designed like a calico cat. Soft morning rays filter through two big windows, casting an airy glow over the room.*
 
-*Immediately, I leap out of bed and rush to the mirror.*
+*Pushing the covers out of the way, I leap out of bed and walk over to the mirror to examine myself.*
 
 Emi: ". . .Eh?! Is this what I look like?"
 
@@ -92,7 +92,7 @@ Emi: "Let's just endure it and quickly get dressed."
 
 Emi: "We made it! And we're here before lunch too!"
 
-*As we enter the park, a kaleidoscope of red, orange and gold greets us. It's prime season for autumn foliage, with a canopy of trees arching overhead, blanketing the ground in brittle leaves that rustle softly underfoot.*
+*As we enter the park, a kaleidoscope of red, orange and gold greets us, indicating that it's prime season for autumn foliage. A canopy of trees arches overhead, blanketing the ground in brittle leaves that rustle softly underfoot.*
 
 *I glance back at Izumi, who's calmly trailing behind me.*
 
@@ -100,9 +100,9 @@ Izumi: ". . ."
 
 Emi: "What's with that look, Izumi?"
 
-Izumi: "Sis, you're unusually energetic today. Are you feeling alright?"
+Izumi: ". . .Sis, you're unusually energetic today. Are you feeling alright?"
 
-Emi: "E-eh? Ah, wwell, I just had a really good sleep! Yeah, that's it!"
+Emi: "E-eh? Ah, well, I just had a really good sleep! Yeah, that's it!"
 
 Izumi: "Hmm, is that so. . ."
 
@@ -120,21 +120,27 @@ Emi: "(In the meantime, let's explore the park!)"
 
 *I turn on my feet and decide to follow the park trail, eager to discover what the park has to offer.*
 
-*As I head down the trail, I eventually hear the sound of rushing water from afar. Curious, my feet bring me closer to the source.*
+*As I walk, the trail meanders through a dense thicket, surrounding me in a fiery display of autumn colours. The air is cool and fresh, leaving me rejuvenated with a rich, earthly scent. The sound of rushing water can be hear from afar, growing louder with each step I take.*
+
+*After some time, I find myself at the edge of a small clearing, where a picturesque scene unfolds before me.*
 
 Emi: "Whoa, this place looks amazing!"
 
-*I encounter a stunning waterfall that cascades down a series of rocks, dividing into smaller streams at each edge. Below the waterfall, a crystal-clear stream ripples along the riverbank, forming small bubbles that line its edge.*
+*A breathtaking waterfall cascades down a rocky formation, dividing into many smaller streams as it descends. Below, a clear stream ripples, creating small bubbles that rest along its banks. The scene leaves me speechless, completely captivated by its ephemeral beauty.*
 
-Emi: "This is a surprisingly nice location! I didn't expect to find this here."
+Emi: "This location is surprisingly beautiful! I never expected to find such a gem here."
 
-Emi: "Maybe I should bring Izumi here. I can see it being a good photoshoot location."
+Emi: "This could be a great spot for a photoshoot with Izumi."
 
-*I continue to loiter around the stream, watching the water splash against the stream's surface as other people come and go.*
+*As I linger by the stream, the rhythmic sound of water splashing against the rocks becomes a soothing melody.*
+
+*I watch as people stroll by, their faces fill with awe and wonder. Some stop to whip out their phones and take photos, capturing the moment to cherish later.
 
 *Eventually, I reluctantly tear myself away, deciding that I should go back to Izumi and tell him about my new discovery.*
 
-*When I return, I notice the sun peeking out from behind the clouds, and the air has grown warmer since our arrival. After wandering around , I manage to find Izumi at a park bench, enjoying a bento box from home.*
+*Upon my return, I notice the sun peeking through the clouds, casting a bright glow over the park. The air has grown noticeably warmer since we arrived, adding to the pleasant atmosphere.*
+
+*After some searching, I spot Izumi sitting on a bench, savoring a bento box brought from home.*
 
 Emi: "Izumi, I'm back!"
 
@@ -156,17 +162,19 @@ Emi: "We should definitely check it out together! I feel like it'd be a great sp
 
 Izumi: "Hmm, maybe. But let's eat lunch first and then decide."
 
+*Izumi smiles as he hands me a container, neatly wrapped in a ornamental cloth.*
+
 Izumi: "Here's your bento. I warmed it up at a nearby convenience store. You should eat before it gets cold."
 
 Emi: "Ah, thank you!"
 
-*I sit down next to Izumi as he hands me a bento box with some disposable chopsticks. Opening it, I find a meticulously prepared lunch.*
+*I sit down next to Izumi, grabbing the bento box from him as he digs around his bag for some disposable chopsticks. After getting through the knot on top, I open the box, revealing a mouthwatering lunch inside.*
 
-*Chicken karaage rests on a bed of green leaf lettuce, accompanied by rolls of tamagoyaki and a mix of cucumbers and cherry tomatoes. To top it all off, there's a piece of umeboshi cradled in some steaming rice.*
+*There's chicken karaage resting on a bed of green leaf lettuce, accompanied by rolls of tamagoyaki and a mix of cucumbers and cherry tomatoes. To top it all off, there's a piece of umeboshi cradled in some steaming rice.*
 
-Emi: "(Wow, this looks amazing!)"
+Emi: "(Wow, this looks so yummy!)"
 
-*I happily dig in, savouring each and every bite that enters my mouth.*
+*I happily dig in, savouring each and every bite.*
 
 Emi: "(This is the life! Homemade food really is the best.)"
 
@@ -174,13 +182,15 @@ Emi: "By the way, Izumi, how did the photos turn out so far?"
 
 Izumi: They're okay, I guess. Here, you can have a look if you'd like."
 
-*Izumi hands me his camera without hesitation. As I browse through the gallery, my eyes are treated to beautiful compositions of nature, from the vibrant colours of the autumn leaves to detailed photos of birds amongst the trees.*
+*Izumi momentarily stops eating, wiping his hands in a meticulous manner before handing me his camera in a cautious manner.*
+
+*As I browse through the gallery, my eyes are treated to beautiful compositions of nature. The gallery contains images featuring all sorts of subjects, from the vibrant trees to detailed photos of birds amongst the trees.*
 
 Emi: "These are incredible! Izumi, you-"
 
-*I glance at Izumi to compliment him, but my voice catches in my throat as soon as I see the disappointed expression on his face.*
+*I glance at Izumi to compliment him, but am taken aback as soon as I see the disappointed etched on his face.*
 
-*Suddenly, I'm reminded of his desire to create his magnum opus, a goal that has eluded him so far.*
+*Suddenly, I'm reminded of his desire to create his magnum opus, a goal that has eluded him until now.*
 
 Emi: "(Hmm, I thought that giving him the freedom to shoot on his own would have yielded some good results. But it seems like that's not the case.)"
 
@@ -195,6 +205,8 @@ Emi: "(Ingram, are you there? I need your advice on something.)"
 Emi: "(. . .)"
 
 Ingram: "(Hello? Can you hear me?)"
+
+Emi: "(. . .!)"
 
 Emi: "(Yes, loud and clear!)"
 
@@ -212,33 +224,41 @@ Ingram: "(No people? That's interesting.)"
 
 Ingram: "(When he first mentioned photography, I would've thought he did portraits of people or something.)"
 
-Emi: "(Wait you're right, I don't think I saw anybody in his gallery when I was going through it. Could it be that he doesn't have a model?)"
+Emi: "(Wait ,you're right, I don't think I saw anybody in his gallery when I was going through it. Could it be that he doesn't have a model?)"
 
-Ingram: "(I'm not sure what the reason might be, but I think it's worth getting him to try considering a different subject. Maybe a change of pace is what he needs.)"
+Ingram: "(I'm not sure what the reason might be.)"
 
-Emi: "(Okay! I'll try convincing him to do that. Thanks Ingram, I'm gonna talk to him right now.)"
+Ingram: "(But I think it's worth getting him to try considering a different subject. Maybe a change of pace is what he needs.)"
+
+Emi: "(Okay! I'll try convincing him to do that.)"
+
+Emi: "(Thanks Ingram, I'm gonna talk to him right now.)"
 
 Ingram: "(Anytime. Good luck.)"
 
-*I glance at Izumi, who is finishing up his bento. I feel hopeful, thinking that maybe Ingram's advice is what Izumi needs. Gathering some courage, I swallow and decide to just be as straightforward as I can.*
+*After my conversation with Ingram ends, I turn my attention to Izumi, who is finishing up his bento. A glimmer of hope sparks within me, wondering if Ingram's advice might be the key to helping Izumi.*
+
+*Gathering my courage, I resolve to be direct and approach Izumi.*
 
 Emi: "Izumi, I noticed something when I was going through your gallery."
 
 Izumi: "Huh? What is it?"
 
-Emi: "Your photos. . .they're very beautiful but there's no people. No portraits or headshots."
+Emi: "There's all sorts of different subjects in your photos, and they're very beautiful. But what stood out to me was that there wasn't any people. No portraits or headshots."
 
 Izumi: ". . .!"
 
 Emi: "So I was thinking, why don't we ask around and have you snap some photos of some random people for a change of pace?"
 
-*Izumi seems hesitant about the idea, but after thinking it over, he decides that it's worth a try.*
+*Izumi fidgets with his camera strap, a nervous energy palpable in his movements as he takes my suggestion into consideration. A crease forms between his brows, seeming anxious about approaching a stranger to model for him.*
+
+*Despite his nervousness, a flicker of determination lights up his eyes as he finally nods.*
 
 Izumi: ". . .Okay. Let's give it a try."
 
 Emi: "Great! We should also change our location too. You spent most of your time here, so we should explore a different part of the park!"
 
-Emi: "We can go to the waterfall I told you about earlier! It really is a nice place."
+Emi: "We can go to the waterfall I told you about earlier. It really is a nice place."
 
 Izumi: "That's true, you did mention that."
 
