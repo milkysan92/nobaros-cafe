@@ -5,15 +5,25 @@ label new_customer_2:
     uk_generic "Um, excuse me. . ."
     narrator "A hesitant voice breaks my train of thought, and I turn my head to find a man who appears quite disoriented."
 #TODO: Figure out how to simultaneously ease the duo while dissolving izumi
-    show ingram at Position(xpos=1600, xanchor='left')
-    show emi at Position(xpos=4100, xanchor='right')
-    with ease
-    show izumi_base at left with dissolve
+#TODO: Figure out how to write this ease transition as its own transform
+    show ingram:
+        left
+        easein 1.0 xpos 1600
+
+    show emi:
+        right
+        easein 1.0 xpos 4100
+    # show ingram at Position(xpos=1600, xanchor='left')
+    # show emi at Position(xpos=4100, xanchor='right')
+    pause(0.5)
+    show izumi at left with dissolve
     emi "Hi, how can I help you?"
     uk_generic "Do you know where I am? I think I'm a bit lost."
     emi "(He doesn't know where he is? Could he be a customer?)"
     narrator "I glance at Ingram, who seems to have realized what I was thinking. He nods at me, confirming my suspicions, and steps forward to greet the man."
-    show ingram at Position(xpos=1500, xanchor='left') with ease
+    show ingram:
+        xpos 1600
+        easein 1.0 xpos 1500
     ingram "Welcome to Nobaros, the realm situated between life and death."
     ingram "My name is Ingram, I work as a barista here at Nobaros Cafe."
     ingram "It's a pleasure to meet you. May I know how I should refer to you?"
@@ -64,7 +74,9 @@ label new_customer_2:
     emi "(Let's not accidentally jinx myself.)"
     emi "(I haven't recovered my memories yet. Until then, who knows what could've happened to me?)"
     show ingram at Position(xpos=1600, xanchor='left') behind emi with dissolve
-    show emi at Position(xpos=4100, xanchor='right') with dissolve
+    show emi:
+        right
+        easein 1.0 xpos 4100
     narrator "Just then, Ingram returns with a pot of freshly brewed sencha."
     ingram "Sorry for the wait, here's your tea."
     narrator "As Ingram pours a cup for Izumi, hot steam emanates from the spout, dissipating into the air with each passing moment."
@@ -95,20 +107,17 @@ label new_customer_2:
     izumi "Because of my condition, I've dealt with heart complications all my life."
     izumi "Although I used to live in the city as a kid, my parents decided to move to the countryside when I entered middle school."
     izumi "They thought a more peaceful lifestyle might've been better for me."
-    hide izumi_base
-    show izumi_smile at left
+    show izumi smile at left with faceswap
     izumi "But as a kid, there was nothing more boring than being surrounded by nothing to do."
     narrator "Izumi chuckles, his laughter carrying a hint of nostalgia as he reminisces his youth."
     izumi "I started picking up photography to pass the time. At first, it was just borrowing my dad's camera to take pictures of the cicadas during the summer."
     izumi "But over time, the hobby grew on me. That's how I became a photographer."
     emi "Oh wow, that's amazing! Did you ever publish your photos at an exhibition of some sorts?"
-    hide izumi_smile
-    show izumi_base at left
+    show izumi at left with faceswap
     izumi "Yes, my photos were often posted on a blog that was managed by my older sister."
     izumi "I was hesitant at first, but after some encouragement from my sister, I decided to let her post my photos."
     izumi "The blog ended up attracting a lot of attention, and people left really nice comments about how much they liked my photos. So after that, I continued to snap photos for her to post."
-    hide izumi_base
-    show izumi_smile at left
+    show izumi smile at left with faceswap
     izumi "In fact, some of my favourite memories are from photography trips my sister organized. She'd find out about a scenic location from social media, then drag me there to sightsee and take photos."
     izumi "When I told her I wanted to go professional, she bought me a brand new camera for my birthday. It was the super expensive kind too."
     izumi "She was always supportive of me. Even after she moved out and got married, she kept the photography blog going."
@@ -117,22 +126,17 @@ label new_customer_2:
     izumi "With my heart condition, I couldn't help but get anxious about what would happen if I passed away at any given moment."
     izumi "She was the one who showed me how to live in the present."
     emi "(. . .His sister must've been proud of him to support him so wholeheartedly. He talks about her so kindly.)"
-    hide izumi_smile
-    show izumi_base at left
+    show izumi at left with faceswap
     izumi "Now that I'm here, it's sort of a funny feeling. On one hand, I really miss her."
     izumi "But on the other hand, I'm really glad that I was able to leave behind all of my photos at least."
-    hide izumi_base
-    show izumi_smile at left
+    show izumi smile at left with faceswap
     izumi "That way, a part of me will always remain by her side as she carries on with life."
-    hide izumi_smile
-    show izumi_base at left
+    show izumi at left with faceswap
     izumi "So. . .I guess that's why in your eyes, I'm dealing with this relatively well. A part of me has always expected this to happen someday."
     emi "I see. You're really mature for thinking that way, it's admirable."
-    hide izumi_base
-    show izumi_smile at left
+    show izumi smile at left with faceswap
     izumi "Thanks for the compliment."
-    hide izumi_smile
-    show izumi_base at left
+    show izumi at left with faceswap
     izumi ". . .There's just one thing I haven't been able to achieve as a photographer."
     izumi "To create my magnum opus. My one true masterpiece."
     izumi "There were definitely lots of photos that turned out beautifully, but there was always something missing from them."
@@ -147,39 +151,35 @@ label new_customer_2:
     ingram ". . .I see, I applaud your resolve."
     ingram "I'm sure once you find that missing puzzle piece, that desire of yours won't burden you anymore."
     ingram "And I'd wager your sister would want you to move on freely."
-    hide izumi_base
-    show izumi_smile at left
+    show izumi smile at left with faceswap
     izumi "Yeah, I can just imagine her scolding me if I didn't."
-    hide izumi_smile
-    show izumi_base at left
+    show izumi at left with faceswap
     ingram "Thank you for sharing about your life with us. We'll definitely do our best to help you."
     narrator "Ingram rises from his chair and walks over to Izumi, extending his hand."
-    hide izumi_base
-    show izumi_smile at left
+    show izumi smile at left with faceswap
     narrator "Izumi smiles, accepting the gesture with a slight bow. A quiet understanding seems to form between the two, almost like an unspoken promise."
-    hide izumi_smile
-    show izumi_base at left
+    show izumi at left with faceswap
     ingram "Emi, can you start stacking the chairs on the tables? I don't think we'll receive any more customers, so we'll be closing up shop a bit earlier than usual."
     ingram "We'll bring Izumi to the mirror afterwards."
     emi "Okay, just leave it to me! I'll get it done in no time."
     izumi ". . ."
     scene blank with bgwipe
     scene sweven_mirror with bgwipe
+    pause(0.3)
     show ingram at Position(xpos=1600, xanchor='left') behind emi
     show emi at Position(xpos=4100, xanchor='right')
-    show izumi_base at left
+    show izumi at left
     with dissolve
     ingram "Here we are. This is the Sweven Mirror, where the spirit guiding will take place."
     ingram "Once you enter, you'll go through a dream sequence before finally being sent off to the afterlife."
     izumi "So this is where it's all going to happen. . ."
     narrator "Izumi approaches the mirror, stopping just shy of it. For a moment, he appears to be pondering something. But before long, he takes a deep breath and turns around to face me and Ingram."
     izumi "Thank you for this. I really do appreciate it."
-    hide izumi_base
-    show izumi_smile at left
+    show izumi smile at left with faceswap
     narrator "Izumi's face lights up, his eyes shining with resolve. His expression is unwavering; a reflection of the courage he's mustered to face his past."
     narrator "As he steps towards the mirror, its surface begins to shimmer with an ethereal light, enveloping him in a gentle embrace."
     narrator "I watch as the light swirls around him, drawing him into its depths with a soft, almost melodic hum."
-    hide izumi_smile with dissolve
+    hide izumi smile with dissolve
     show ingram at left
     show emi at right
     with ease

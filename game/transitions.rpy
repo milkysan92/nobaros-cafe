@@ -1,5 +1,31 @@
 # This is where any custom transitions will be defined
+
 init:
+# Transition for changing sprite expressions
+    $ faceswap = Dissolve(0.2)
+
+# Transform for being startled
+    transform startle(rate=0.050):
+        linear rate xoffset 2 yoffset -6
+        linear rate xoffset -2.8 yoffset -2
+        linear rate xoffset 2.8 yoffset -2
+        linear rate xoffset -2 yoffset -6
+        linear rate xoffset +0 yoffset +0
+
+# Transform for being hit (stubbing toe, falling, etc. . .)
+    transform impact(rate=0.090):
+        linear rate xoffset 4 yoffset -15
+        # linear rate xoffset -5.6 yoffset -4
+        linear rate xoffset 5.6 yoffset -4
+        # linear rate xoffset -4 yoffset -12
+        linear rate xoffset +0 yoffset +0
+
+# Modified ease transition for moving sprites
+    # transform ease(start, end, time):
+    #     # start and end must be in ATL language (right, left, etc...)
+    #     subpixel True
+    #     start
+    #     easein time end
 
 # BG Transition that wipes with black towards right
     $ bgwipe = ImageDissolve("Transitions/blank.png", 1.0, 32)
