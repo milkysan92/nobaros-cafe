@@ -31,6 +31,7 @@ label sweven_mirror_2:
     izumi "Just don't take too long. It takes around one to two hours to get there, so we should head out as soon as we can."
     show izumi smile with faceswap
     izumi "Otherwise, I'll just ditch you and head out myself."
+    ch2_emi "U-understood!"
     hide izumi smile with dissolve
     narrator "Izumi exits the room, closing the door with a solid thud behind him."
     narrator "I slowly sit up, stretching my arms towards the ceiling as a deep yawn escapes my mouth."
@@ -66,7 +67,7 @@ label sweven_mirror_2:
     show himari concern at impact with faceswap
     ch2_emi "AH!"
     narrator "Suddenly, my foot collides the edge of the bedframe. I fall to the floor, clutching my throbbing toe in agony."
-    ch2_emi "Ouchh, that hurts!"
+    ch2_emi "Ouch, that hurts!"
     ch2_emi "Seriously? Is this karma? I didn't even do anything. . ."
     ch2_emi ". . ."
     ch2_emi "Let's just endure it and quickly get dressed."
@@ -208,7 +209,6 @@ label sweven_mirror_2:
     scene blank with bgwipe
     scene momiji_park2 with bgwipe
     show himari with dissolve
-    pause(0.5)
     ch2_emi "(Alright, looks like I'm out of sight. Don't think anybody's going to disturb me here.)"
     ch2_emi "(Now then, I just need to focus. . .)"
     narrator "I close my eyes and begin clearing my mind. With each deep breath, my thoughts fade away one by one."
@@ -220,8 +220,9 @@ label sweven_mirror_2:
     ch2_emi "(Yes, loud and clear!)"
     ingram "(Okay. that's good. What's up?)"
     ch2_emi "(So Izumi and I are at this park and he's been shooting for a couple hours now.)"
-    ch2_emi "(But he doesn't seem to be getting any closer to getting the ideal photo he wanted originally.)"
-    ingram "(Hmm, do you know what he's been shooting so far?)"
+    ch2_emi "(But he doesn't seem to be getting any closer to achieving his goal.)"
+    ch2_emi "(I was trying to give him some space to snapshot whatever he wanted, but now, I'm not sure what to try next.)"
+    ingram "(Hmm, do you know what he's been interested in so far?)"
     ch2_emi "(Just various things related to nature, like birds and scenery.)"
     ingram "(No people? That's interesting.)"
     ingram "(When he first mentioned photography, I would've thought he did portraits of people or something.)"
@@ -249,7 +250,7 @@ label sweven_mirror_2:
     ch2_emi "Well, as I was making my way back, I realized something about your photos."
     izumi "Huh? What is it?"
     ch2_emi "When I was going through your gallery earlier, there were all sorts of different subjects. And they were all very lovely."
-    ch2_emi "But what stood out to me was that there wasn't any people. No portraits or headshots."
+    ch2_emi "But what stood out to me was that there weren't any people. No portraits or headshots whatsoever."
     ch2_emi "So I was thinking, why don't we ask around and have you snap some photos of some random people for a change of pace?"
     izumi ". . .!"
     narrator "Izumi fidgets with his camera strap, a nervous energy palpable in his movements. A crease forms between his brows, seemingly anxious about approaching a stranger out of the blue."

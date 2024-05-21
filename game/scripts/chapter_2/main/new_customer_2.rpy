@@ -70,7 +70,7 @@ label new_customer_2:
     emi "(Hmm, I thought he'd be more distressed in this situation.)"
     emi "(Obviously, nobody would be very happy after a heart attack, but he's strangely calm.)"
     emi "(If it were me in his position. . .)"
-    narrator "A chill runs through my spine. Shaking my head, I decide not to explore that thought."
+    narrator "A chill runs down my spine. Shaking my head, I decide not to explore that thought."
     emi "(Let's not accidentally jinx myself.)"
     emi "(I haven't recovered my memories yet. Until then, who knows what could've happened to me?)"
     show ingram at Position(xpos=1600, xanchor='left') behind emi with dissolve
@@ -97,8 +97,8 @@ label new_customer_2:
     ingram "Some need extra time to sort out their feelings, while others transition quite smoothly."
     ingram "But from what I can see, it almost seems like you've accepted what happened already, is that right?"
     izumi "Ah, well. . ."
-    narrator "Izumi averts his gaze, his eyes falling on the trail of steam rising lazily from his cup. Unspoken words and unresolved emotions are conveyed in his expression, but his lips don't move."
-    narrator "Finally, he speaks, his soft voice tinged with a hint of melancholy."
+    narrator "Izumi averts his gaze, his eyes settling on the trail of steam rising lazily from his cup. Unspoken words and unresolved emotions flicker across his expression, but his lips remain still."
+    narrator "He hesitates for a moment, searching for the right words. Finally, he speaks, his voice soft and tinged with a hint of vulnerability."
     izumi "Would you care to listen to my story?"
     ingram "Of course, go ahead. Whatever you're comfortable telling us."
     ingram "It would help us understand you and your life better."
@@ -180,13 +180,17 @@ label new_customer_2:
     narrator "As he steps towards the mirror, its surface begins to shimmer with an ethereal light, enveloping him in a gentle embrace."
     narrator "I watch as the light swirls around him, drawing him into its depths with a soft, almost melodic hum."
     hide izumi smile with dissolve
-    show ingram at left
-    show emi at right
-    with ease
-    narrator "As Izumi disappears into the mirror, its light slowly fades, leaving behind a lingering sense of peace. With a simple gesture, Ingram indicates that it's now my turn to enter."
+    show ingram:
+        xpos 1600
+        easein 1.0 left
+    show emi:
+        xpos 4100
+        easein 1.0 right
+    narrator "As Izumi disappears into the mirror, its light slowly fades, leaving behind a lingering sense of peace."
+    narrator "With a simple gesture, Ingram indicates that it's now my turn to enter."
     ingram "Emi, remember that you can always consult me if you get stuck while going through his memories."
-    ingram "Just call for me, and I'll respond."
-    emi "Thanks Ingram, I think I have an idea of what I'm doing."
+    ingram "Just step aside and call for me inside your mind, then I'll respond."
+    emi "Thanks Ingram, I'll do that if I need your help."
     narrator "Ingram smiles at my response and closes his eyes. Raising both arms, he opens his palms and mutters under his breath."
     narrator "Within seconds, a blue luminescent aura forms itself around the both of us. A tender feeling courses through my body, bringing a sense of weightlessness."
     emi "(The aura feels gentler this time. Did he adjust his powers slightly to make me more comfortable?)"

@@ -97,7 +97,7 @@ Emi: "(Obviously, nobody would be very happy after a heart attack, but he's stra
 
 Emi: "(If it were me in his position. . .)"
 
-*A chill runs through my spine. Shaking my head, I decide not to explore that thought.*
+*A chill runs down my spine. Shaking my head, I decide not to explore that thought.*
 
 Emi: "(Let's not accidentally jinx myself.)"
 
@@ -143,9 +143,9 @@ Ingram: "But from what I can see, it almost seems like you've accepted what happ
 
 Izumi: "Ah, well. . ."
 
-*Izumi averts his gaze, his eyes falling on the trail of steam rising lazily from his cup. Unspoken words and unresolved emotions are conveyed in his expression, but his lips don't move.*
+*Izumi averts his gaze, his eyes settling on the trail of steam rising lazily from his cup. Unspoken words and unresolved emotions flicker across his expression, but his lips remain still.*
 
-*Finally, he speaks, his soft voice tinged with a hint of melancholy.*
+*He hesitates for a moment, searching for the right words. Finally, he speaks, his voice soft and tinged with a hint of vulnerability.*
 
 Izumi: "Would you care to listen to my story?"
 
@@ -267,13 +267,15 @@ Izumi: "Thank you for this. I really do appreciate it."
 
 *I watch as the light swirls around him, drawing him into its depths with a soft, almost melodic hum.*
 
-*As Izumi disappears into the mirror, its light slowly fades, leaving behind a lingering sense of peace. With a simple gesture, Ingram indicates that it's now my turn to enter.*
+*As Izumi disappears into the mirror, its light slowly fades, leaving behind a lingering sense of peace.*
+
+*With a simple gesture, Ingram indicates that it's now my turn to enter.*
 
 Ingram: "Emi, remember that you can always consult me if you get stuck while going through his memories."
 
-Ingram: "Just call for me, and I'll respond."
+Ingram: "Just step aside and call for me inside your mind, then I'll respond."
 
-Emi: "Thanks Ingram, I think I have an idea of what I'm doing."
+Emi: "Thanks Ingram, I'll do that if I need your help."
 
 *Ingram smiles at my response and closes his eyes. Raising both arms, he opens his palms and mutters under his breath.*
 

@@ -49,6 +49,8 @@ Izumi: "Just don't take too long. It takes around one to two hours to get there,
 
 Izumi: "Otherwise, I'll just ditch you and head out myself."
 
+CH2_Emi: "U-understood!"
+
 *Izumi exits the room, closing the door with a solid thud behind him.* 
 
 *I slowly sit up, stretching my arms towards the ceiling as a deep yawn escapes my mouth.*
@@ -111,7 +113,7 @@ CH2_Emi: "AH!"
 
 *Suddenly, my foot collides the edge of the bedframe. I fall to the floor, clutching my throbbing toe in agony.*
 
-CH2_Emi: "Ouchh, that hurts!"
+CH2_Emi: "Ouch, that hurts!"
 
 CH2_Emi: "Seriously? Is this karma? I didn't even do anything. . ."
 
@@ -333,9 +335,11 @@ Ingram: "(Okay. that's good. What's up?)"
 
 CH2_Emi: "(So Izumi and I are at this park and he's been shooting for a couple hours now.)"
 
-CH2_Emi: "(But he doesn't seem to be getting any closer to getting the ideal photo he wanted originally.)"
+CH2_Emi: "(But he doesn't seem to be getting any closer to achieving his goal.)"
 
-Ingram: "(Hmm, do you know what he's been shooting so far?)"
+CH2_Emi: "(I was trying to give him some space to snapshot whatever he wanted, but now, I'm not sure what to try next.)"
+
+Ingram: "(Hmm, do you know what he's been interested in so far?)"
 
 CH2_Emi: "(Just various things related to nature, like birds and scenery.)"
 
@@ -375,7 +379,7 @@ Izumi: "Huh? What is it?"
 
 CH2_Emi: "When I was going through your gallery earlier, there were all sorts of different subjects. And they were all very lovely."
 
-CH2_Emi: "But what stood out to me was that there wasn't any people. No portraits or headshots."
+CH2_Emi: "But what stood out to me was that there weren't any people. No portraits or headshots whatsoever."
 
 CH2_Emi: "So I was thinking, why don't we ask around and have you snap some photos of some random people for a change of pace?"
 

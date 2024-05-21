@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
-                "mode": "preview",
+                "file": "Chapter 2/Main/New customer 2.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Mirror/Sweven mirror 2.md",
+                "file": "Chapter 2/Main/New customer 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Mirror/Sweven mirror 2.md",
+                "file": "Chapter 2/Main/New customer 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Mirror/Sweven mirror 2.md"
+                "file": "Chapter 2/Main/New customer 2.md"
               }
             }
           }
@@ -159,12 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40005a03ec630de4",
+  "active": "795e27fa510cbfbb",
   "lastOpenFiles": [
-    "Chapter 2/Mirror/Waterfall.md",
-    "Chapter 2/Chapter 2 Master.md",
     "Chapter 2/Mirror/Sweven mirror 2.md",
     "Chapter 2/Main/New customer 2.md",
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Mirror/Waterfall.md",
     "Chapter 2/Mirror/Maple grove.md",
     "Chapter 2/Mirror/Sweven Mirror 2.md",
     "Chapter 2/Mirror",
