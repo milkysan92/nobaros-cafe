@@ -12,6 +12,12 @@ label ch2_master:
     # call meeting_others
     call new_customer_2
     call sweven_mirror_2
-    call waterfall
-    # call maple_grove
+    # TODO: Put this choice menu in sweven_mirror_2
+    menu:
+        ch2_emi "(Hmm, where should we go?)"
+        "Waterfall":
+            call waterfall
+        "Maple tree grove":
+            call maple_grove
+
     return

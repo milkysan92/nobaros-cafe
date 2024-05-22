@@ -73,7 +73,7 @@ init:
     $ w18 = ImageDissolve("Transitions/18.png", 1.0, 8)
     $ w19 = ImageDissolve("Transitions/19.jpg", 1.0, 8)
 
-    # Mirror transition
+    # Mirror transition; cw for entering and ccw for exiting
     $ swevenwipe_cw = ImageDissolve("Transitions/20.jpg", 1.5, 16)
     $ swevenwipe_ccw = ImageDissolve("Transitions/20.jpg", 1.5, 16, reverse=True)
 

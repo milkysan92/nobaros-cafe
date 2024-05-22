@@ -266,4 +266,5 @@ label sweven_mirror_2:
     izumi "Ah, but I was really looking forward to seeing the maple trees too. . ."
     show izumi smile at left with faceswap
     izumi ". . .But I trust your opinion sis. What do you think?"
+    show izumi with faceswap
     return
