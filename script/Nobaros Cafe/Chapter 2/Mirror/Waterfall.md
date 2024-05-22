@@ -1,149 +1,172 @@
 # Waterfall
-Emi: "I think we should head to the waterfall. I really want to show it to you."
+CH2_Emi: "I think we should head to the waterfall. I really want to show it to you."
 
 *Izumi nods, complying with my decision.*
 
 Izumi: "Okay, if that's what you think. I'll follow you."
 
-*He quickly packs up our lunches, and soon we're on our feet, heading down the trail, eager to try something new for the photoshoot.*
+*He quickly packs up our lunches, and soon we're on our feet, eager to try something new for the photoshoot.*
 
-Emi: "(I hope this works! I really want him to figure out what his 'missing something' is.)"
+CH2_Emi: "(I hope this works! I really want him to figure out what he's missing.)"
 
-*After a while, I manage to pick up the faint sounds of crashing water in the distance.*
+*After treading down the path for a while, I eventually manage to pick up the faint sounds of crashing water again.*
 
-Emi: "The sound of water! We're almost there, Izumi!"
+CH2_Emi: "I hear the waterfall! We're almost there, it's just right up ahead!"
 
-*I run ahead, leading Izumi to the waterfall. Unlike earlier, there are fewer people around, reducing the chance of photobombs.*
+*I grow excited and prepare myself to run down the path, only to be stopped by Izumi's firm grip on my wrist.*
 
-Emi: "Here it is! What do you think?"
+Izumi: "Sis, don't go running off. You know I can't take strenuous exercise. My heart won't be able to keep up."
 
-*Izumi walks past me, his mouth agape. He looks around in awe, taking in the breathtaking sight before him.*
+CH2_Emi: "Oh, that's right. Sorry, I got too excited for a second there."
 
-Izumi: ". . .You were right sis, this place is beautiful. I feel so peaceful, maybe even alive."
+CH2_Emi: "Let's just walk at our own pace then."
 
-Izumi: "It inspires me to take more photos."
+CH2_Emi: "Here it is! What do you think?"
 
-Emi: "(That's a good sign! If he feels inspired, maybe it'll influence the photoshoot.)"
+*Izumi walks past me, his mouth agape as he takes in the breathtaking sight before him.*
 
-Izumi: "Ah, but you mentioned taking pictures of people for a change. Who should we ask?"
+Izumi: ". . .You were right, sis. This place is quite nice. Watching the waterfall feels therapeutic."
 
-*Izumi looks at me with a hesitant look, anxiety evident in his eyes. I scour the area, trying to look for someone who seems like they'd be willing to model.*
+Izumi: "And it would make a good subject for photos."
 
-Emi: "(Hmm, I guess we could technically ask any one of these people here. But they're all engrossed in taking pictures on their phones.)"
+CH2_Emi: "(That's a good sign! If he feels inspired, maybe it'll influence the photoshoot.)"
 
-Emi: "(Izumi seems nervous. Is he anxious about asking a random stranger to model for him?)"
+Izumi: "Ah, but you mentioned taking pictures of people for a change right? Who should we ask?"
 
-Emi: "(If that's the case, then maybe I should try and make him feel comfortable and in his element.)"
+*I scan the area, searching for someone who might be open to modelling.*
 
-Emi: "I can model for you. Since you haven't taken anybody's portrait before, why not start with me? It'll be more comfortable, and you can have me change poses all you want!"
+CH2_Emi: "(Hmm, technically, we could ask any one of these people here. But they all seem preoccupied in taking their own photos.)"
 
-*As if on cue, Izumi sighs in relief at my suggestion.*
+Izumi: "Um, maybe I should just take more nature shots instead. I mean, people might not want to be bothered. . ."
 
-Izumi: "I'm down for that idea. Let me go get my camera ready then."
+CH2_Emi: "(. . .He seems just as nervous as earlier. Maybe he's more anxious about this than I realized.)"
 
-*Izumi uncaps his camera and double checks everything, moving excitedly in an animated motion.*
+CH2_Emi: "That's okay, we don't have to ask someone else if they're busy. How about I model for you instead?"
 
-Emi: "(Seems like I was right on the money. Is that why he hasn't taken pictures of anybody until now?)"
+CH2_Emi: "It'll be more comfortable, and you can direct me as much as you need!"
 
-Izumi: "Okay, I'm good to go. Could I get you to stand closer to the rocks over there and strike a pose?"
+*Izumi sighs in relief at my suggestion.*
 
-Emi: "Got it! What kind of pose should I do?"
+Izumi: "I'm down for that idea. Let me get my camera ready then."
 
-Izumi: "Hmm, I don't think you need to think too hard about it."
+*Izumi uncaps his camera and double-checks everything, moving excitedly.*
 
-Izumi: "Just look at me and smile."
+CH2_Emi: "(Seems like I was right about his social anxiety. Is that why he hasn't taken pictures of anyone until now?)"
 
-*I nod at Izumi's advice, and cautiously make my way over to the river bank. Taking a moment to position myself amongst the rocky shoreline, I strike a pose, flashing a bright smile.*
+Izumi: "Okay, I'm good to go. Could you stand closer to the rocks over there and strike a pose?"
 
-*It takes Izumi a moment to find the right angles but eventually, he gets into the zone and shoots away. As the sun slowly descending from its peak, he tries different poses and locations around the waterfall, trying to capture the perfect moment.*
+CH2_Emi: "Got it! What kind of pose should I do? Do you want me to change it up every once in a while?"
+
+Izumi: "Hmm, you can do whatever feels natural to you. I don't think you need to think too hard about it."
+
+Izumi: "If you really can't think of anything, just look at me and smile."
+
+Izumi: "I'll figure something out."
+
+*I nod at Izumi's advice, and cautiously make my way over to the riverbank. Taking a moment to position myself amongst the rocks, I strike a pose, flashing a bright smile.*
+
+*It takes Izumi a moment to find the right angles but eventually, he gets into the zone and shoots away.*
+
+*With the sun slowly descending, he tries different poses and locations around the waterfall, trying to capture the perfect moment.*
 
 Izumi: ". . .!"
 
-**Izumi:** "Himari, freeze! Stay right in that position, this is a good shot."
+Izumi: "Himari, freeze! Stay right in that position, this is a good shot."
 
 *Just as the sun casts its golden glow over me, Izumi's shutter goes off, capturing another series of photos.*
 
 Izumi: "Okay, I'm all done. You can relax now."
 
-Emi: "(Ahh, finally finished! That was a long photoshoot, I hope I posed well enough.)"
+CH2_Emi: "(Ah, finally finished! That was a long photoshoot, I hope I posed well enough.)"
 
 *I walk over to Izumi, who is intently reviewing the photos on his camera.*
 
-**Emi:** "How did the photos turn out? Did we capture what you were looking for?"
+CH2_Emi: "How did the photos turn out? Did we capture what you were looking for?"
 
-*I place a hand on Izumi's shoulder and peer into the camera screen with him. There's an ethereal headshot of me, my expression trance-like as I gaze into the distance. The spray from the waterfall creates a rainbow, enhancing the whole composition with a delicate, shimmering backdrop.*
+*I place a hand on Izumi's shoulder and peer into the camera screen with him.*
 
-Emi: "(Wow, what an enchanting headshot! Did he really take these just now?)"
+*There's an ethereal headshot of me, my expression trance-like as I gaze into the distance. The spray from the waterfall forms a rainbow, enhancing the whole composition with a delicate, shimmering backdrop.*
 
-*I turn to Izumi to ask for his opinion, but his disappointed expression stops me. It tells me all I need to know.*
+CH2_Emi: "(Wow, what an enchanting headshot! Is this really me?)"
 
-**Izumi:** "They're good photos, but. . ."
+*I turn to Izumi to ask for his opinion, but his disappointed expression stops me.*
 
-Emi: ". . .Nothing felt different this time?"
+Izumi: "They're good photos, but. . ."
+
+CH2_Emi: ". . .Nothing felt different this time?"
 
 Izumi: "No, unfortunately not."
 
 Izumi: "Looking at these photos, it's like. . .they're empty. I don't know how to describe it."
 
-Izumi: "It's like I'm looking for something that I can't quite capture with my camera."
+Izumi: ". . .Perhaps my skills just aren't there yet. Maybe I'm trying to capture something beyond my reach."
 
-Izumi: "Maybe I need more experience. My skills aren't enough to achieve what I want to see yet."
+CH2_Emi: "But you're an amazing photographer! You've been shooting for so long, and your pictures get a lot of attention on the blog!"
 
-Emi: "But your pictures are great, and they get a lot of attention on the blog!"
+Izumi: "Well, that doesn't mean that I've learned it all. There's always room for improvement."
 
-Izumi: "But they don't satisfy me. I need to grow more as a photographer. . ."
+Izumi: "I guess I'm being too perfectionistic. I'll need to grow more as a photographer first. . ."
 
-*Izumi's frustration is evident as he packs his camera.*
+*Izumi's frustration is evident as he packs his camera. I watch him silently, trying to figure out how to comfort him.*
 
-*I watch him silently, trying to figure out how to comfort him. The purpose of this entire trip was for him to capture the perfect photo, and now the day is almost over without any successful shots. I feel helpless.*
+CH2_Emi: "(I was so sure this would work. I must've had the wrong idea. . .)"
 
-Emi: "(I was so sure this would work. Maybe I had the wrong idea. . .)"
+CH2_Emi: ". . .I'm sorry, I should've listened to you about seeing the maple trees instead. Maybe you could've found your answer there."
 
-Emi: "(Izumi wanted to go see the maple trees, but I was too focused on the beauty of this location. Would it have been better to follow his wishes instead?)"
+Izumi: "It's okay, sis. You were doing your best to help."
 
-Emi: ". . .I'm sorry, I should've listened to you about wanting to go see the maple trees instead. Maybe you could've found your answer there."
+Izumi: "If anything, at least I got to try something new through this experience."
 
-**Izumi:** "It's okay, sis. You were doing your best to help."
+Izumi: "It made me realize I still have a lot to learn before I can really be satisfied with myself."
 
-Izumi: "If anything, at least I got to try something new through this experience. Thanks for bringing me here."
+Izumi: "Thanks for bringing me here, it was fun."
 
 Izumi: ". . .Let's head home. It's getting late."
 
-*Izumi smiles faintly before turning back in the direction we came from. As I trail behind him, I watch his back, unable to shake off the guilt in my heart.*
+*Izumi smiles faintly before turning back in the direction we came from. As I trail behind him, I watch his back, unable to shake off the guilt.*
 
-Emi: ". . ."
+CH2_Emi: "(He says that, but he doesn't have any more time. . .)"
+
+CH2_Emi: "(I'm sorry I wasn't able to help you. . .)"
+
+CH2_Emi: ". . ."
+
+*. . .*
 
 Ingram: "Welcome back. It's over now."
 
-Emi: "Hmm. . .?"
+CH2_Emi: "Hmm. . .?"
 
 *I slowly open my eyes, seeing Ingram standing right in front of me.*
 
-Emi: "I'm back. . ."
+CH2_Emi: "I'm back. . ."
 
 Ingram: "How did everything go?"
 
-*I turn my gaze away from Ingram, the guilt weighing down on me.*
 
-Emi: "(I was so motivated to help Izumi, but in the end, he wasn't able to find his answer. . .)"
+*I turn my gaze away, the guilt weighing down on me like a heavy stone pressing on my chest. His question is innocent, yet it feels like an added burden, a reminder of my inability to help Izumi.*
 
-*Ingram silently observes me. I struggle to find the words, but before I'm able to piece together an answer to his question, he places a hand on my head.*
+CH2_Emi: "(I was so motivated to help Izumi, but in the end, he couldn't find his answer. . .)"
 
-Emi: ". . . !"
+*I feel Ingram's stare burning into me, yet I struggle to find the words to respond to him. Before I'm able to piece together an answer to his question, he places a hand on my head.*
+
+CH2_Emi: ". . . !"
 
 Ingram: "You don't need to tell me. I can see it in your face."
 
-Ingram: "It's not easy being in this role. Despite all your efforts, not everybody gets their happy ending."
+Ingram: "It's okay, this isn't an easy role. Despite all your efforts, not everybody gets their happy ending."
 
 Ingram: "Our job is to provide second chances, but we can't guarantee success."
 
-*I can't help but feel a little more glum at Ingram's words, which bring a bittersweet comfort.*
+Ingram: "Don't beat yourself up over it."
 
-Emi: "I just. . ."
+*I can't help but feel glum at Ingram's words, which bring a bittersweet comfort.*
 
-Emi:  "It's unfortunate that he left without a proper conclusion to his life's work."
+CH2_Emi: "I just. . ."
 
-Ingram: "In the end, Izumi may not have been able to achieve his goal as a photographer ."
+CH2_Emi: "It's unfortunate that he left without a proper conclusion to his life's work."
+
+Ingram: ". . .In the end, Izumi may not have been able to achieve his goal as a photographer."
 
 Ingram: "But it wasn't in vain. You were able to give him one last trip with his sister."
 
@@ -151,16 +174,20 @@ Ingram: "As a brother, don't you think he would've been happy going on another a
 
 Ingram: "Surely, that must've meant something to him."
 
-*Ingram's words lift my spirits, bringing me some comfort. It helps to know that, in some small way, I was able to add to Izumi's happiness.*
+*Ingram's words lift my spirits, offering a glimmer of comfort. It's reassuring to think that maybe, just maybe, I did bring some happiness to Izumi.*
 
-Emi: ". . .You're right. Thanks Ingram."
+*Yet a part of me hesitates to fully accept it, knowing deep down that Izumi's unfulfilled desire still lingers.*
 
-Emi: "You know, this experience makes me curious about what's in store for me later, when I recover my own memories."
+*As I mull over Ingram's perspective and reflect on my actions inside the mirror, his advice begins to sink in. Perhaps he's right, and the day wasn't entirely in vain.*
+
+CH2_Emi: ". . .I guess you have a point. Thanks Ingram."
+
+CH2_Emi: "You know, this experience makes me curious about what's in store for me later, when I recover my own memories."
 
 Ingram: "Who knows? As you continue these spirit guiding missions, there'll be a good chance that it'll help jog your memories."
 
 Ingram: "It's getting late now. We should head back home and join the others for dinner. I'm sure they're getting hungry."
 
-Emi: "That's a good idea, I'm also starved."
+CH2_Emi: "That's a good idea, I'm also starved."
 
-Emi: "Let's head out then!"
+Ingram: "Let's get going then."
