@@ -24,7 +24,7 @@ label waterfall:
     ch2_emi "I see, you really put a lot of thought behind these pictures, huh?"
     izumi "Yeah, that's right. Even though they're still images, they feel alive in a way. Whenever I attend exhibitions, that's the feeling I get from the work of other photographers."
     izumi "The hard part is just figuring out how to capture that feeling myself."
-    emi "So if you manage to achieve that, would you be satisfied with your photos then?"
+    ch2_emi "So if you manage to achieve that, would you be satisfied with your photos then?"
     izumi "I would think so. I'd love to see that sense of life and emotion in my own work."
     ch2_emi "(Hmm, it might've been for the better that I chose the waterfall over the maple trees then.)"
     ch2_emi "(I hope we manage to take some photos that are up to his standards later on.)"

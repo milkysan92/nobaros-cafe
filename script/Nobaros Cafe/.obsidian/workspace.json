@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ae0d8b490762715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Mirror/Maple grove.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bb51f3531c221d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Main/New customer 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Mirror/Waterfall.md",
+                "file": "Chapter 2/Main/New customer 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Mirror/Waterfall.md",
+                "file": "Chapter 2/Main/New customer 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Mirror/Waterfall.md"
+                "file": "Chapter 2/Main/New customer 2.md"
               }
             }
           }
@@ -147,12 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8058254098d755ff",
+  "active": "8bb51f3531c221d7",
   "lastOpenFiles": [
-    "Chapter 2/Main/New customer 2.md",
+    "Chapter 2/Mirror/Sweven mirror 2.md",
     "Chapter 2/Mirror/Waterfall.md",
     "Chapter 2/Mirror/Maple grove.md",
-    "Chapter 2/Mirror/Sweven mirror 2.md",
+    "Chapter 2/Main/New customer 2.md",
     "Chapter 2/Chapter 2 Master.md",
     "Chapter 2/Mirror/Sweven Mirror 2.md",
     "Chapter 2/Mirror",

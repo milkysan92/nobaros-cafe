@@ -37,7 +37,7 @@ Izumi: "Yeah, that's right. Even though they're still images, they feel alive in
 
 Izumi: "The hard part is just figuring out how to capture that feeling myself."
 
-Emi: "So if you manage to achieve that, would you be satisfied with your photos then?"
+CH2_Emi: "So if you manage to achieve that, would you be satisfied with your photos then?"
 
 Izumi: "I would think so. I'd love to see that sense of life and emotion in my own work."
 
