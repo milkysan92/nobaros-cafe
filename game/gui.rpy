@@ -66,7 +66,7 @@ define gui.name_text_font = "gui/font/MainluxLight.otf"
 define gui.interface_text_font = "gui/font/MainluxLight.otf"
 
 ## The size of normal dialogue text.
-define gui.text_size = 62
+define gui.text_size = 60
 
 ## The size of character names.
 define gui.name_text_size = 80
@@ -97,7 +97,7 @@ define gui.game_menu_background = "gui/game_menu.png"
 ## time.
 
 ## The height of the textbox containing dialogue.
-define gui.textbox_height = 555
+define gui.textbox_height = 556
 
 ## The placement of the textbox vertically on the screen. 0.0 is the top, 0.5 is
 ## center, and 1.0 is the bottom.
@@ -120,7 +120,7 @@ define gui.namebox_height = None
 
 ## The borders of the box containing the character's name, in left, top, right,
 ## bottom order.
-define gui.namebox_borders = Borders(5, 5, 5, 5)
+define gui.namebox_borders = Borders(10, 10, 10, 10)
 
 ## If True, the background of the namebox will be tiled, if False, the
 ## background of the namebox will be scaled.

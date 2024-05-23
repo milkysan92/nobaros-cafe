@@ -1,4 +1,3 @@
-
 # New customer 2
 UK_generic: "Um, excuse me. . ."
 
@@ -86,6 +85,10 @@ Emi: "(Ingram, I'm begging you, please come back soon. . .)"
 
 *I carefully watch Izumi out of the corner of my eye, trying to be as discreet as possible.*
 
+*He appears to be studying the cafe interior, soaking in all the little details. His gaze becomes fixated on the array of coffee beans stacked against the wall, staring while deep in thought.*
+
+*As he looks over the coffee selection, the ambient light accentuates his photogenic features, almost as if he came straight out of a book. Despite his towering height, he has a gentle demeanor that's far from intimidating.*
+
 *Interestingly, he doesn't seem very shocked or angry, despite his circumstances.*
 
 Emi: "(Hmm, I thought he'd be more distressed in this situation.)"
@@ -94,23 +97,27 @@ Emi: "(Obviously, nobody would be very happy after a heart attack, but he's stra
 
 Emi: "(If it were me in his position. . .)"
 
-*A chill runs through my spine. Shaking my head, I decide not to explore that thought.*
+*A chill runs down my spine. Shaking my head, I decide not to explore that thought.*
 
-Emi: "(I don't want to accidentally jinx myself. I haven't recovered my memories yet.)"
+Emi: "(Let's not accidentally jinx myself.)"
 
-Emi: "(Who knows what could've happened to me?)"
+Emi: "(I haven't recovered my memories yet. Until then, who knows what could've happened to me?)"
 
-*Just then, Ingram returns with a pot of freshly brewed sencha tea.*
+*Just then, Ingram returns with a pot of freshly brewed sencha.*
 
-*As he pours a cup for Izumi, hot steam emanates from the flowing stream, dissipating into the air with each passing moment.*
+Ingram: "Sorry for the wait, here's your tea."
 
-*As Izumi sips his tea, the tension in his shoulders disappears and his body deflates with a satisfied look.*
+*As Ingram pours a cup for Izumi, hot steam emanates from the spout, dissipating into the air with each passing moment.*
 
-*Ingram starts explaining the spirit guiding process, while Izumi listens attentively, nodding every so often.*
+Izumi: "Thank you, sorry for the trouble."
+
+*As Izumi sips his drink, the tension in his shoulders disappears and his body deflates with a satisfied look.*
+
+*After a moment of relaxation, Ingram starts explaining the spirit guiding process. Izumi listens attentively, nodding with an acknowledging look every so often.*
 
 Emi: "(. . .He hasn't questioned anything Ingram said so far. This guy really is handling himself well.)"
 
-*Izumi notices my gaze and turns to me.*
+*Just as Ingram finishes his explanation, Izumi notices my gaze and turns to me.*
 
 Izumi: "Um sorry, is there something on my face?"
 
@@ -118,23 +125,35 @@ Izumi: "It's just that you're staring at me so intently. . ."
 
 Emi: "Oh no, sorry! I didn't mean to make you uncomfortable."
 
-Emi: "I'm impressed by how well you're taking everything."
+Izumi: "It's alright, I was just a little anxious whether my glasses were misaligned or something."
 
-Izumi: "It's alright. No harm done."
+Emi: "Don't worry, it's nothing like that. I was just impressed by how well you're taking Ingram's explanation."
 
-Ingram: "All sorts of people come through these parts. Some take more time for the reality to set in."
+Emi: "It's quite a lot of new information to take in, especially after you just learned about your. . .erm. . ."
 
-Ingram: "But from what I can see, it almost seems like you've accepted what happened already."
+Izumi: "It's okay, I'm alright. There's no need to beat around the bush, you can speak comfortably."
+
+Ingram: "Emi does have a point though. All sorts of people come through these parts."
+
+Ingram: "It usually takes time for reality to set in, although it does vary from person to person."
+
+Ingram: "Some need extra time to sort out their feelings, while others transition quite smoothly."
+
+Ingram: "But from what I can see, it almost seems like you've accepted what happened already, is that right?"
+
+Izumi: "Ah, well. . ."
+
+*Izumi averts his gaze, his eyes settling on the trail of steam rising lazily from his cup. Unspoken words and unresolved emotions flicker across his expression, but his lips remain still.*
+
+*He hesitates for a moment, searching for the right words. Finally, he speaks, his voice soft and tinged with a hint of vulnerability.*
+
+Izumi: "Would you care to listen to my story?"
+
+Ingram: "Of course, go ahead. Whatever you're comfortable telling us."
+
+Ingram: "It would help us understand you and your life better."
 
 Izumi: ". . ."
-
-*Izumi averts his gaze, his eyes falling on the trail of steam rising lazily from his cup.*
-
-Izumi: ". . .Would you care to listen to my story?"
-
-Ingram: "Please, go right ahead. Whatever you're comfortable telling us."
-
-Ingram: "It would help us understand you and your life experiences better."
 
 Izumi: ". . .I have what's called cardiomyopathy. It's a condition that makes it harder for my heart to pump blood."
 
@@ -146,7 +165,7 @@ Izumi: "They thought a more peaceful lifestyle might've been better for me."
 
 Izumi: "But as a kid, there was nothing more boring than being surrounded by nothing to do."
 
-*Izumi laughs, reminiscing his youth.*
+*Izumi chuckles, his laughter carrying a hint of nostalgia as he reminisces his youth.*
 
 Izumi: "I started picking up photography to pass the time. At first, it was just borrowing my dad's camera to take pictures of the cicadas during the summer."
 
@@ -166,45 +185,63 @@ Izumi: "When I told her I wanted to go professional, she bought me a brand new c
 
 Izumi: "She was always supportive of me. Even after she moved out and got married, she kept the photography blog going."
 
-*A warm smile carves itself on Izumi's lips as he reminisces about his sister.*
+*A warm smile carves itself on Izumi's lips at the mention of his sister. He looks out the window with a tender look.*
 
-Emi: "(Seeing him talk so passionately about photography makes me feel all warm and fuzzy inside.)"
+Izumi: "It was her way of trying to create memories with me."
 
-Emi: "(His sister must've been proud of him to support him so wholeheartedly. He talks about her so kindly.)"
+Izumi: "With my heart condition, I couldn't help but get anxious about what would happen if I passed away at any given moment."
 
-Izumi: "In spite of all that, there's just one thing I haven't been able to achieve."
+Izumi: "She was the one who showed me how to live in the present."
+
+Emi: "(. . .His sister must've been proud of him to support him so wholeheartedly. He talks about her so kindly.)"
+
+Izumi: "Now that I'm here, it's sort of a funny feeling. On one hand, I really miss her."
+
+Izumi: "But on the other hand, I'm really glad that I was able to leave behind all of my photos at least."
+
+Izumi: "That way, a part of me will always remain by her side as she carries on with life."
+
+Izumi: "So. . .I guess that's why in your eyes, I'm dealing with this relatively well. A part of me has always expected this to happen someday."
+
+Emi: "I see. You're really mature for thinking that way, it's admirable."
+
+Izumi: "Thanks for the compliment."
+
+Izumi: ". . .There's just one thing I haven't been able to achieve as a photographer."
 
 Izumi: "To create my magnum opus. My one true masterpiece."
 
-Izumi: "I definitely have photos that I'm proud of, but there was something missing from all of them."
+Izumi: "There were definitely lots of photos that turned out beautifully, but there was always something missing from them."
 
 Emi: "What was missing? Was there a certain feeling or subject you were aiming for?"
 
-*Izumi shakes his head, staring down at his lap without an answer.*
+*Izumi shakes his head, staring down at his lap without an answer. Judging from the melancholy in his expression, the topic must've weighed heavily on him.*
 
-*Judging from the melancholy in his expression, the idea of creating his magnum opus must've weighed heavily on him.*
+Izumi: "There's no sense of life in them. Whenever I see the work of other photographers, they always feel so alive and dynamic. But I don't feel that in my work."
 
-Izumi: "Unfortunately, I'm not actually sure what that 'something' is."
+Izumi: "That's why I'm not satisfied with the photos I've taken to date."
 
-Izumi: "I'm just not satisfied with the photos I've taken to date."
+*Izumi meets our gaze, his eyes carrying a determined glint of hope.*
 
-*Izumi looks right at me and Ingram, his eyes carrying a determined glint that speaks of both regret and hope.*
+Izumi: "I'm not sure what it takes to achieve that feeling, but this spirit guiding thing. . ."
 
-Izumi: "This must be what Ingram was referring to earlier about an unresolved matter from my life."
+Izumi: "I'll use it as another chance to figure it out and take the photo I've been striving for."
 
-Izumi: "So if you guys are supposed to help me before I go. . .I'll definitely take this as another chance to create the photo I've been striving for."
+*In that moment, I realize that despite his gentle impression, there's a hint of stubbornness in him; a quiet, resilient strength to fulfill his desire.*
 
-Ingram: "I see, I admire your determination."
+Ingram: ". . .I see, I applaud your resolve."
 
-Ingram: "I'm sure once you find that missing puzzle piece, that perfectionist side of you won't burden you anymore."
+Ingram: "I'm sure once you find that missing puzzle piece, that desire of yours won't burden you anymore."
 
 Ingram: "And I'd wager your sister would want you to move on freely."
+
+Izumi: "Yeah, I can just imagine her scolding me if I didn't."
 
 Ingram: "Thank you for sharing about your life with us. We'll definitely do our best to help you."
 
 *Ingram rises from his chair and walks over to Izumi, extending his hand.*
 
-*Izumi accepts the gesture with a slight bow. A quiet understanding seems to form between the two, almost like an unspoken promise.*
+*Izumi smiles, accepting the gesture with a slight bow. A quiet understanding seems to form between the two, almost like an unspoken promise.*
 
 Ingram: "Emi, can you start stacking the chairs on the tables? I don't think we'll receive any more customers, so we'll be closing up shop a bit earlier than usual."
 
@@ -216,31 +253,35 @@ Izumi: ". . ."
 
 Ingram: "Here we are. This is the Sweven Mirror, where the spirit guiding will take place."
 
-Ingram: "Once you enter, there's no coming back."
+Ingram: "Once you enter, you'll go through a dream sequence before finally being sent off to the afterlife."
 
-Izumi: "So this is where I'm going to. . ."
+Izumi: "So this is where it's all going to happen. . ."
 
-*Izumi approaches the mirror, stopping just shy of it. For a moment, he appears to be pondering something.*
-
-*But before long, he takes a deep breath and turns around to face me and Ingram.*
+*Izumi approaches the mirror, stopping just shy of it. For a moment, he appears to be pondering something. But before long, he takes a deep breath and turns around to face me and Ingram.*
 
 Izumi: "Thank you for this. I really do appreciate it."
 
-*Izumi's face lights up with determination, full of motivation and life.*
+*Izumi's face lights up, his eyes shining with resolve. His expression is unwavering; a reflection of the courage he's mustered to face his past.*
 
-*My chest tightens slightly as I watch him enter the mirror, its light enveloping him whole. As soon as there's no more trace of him, Ingram turns towards me.*
+*As he steps towards the mirror, its surface begins to shimmer with an ethereal light, enveloping him in a gentle embrace.*
+
+*I watch as the light swirls around him, drawing him into its depths with a soft, almost melodic hum.*
+
+*As Izumi disappears into the mirror, its light slowly fades, leaving behind a lingering sense of peace.*
+
+*With a simple gesture, Ingram indicates that it's now my turn to enter.*
 
 Ingram: "Emi, remember that you can always consult me if you get stuck while going through his memories."
 
-Ingram: "Just call for me, and I'll respond."
+Ingram: "Just step aside and call for me inside your mind, then I'll respond."
 
-Emi: "Thanks Ingram, I think I have an idea of what I'm doing."
+Emi: "Thanks Ingram, I'll do that if I need your help."
 
-*Ingram smiles hearing my response and closes his eyes. Raising both arms, he opens his palms and mutters under his breath.*
+*Ingram smiles at my response and closes his eyes. Raising both arms, he opens his palms and mutters under his breath.*
 
 *Within seconds, a blue luminescent aura forms itself around the both of us. A tender feeling courses through my body, bringing a sense of weightlessness.*
 
-Emi: "(The aura feels a lot gentler this time. Did he adjust his powers slightly to make me more comfortable?)"
+Emi: "(The aura feels gentler this time. Did he adjust his powers slightly to make me more comfortable?)"
 
 *With Ingram concentrating on maintaining the aura around us, I turn to face the mirror.*
 

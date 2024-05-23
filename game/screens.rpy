@@ -121,11 +121,15 @@ screen say(who, what):
 init python:
     config.character_id_prefixes.append('namebox')
 
+# kerning defines the horizontal text spacing between font letters
+# line_leading and line_spacing are to properly add whitespace on top/bottom lines
 style window is default
-style say_label is default
+style say_label:
+    kerning 0.15
 style say_dialogue:
-    line_leading 5
-    line_spacing 5
+    line_leading 6
+    line_spacing 6
+    kerning 0.15
 style say_thought is say_dialogue
 
 style namebox is default

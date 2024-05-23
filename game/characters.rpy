@@ -15,18 +15,36 @@ define ch6_name = _("Akina")
 # Other NPCs
 define friend_name = _("Yua")
 define crush_name = _("Shohei")
+define emi_ch2 = _("Himari")
+define grandson_name = _("Haruto")
 
 # CHARACTER DEFINITIONS----------------------------------------------------------------------------------------------
 # Main characters
+# Define emi and her many personas from spirit guiding missions
 define emi = Character(emi_name, color="#ffbcca")
+define sgm_emi = Character(f"{emi_name}?", color="#ffbcca")
+define ch2_emi = Character(f"{emi_name} (as {emi_ch2})", color="#ffbcca")
+image himari = "Sprites/Customers/Himari/himari_base.avif"
+image himari concern = "images/Sprites/Customers/Himari/himari_concern.avif"
+
 define ingram = Character(ingram_name, color="#9fe7ff")
 define kai = Character(kai_name, color="#fad5af")
 define akira = Character(akira_name, color="#c7f5c5")
 define annelise = Character(annelise_name, color="#fff0b1")
 
-# Customers for spirit guiding missions
+# Spirit guiding mission characters
+# Chapter 1
 define brio = Character(ch1_name, color="#d9d9d9")
+
+# Chapter 2
 define izumi = Character(ch2_name, color="#d9d9d9")
+image izumi = "Sprites/Customers/Izumi/izumi_base.avif"
+image izumi smile = "Sprites/Customers/Izumi/izumi_smile.avif"
+define haruto = Character(grandson_name, color="#ffffff")
+define grandma = Character(f"{grandson_name}'s grandma", color="#ffffff")
+define grandpa = Character(f"{grandson_name}'s grandpa", color="#ffffff")
+
+# Chapter 6
 define akina = Character(ch6_name, color="#d9d9d9")
 
 # Other NPCs
