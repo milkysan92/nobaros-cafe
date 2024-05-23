@@ -35,7 +35,7 @@ label maple_grove:
     ch2_emi "(Aww, how cute! What a good kid.)"
     narrator "I return his smile, crouching down to his level and playfully high-fiving him. He giggles, clearly delighted by our interaction."
     ch2_emi "Where are your grandparents? Did you run off again?"
-    haruto "No, grandpa and grandma are just sitting over there! They told me I could run around and play as long as they could see me."
+    haruto "No, Grandpa and Grandma are just sitting over there! They told me I could run around and play as long as they could see me."
     narrator "He points towards the shrine, where his grandparents are sitting comfortably on a wooden bench. As I glance over in their direction, they seem to recognize me and wave amicably."
     show himari:
         center
@@ -72,7 +72,7 @@ label maple_grove:
     grandma "I'm so sorry to bother you again young lady. We're supposed to be babysitting him at the moment, but as you can tell, it's not the easiest task trying to keep up with him at our age."
     grandma "Judging from the smile on his face, I think he's taken a liking to you."
     ch2_emi "Haha, he's a very cheerful kid! Don't worry too much about being a bother, It was lovely running into you guys again."
-    izumi "Again. . .? Do you know these people sis?"
+    izumi "Again. . .? Do you know these people, Sis?"
     ch2_emi "Ah, yes, I forgot to introduce you! We met when I was checking out the waterfall earlier. I saved their grandson from falling into the stream."
     izumi "What? You should've told me earlier!"
     izumi "Are you okay? You didn't hurt yourself, did you?"
@@ -145,8 +145,8 @@ label maple_grove:
     with dissolve
     narrator "As we're walking, I notice Izumi's fixated gaze on his camera, lost in thought."
     ch2_emi "Izumi?"
-    izumi ". . .Huh? Oh, did you call out to me, sis? What's the matter?"
-    ch2_emi "You've been staring at the family portraits you took earlier. Is something about them that's bugging you?"
+    izumi ". . .Huh? Oh, did you call out to me, Sis? What's the matter?"
+    ch2_emi "You've been staring at the family portraits you took earlier. Is something about them bugging you?"
     izumi "No, it's not that. If anything, I think these pictures are different."
     ch2_emi "Oh? Different how?"
     izumi "Talking to the family from earlier made me realize that what I was looking for wasn't a beautiful composition or an extraordinary subject."
@@ -169,7 +169,7 @@ label maple_grove:
     narrator "Izumi whips out his phone and opens the front-facing camera, gesturing closer to me before I realize what's going on."
     izumi "Alright, look at this spot here! Say cheese in 3. . .2 . . ."
     ch2_emi "W-wait! I haven't come up with a pose yet!"
-    izumi "Just smile, sis. Don't overthink it."
+    izumi "Just smile, Sis. Don't overthink it."
     ch2_emi "B-but-!"
     izumi "1. . ."
     izumi "Camera's about to go off!"
@@ -197,7 +197,7 @@ label maple_grove:
     emi "He definitely seemed to enjoy himself. I'm glad we were able to help him pass on with happy memories."
     emi "Makes me curious about what's in store for me later, when I start remembering parts of my life in the real world."
     ingram "Who knows? But as you continue spirit guiding, you'll be going through other people's memories a lot."
-    ingram "With that much exposure, I'm sure there'll be a good chance that it'll help jog your own memories to return."
+    ingram "With that much exposure, there's a good chance that it'll help jog your own memories to return."
     ingram "Well then, it's late now. We should head back home and join the others for dinner before it gets dark."
     emi "That's a good idea, I'm starved!"
     hide ingram with dissolve

@@ -217,17 +217,17 @@ Emi: "What was missing? Was there a certain feeling or subject you were aiming f
 
 *Izumi shakes his head, staring down at his lap without an answer. Judging from the melancholy in his expression, the topic must've weighed heavily on him.*
 
-Izumi: "Unfortunately, I'm not actually sure what that 'something' is."
+Izumi: "There's no sense of life in them. Whenever I see the work of other photographers, they always feel so alive and dynamic. But I don't feel that in my work."
 
-Izumi: "I'm just not satisfied with the photos I've taken to date."
+Izumi: "That's why I'm not satisfied with the photos I've taken to date."
 
 *Izumi meets our gaze, his eyes carrying a determined glint of hope.*
 
-*In that moment, I realize that despite his gentle impression, there's a resilience in him; a quiet, stubborn strength to fulfill his desire.*
+Izumi: "I'm not sure what it takes to achieve that feeling, but this spirit guiding thing. . ."
 
-Izumi: "So this spirit guiding thing. . ."
+Izumi: "I'll use it as another chance to figure it out and take the photo I've been striving for."
 
-Izumi: "I'll use it as another chance to create the photo I've been striving for."
+*In that moment, I realize that despite his gentle impression, there's a hint of stubbornness in him; a quiet, resilient strength to fulfill his desire.*
 
 Ingram: ". . .I see, I applaud your resolve."
 

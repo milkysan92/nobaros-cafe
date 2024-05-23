@@ -50,7 +50,7 @@ CH2_Emi: "(Aww, how cute! What a good kid.)"
  
 CH2_Emi: "Where are your grandparents? Did you run off again?"
 
-Haruto: "No, grandpa and grandma are just sitting over there! They told me I could run around and play as long as they could see me."
+Haruto: "No, Grandpa and Grandma are just sitting over there! They told me I could run around and play as long as they could see me."
 
 *He points towards the shrine, where his grandparents are sitting comfortably on a wooden bench. As I glance over in their direction, they seem to recognize me and wave amicably.*
 
@@ -106,7 +106,7 @@ Grandma: "Judging from the smile on his face, I think he's taken a liking to you
 
 CH2_Emi: "Haha, he's a very cheerful kid! Don't worry too much about being a bother, It was lovely running into you guys again."
 
-Izumi: "Again. . .? Do you know these people sis?"
+Izumi: "Again. . .? Do you know these people, Sis?"
 
 CH2_Emi: "Ah, yes, I forgot to introduce you! We met when I was checking out the waterfall earlier. I saved their grandson from falling into the stream."
 
@@ -220,9 +220,9 @@ Izumi: "Huh? Oh yes, for sure!"
 
 CH2_Emi: "Izumi?"
 
-Izumi: ". . .Huh? Oh, did you call out to me, sis? What's the matter?"
+Izumi: ". . .Huh? Oh, did you call out to me, Sis? What's the matter?"
 
-CH2_Emi: "You've been staring at the family portraits you took earlier. Is something about them that's bugging you?"
+CH2_Emi: "You've been staring at the family portraits you took earlier. Is something about them bugging you?"
 
 Izumi: "No, it's not that. If anything, I think these pictures are different."
 
@@ -266,7 +266,7 @@ Izumi: "Alright, look at this spot here! Say cheese in 3. . .2 . . ."
 
 CH2_Emi: "W-wait! I haven't come up with a pose yet!"
 
-Izumi: "Just smile, sis. Don't overthink it."
+Izumi: "Just smile, Sis. Don't overthink it."
 
 CH2_Emi: "B-but-!"
 
@@ -310,7 +310,7 @@ Emi: "Makes me curious about what's in store for me later, when I start remember
 
 Ingram: "Who knows? But as you continue spirit guiding, you'll be going through other people's memories a lot."
 
-Ingram: "With that much exposure, I'm sure there'll be a good chance that it'll help jog your own memories to return."
+Ingram: "With that much exposure, there's a good chance that it'll help jog your own memories to return."
 
 Ingram: "Well then, it's late now. We should head back home and join the others for dinner before it gets dark."
 

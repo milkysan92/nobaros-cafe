@@ -16,7 +16,7 @@ label sweven_mirror_2:
     izumi "Sis, did you forget that we were supposed to go on a trip today?"
     sgm_emi "A trip?"
     sgm_emi "(Is he talking about one of those photography trips he mentioned before?)"
-    sgm_emi "(And he keeps calling me sis. Does that mean I'm posing as his sister right now?)"
+    sgm_emi "(And he keeps calling me Sis. Does that mean I'm posing as his sister right now?)"
     sgm_emi "(Hmm, let's play along for now.)"
     ch2_emi "A-ahh, that's right! Sorry, I think I'm still half asleep."
     ch2_emi "Can you remind me where we're headed?"
@@ -38,17 +38,17 @@ label sweven_mirror_2:
     narrator "A hint of a sweet, floral scent blesses my nose, rousing me from my dazed state."
     ch2_emi "(Is that lavender?)"
     narrator "I look around for the source of the scent and spot some potted lavender plants on the windowsill. They're bathed in the morning rays filtering through the windows, casting an airy glow over the room."
-    narrator "In front of me, a wooden desk with a simple, minimalistic setup catches my eye. It features a few succulents, and a desk lamp designed like a calico cat."
+    narrator "In front of me, there's a wooden desk with a simple, minimalistic setup. It features a few succulents, and a desk lamp designed like a calico cat."
     narrator "Beside the desk is a floor-length mirror that doubles as a coat rack, with a few handbags hanging off its edge."
     narrator "Pushing the covers out of the way, I leap out of bed and walk over to the mirror to examine myself."
     ch2_emi ". . .Eh?! Is this what I look like?"
     show himari at center with dissolve
-    narrator "The reflection startles me, and I almost do a double take. With a pair of emerald eyes and royal blue hair just like Izumi's, there's no mistaking it—I'm in his sister's body."
+    narrator "The reflection startles me, and I almost do a double take. With a pair of emerald eyes and royal blue hair just like Izumi's, there's no mistaking it—this is his sister's body."
     ch2_emi "Wow, the genes are strong in this family. . ."
     narrator "Instinctively, I raise my hands to touch my—her—face."
+    ch2_emi "Geez, she's gorgeous. . ."
     ch2_emi "Her skin is so soft, I wonder what kind of skincare routine she has?"
-    ch2_emi "Ah, she's even got a beauty mark on her cheek!"
-    ch2_emi "She's drop-dead gorgeous. . ."
+    ch2_emi "Ah, and there's a little beauty mark on her cheek!"
     ch2_emi "As expected, an adult's body is really different."
     narrator "Instinctively, I look down at my chest."
     ch2_emi "She's definitely well-endowed. . ."
@@ -65,7 +65,7 @@ label sweven_mirror_2:
     ch2_emi "No time for this. I need to hurry before Izumi leaves without me!"
     ch2_emi "Okay, where's the closet. . ."
     show himari concern at impact with faceswap
-    ch2_emi "AH!"
+    ch2_emi "OW!"
     narrator "Suddenly, my foot collides the edge of the bedframe. I fall to the floor, clutching my throbbing toe in agony."
     ch2_emi "Ouch, that hurts!"
     ch2_emi "Seriously? Is this karma? I didn't even do anything. . ."
@@ -94,7 +94,7 @@ label sweven_mirror_2:
     narrator "Izumi's gaze lingers, but he lets it go, turning his attention to his camera instead."
     ch2_emi "(Sigh, how am I supposed to know how his sister usually acts?)"
     ch2_emi "(I'm not cut out for this acting business. . .)"
-    ch2_emi "(Well, at least he didn't question it too much.)"
+    ch2_emi "(Well, at least he didn't question me about it too much.)"
     ch2_emi "Everything ready to go? Shall we start shooting?"
     show izumi smile with faceswap
     narrator "Izumi gives a thumbs up, indicating that he's ready to go."
@@ -102,10 +102,10 @@ label sweven_mirror_2:
     show himari:
         right
         easein 1.0 center
-    narrator "He heads off towards a bridge in the distance, beginning to snap photos without a word."
-    ch2_emi "(Hmm, I should probably let him focus on his own thing. He looks pretty content as is.)"
-    ch2_emi "(Hopefully, this trip will help him find the perfect shot he's been searching for.)"
-    ch2_emi "(In the meantime, let's explore the park!)"
+    narrator "Without another word, he heads off towards a bridge in the distance, beginning to snap photos of the scenery."
+    ch2_emi "(Hmm, I should probably let him focus on his own thing. He seems pretty content as is.)"
+    ch2_emi "(Hopefully, this trip will help him figure out what his photos are missing.)"
+    ch2_emi "(In the meantime, maybe I'll go and explore around for a bit!)"
     narrator "I turn on my feet and decide to follow the trail, eager to discover what the park has to offer."
     scene blank with bgwipe
     scene momiji_park with bgwipe
@@ -121,17 +121,17 @@ label sweven_mirror_2:
     narrator "After some time, I find myself at the edge of a small clearing, where a picturesque scene unfolds before me."
     ch2_emi "Whoa, this place looks amazing!"
     narrator "A breathtaking waterfall cascades down a rocky formation, dividing into many smaller rivulets as it descends."
-    narrator "Below, a clear stream ripples with gentle currents, creating small bubbles that rest along the rocky riverbank."
+    narrator "Below, a clear stream ripples with gentle currents, creating foamy bubbles that rest along the riverbank."
     narrator "The scene leaves me speechless, completely captivated by its ephemeral beauty."
     ch2_emi "This location is surprisingly beautiful! I never expected to find such a gem here."
     ch2_emi "This could be a great spot for a photoshoot with Izumi."
     narrator "As I linger by the stream, the rhythmic sound of water splashing against the rocks becomes a soothing melody."
     narrator "I watch as people stroll by, their faces fill with awe and wonder. Some stop to whip out their phones and take photos, capturing the moment to cherish later."
     uk_generic "Haruto! Don't run too fast, watch out for the rocks!"
-    narrator "Just as I turn my head, I catch a young kid heading in my direction, bounding across the rocks as if they were pavement."
+    narrator "Just as I turn my head, I catch a young kid heading in my direction, bounding across the rocks as if he was on a paved road."
     narrator "He stops atop a particularly large boulder, striking an adventurous pose. His eyes are fixed on the waterfall, glittering with innocuous joy."
     haruto "Wow, this is so cool!"
-    haruto "Grandpa, grandma, look at the waterfa—!"
+    haruto "Grandpa, Grandma, look at the waterfa—!"
     narrator "Just as the kid turns to call out to his grandparents, he slips and loses his footing, descending towards the stream's currents."
     show himari concern with faceswap
     ch2_emi "(Oh no! He's going to fall in!)"
@@ -146,14 +146,14 @@ label sweven_mirror_2:
     haruto "Grandpa. . . I'm s-sorry. . ."
     narrator "The kid starts bawling after getting scolded, tears streaming down his flushed cheeks."
     narrator "His grandpa gets flustered and looks towards his wife for help, not meaning to make him cry."
-    grandma "Your grandfather was just worried about you dear. You nearly gave us a heart attack after all."
+    grandma "Your grandfather was just worried about you, dear. You nearly gave us a heart attack after all."
     grandma "Thank goodness this young lady was here to save you in time. What do we say to her?"
     haruto "Sniff. . ."
-    haruto "Th-thank you for saving me miss. . ."
+    haruto "Th-thank you for saving me, miss. . ."
     ch2_emi "It's no problem. Make sure to listen to your grandparents and walk carefully next time, alright?"
     narrator "I pat the kid's head, reassuring him that everything is alright now. The kid nods and wipes his tears, trying to pull himself together."
     narrator "His grandparents both bow their heads to express their thanks, and the family heads off to enjoy the waterfall on their own."
-    narrator "After saying goodbye, I head back on the trail, deciding I should go back to Izumi and tell him about my new discovery."
+    narrator "After waving goodbye to the kid, I head back on the trail, deciding I should go back to Izumi and tell him about my new discovery."
     scene blank with bgwipe
     scene momiji_park2 with bgwipe
     show himari with dissolve
@@ -165,26 +165,22 @@ label sweven_mirror_2:
     show izumi at left
     with dissolve
     ch2_emi "Izumi, I'm back!"
-    izumi "Ah, sis, there you are. I was wondering where you went."
+    izumi "Ah, Sis, there you are. I was wondering where you went."
     izumi "What were you up to while I was taking photos?"
     ch2_emi "I was exploring! I wanted to see more of the park while you were busy."
     ch2_emi "Guess what? I found a waterfall, and it was amazing! If you follow the stream along the trail, you'll discover it too."
     izumi "A waterfall? That's exciting, I didn't expect to see one around here."
     ch2_emi "Right? I was so surprised!"
-    hide izumi
-    show izumi smile at left
-    with dissolve
+    show izumi smile at left with faceswap
     izumi "Haha, it sounds like you enjoyed yourself."
     ch2_emi "We should definitely check it out together! I feel like it'd be a great spot for photos."
-    izumi "Hmm, maybe. But let's eat lunch first and then decide."
-    narrator "Izumi smiles as he hands me a container, neatly wrapped in a ornamental cloth."
+    izumi "Hmm, that doesn't sound like a bad idea. Let's eat lunch first before deciding where to go."
+    narrator "Izumi smiles as he hands me a container, neatly wrapped in an ornamental cloth."
     izumi "Here's your bento. I warmed it up at a nearby convenience store. You should eat before it gets cold."
     ch2_emi "Ah, thank you!"
-    hide izumi smile
-    show izumi at left
-    with dissolve
+    show izumi with faceswap
     narrator "I sit down next to Izumi, grabbing the bento box from him as he digs around his bag for some disposable chopsticks."
-    narrator "After getting through the knot on top, I open the box, revealing a mouthwatering lunch inside."
+    narrator "After untying the knot on top, I peel back the cloth and open the bento box."
     narrator "There's chicken karaage resting on a bed of green leaf lettuce, accompanied by rolls of tamagoyaki and a mix of cucumbers and cherry tomatoes. To top it all off, there's a piece of umeboshi cradled in some steaming rice."
     ch2_emi "(Wow, this looks so yummy!)"
     narrator "I happily dig in, savouring each and every bite."
@@ -235,7 +231,7 @@ label sweven_mirror_2:
     scene blank with bgwipe
     scene momiji_park2 with bgwipe
     show himari with dissolve
-    narrator "After my conversation with Ingram ends, I head back to Izumi, who is just about finished his bento."
+    narrator "After my conversation with Ingram ends, I head back to Izumi, who is just about finished eating."
     narrator "A glimmer of hope sparks within me, wondering if Ingram's advice might be the key to helping Izumi."
     narrator "Gathering my courage, I resolve to be direct and approach Izumi."
     scene blank with bgwipe
@@ -244,14 +240,14 @@ label sweven_mirror_2:
     show himari at right
     with dissolve
     ch2_emi "Izumi, I'm back. Sorry for taking a while."
-    izumi "Oh, welcome back sis. Are you still hungry? I'm about to pack everything up."
+    izumi "Oh, welcome back, Sis. Are you still hungry? I'm about to pack everything up."
     ch2_emi "I'm fine, you can go ahead."
     izumi ". . .Is something the matter? What's with the look on your face?"
     ch2_emi "Well, as I was making my way back, I realized something about your photos."
     izumi "Huh? What is it?"
     ch2_emi "When I was going through your gallery earlier, there were all sorts of different subjects. And they were all very lovely."
     ch2_emi "But what stood out to me was that there weren't any people. No portraits or headshots whatsoever."
-    ch2_emi "So I was thinking, why don't we ask around and have you snap some photos of some random people for a change of pace?"
+    ch2_emi "So I was thinking, why don't we ask around and have you snap photos of some random people for a change of pace?"
     izumi ". . .!"
     narrator "Izumi fidgets with his camera strap, a nervous energy palpable in his movements. A crease forms between his brows, seemingly anxious about approaching a stranger out of the blue."
     ch2_emi "Oh, if you're nervous about asking someone to model for you, I can do the talking instead if you'd like!"
@@ -259,12 +255,12 @@ label sweven_mirror_2:
     narrator "After a moment of contemplation, a flicker of determination lights up his eyes, and he finally nods."
     show izumi smile at left with faceswap
     izumi ". . .Okay. Let's give it a try."
-    ch2_emi "Great! We should also change our location too. You spent most of your time here, so we should explore a different part of the park!"
+    ch2_emi "Great! We should also change location too. You spent most of your time here, so it might also help if we head to a different part of the park!"
     ch2_emi "We can go to the waterfall I told you about earlier. It really is a nice place."
     izumi "That's true, you did mention that."
     show izumi at left with faceswap
     izumi "Ah, but I was really looking forward to seeing the maple trees too. . ."
     show izumi smile at left with faceswap
-    izumi ". . .But I trust your opinion sis. What do you think?"
+    izumi ". . .But I trust your opinion, Sis. What do you think?"
     show izumi with faceswap
     return

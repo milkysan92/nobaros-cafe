@@ -27,7 +27,7 @@ SGM_Emi: "A trip?"
 
 SGM_Emi: "(Is he talking about one of those photography trips he mentioned before?)"
 
-SGM_Emi: "(And he keeps calling me sis. Does that mean I'm posing as his sister right now?)"
+SGM_Emi: "(And he keeps calling me Sis. Does that mean I'm posing as his sister right now?)"
 
 SGM_Emi: "(Hmm, let's play along for now.)"
 
@@ -61,7 +61,7 @@ CH2_Emi: "(Is that lavender?)"
 
 *I look around for the source of the scent and spot some potted lavender plants on the windowsill. They're bathed in the morning rays filtering through the windows, casting an airy glow over the room.*
 
-*In front of me, a wooden desk with a simple, minimalistic setup catches my eye. It features a few succulents, and a desk lamp designed like a calico cat.*
+*In front of me, there's a wooden desk with a simple, minimalistic setup. It features a few succulents, and a desk lamp designed like a calico cat.*
 
 *Beside the desk is a floor-length mirror that doubles as a coat rack, with a few handbags hanging off its edge.*
 
@@ -69,17 +69,17 @@ CH2_Emi: "(Is that lavender?)"
 
 CH2_Emi: ". . .Eh?! Is this what I look like?"
 
-*The reflection startles me, and I almost do a double take. With a pair of emerald eyes and royal blue hair just like Izumi's, there's no mistaking it—I'm in his sister's body.*
+*The reflection startles me, and I almost do a double take. With a pair of emerald eyes and royal blue hair just like Izumi's, there's no mistaking it—this is his sister's body.*
 
 CH2_Emi: "Wow, the genes are strong in this family. . ."
 
 *Instinctively, I raise my hands to touch my—her—face.*
 
+CH2_Emi: "Geez, she's gorgeous. . ."
+
 CH2_Emi: "Her skin is so soft, I wonder what kind of skincare routine she has?"
 
-CH2_Emi: "Ah, she's even got a beauty mark on her cheek!"
-
-CH2_Emi: "She's drop-dead gorgeous. . ."
+CH2_Emi: "Ah, and there's a little beauty mark on her cheek!"
 
 CH2_Emi: "As expected, an adult's body is really different."
 
@@ -109,7 +109,7 @@ CH2_Emi: "No time for this. I need to hurry before Izumi leaves without me!"
 
 CH2_Emi: "Okay, where's the closet. . ."
 
-CH2_Emi: "AH!"
+CH2_Emi: "OW!"
 
 *Suddenly, my foot collides the edge of the bedframe. I fall to the floor, clutching my throbbing toe in agony.*
 
@@ -149,19 +149,19 @@ CH2_Emi: "(Sigh, how am I supposed to know how his sister usually acts?)"
 
 CH2_Emi: "(I'm not cut out for this acting business. . .)"
 
-CH2_Emi: "(Well, at least he didn't question it too much.)"
+CH2_Emi: "(Well, at least he didn't question me about it too much.)"
 
 CH2_Emi: "Everything ready to go? Shall we start shooting?"
 
 *Izumi gives a thumbs up, indicating that he's ready to go.*
 
-*He heads off towards a bridge in the distance, beginning to snap photos without a word.*
+*Without another word, he heads off towards a bridge in the distance, beginning to snap photos of the scenery.*
 
-CH2_Emi: "(Hmm, I should probably let him focus on his own thing. He looks pretty content as is.)"
+CH2_Emi: "(Hmm, I should probably let him focus on his own thing. He seems pretty content as is.)"
 
-CH2_Emi: "(Hopefully, this trip will help him find the perfect shot he's been searching for.)"
+CH2_Emi: "(Hopefully, this trip will help him figure out what his photos are missing.)"
 
-CH2_Emi: "(In the meantime, let's explore the park!)"
+CH2_Emi: "(In the meantime, maybe I'll go and explore around for a bit!)"
 
 *I turn on my feet and decide to follow the trail, eager to discover what the park has to offer.*
 
@@ -181,7 +181,7 @@ CH2_Emi: "Whoa, this place looks amazing!"
 
 *A breathtaking waterfall cascades down a rocky formation, dividing into many smaller rivulets as it descends.*
 
-*Below, a clear stream ripples with gentle currents, creating small bubbles that rest along the rocky riverbank.*
+*Below, a clear stream ripples with gentle currents, creating foamy bubbles that rest along the riverbank.*
 
 *The scene leaves me speechless, completely captivated by its ephemeral beauty.*
 
@@ -195,13 +195,13 @@ CH2_Emi: "This could be a great spot for a photoshoot with Izumi."
 
 UK_generic: "Haruto! Don't run too fast, watch out for the rocks!"
 
-*Just as I turn my head, I catch a young kid heading in my direction, bounding across the rocks as if they were pavement.*
+*Just as I turn my head, I catch a young kid heading in my direction, bounding across the rocks as if he was on a paved road.*
 
 *He stops atop a particularly large boulder, striking an adventurous pose. His eyes are fixed on the waterfall, glittering with innocuous joy.*
 
 Haruto: "Wow, this is so cool!"
 
-Haruto: "Grandpa, grandma, look at the waterfa—!"
+Haruto: "Grandpa, Grandma, look at the waterfa—!"
 
 *Just as the kid turns to call out to his grandparents, he slips and loses his footing, descending towards the stream's currents.*
 
@@ -227,13 +227,13 @@ Haruto: "Grandpa. . . I'm s-sorry. . ."
 
 *His grandpa gets flustered and looks towards his wife for help, not meaning to make him cry.*
 
-Grandma: "Your grandfather was just worried about you dear. You nearly gave us a heart attack after all."
+Grandma: "Your grandfather was just worried about you, dear. You nearly gave us a heart attack after all."
 
 Grandma: "Thank goodness this young lady was here to save you in time. What do we say to her?"
 
 Haruto: "Sniff. . ."
 
-Haruto: "Th-thank you for saving me miss. . ."
+Haruto: "Th-thank you for saving me, miss. . ."
 
 CH2_Emi: "It's no problem. Make sure to listen to your grandparents and walk carefully next time, alright?"
 
@@ -241,7 +241,7 @@ CH2_Emi: "It's no problem. Make sure to listen to your grandparents and walk car
 
 *His grandparents both bow their heads to express their thanks, and the family heads off to enjoy the waterfall on their own.*
 
-*After saying goodbye, I head back on the trail, deciding I should go back to Izumi and tell him about my new discovery.*
+*After waving goodbye to the kid, I head back on the trail, deciding I should go back to Izumi and tell him about my new discovery.*
 
 *Upon my return, I notice the sun peeking through the clouds, casting a bright glow over the park. The air has grown noticeably warmer since we arrived, adding to the pleasant atmosphere.*
 
@@ -249,7 +249,7 @@ CH2_Emi: "It's no problem. Make sure to listen to your grandparents and walk car
 
 CH2_Emi: "Izumi, I'm back!"
 
-Izumi: "Ah, sis, there you are. I was wondering where you went."
+Izumi: "Ah, Sis, there you are. I was wondering where you went."
 
 Izumi: "What were you up to while I was taking photos?"
 
@@ -265,9 +265,9 @@ Izumi: "Haha, it sounds like you enjoyed yourself."
 
 CH2_Emi: "We should definitely check it out together! I feel like it'd be a great spot for photos."
 
-Izumi: "Hmm, maybe. But let's eat lunch first and then decide."
+Izumi: "Hmm, that doesn't sound like a bad idea. Let's eat lunch first before deciding where to go."
 
-*Izumi smiles as he hands me a container, neatly wrapped in a ornamental cloth.*
+*Izumi smiles as he hands me a container, neatly wrapped in an ornamental cloth.*
 
 Izumi: "Here's your bento. I warmed it up at a nearby convenience store. You should eat before it gets cold."
 
@@ -275,7 +275,7 @@ CH2_Emi: "Ah, thank you!"
 
 *I sit down next to Izumi, grabbing the bento box from him as he digs around his bag for some disposable chopsticks.*
 
-*After getting through the knot on top, I open the box, revealing a mouthwatering lunch inside.*
+*After untying the knot on top, I peel back the cloth and open the bento box.*
 
 *There's chicken karaage resting on a bed of green leaf lettuce, accompanied by rolls of tamagoyaki and a mix of cucumbers and cherry tomatoes. To top it all off, there's a piece of umeboshi cradled in some steaming rice.*
 
@@ -359,7 +359,7 @@ CH2_Emi: "(Thanks Ingram, I'm gonna talk to him right now.)"
 
 Ingram: "(Anytime. Good luck.)"
 
-*After my conversation with Ingram ends, I head back to Izumi, who is just about finished his bento.*
+*After my conversation with Ingram ends, I head back to Izumi, who is just about finished eating.*
 
 *A glimmer of hope sparks within me, wondering if Ingram's advice might be the key to helping Izumi.*
 
@@ -367,7 +367,7 @@ Ingram: "(Anytime. Good luck.)"
 
 CH2_Emi: "Izumi, I'm back. Sorry for taking a while."
 
-Izumi: "Oh, welcome back sis. Are you still hungry? I'm about to pack everything up."
+Izumi: "Oh, welcome back, Sis. Are you still hungry? I'm about to pack everything up."
 
 CH2_Emi: "I'm fine, you can go ahead."
 
@@ -381,7 +381,7 @@ CH2_Emi: "When I was going through your gallery earlier, there were all sorts of
 
 CH2_Emi: "But what stood out to me was that there weren't any people. No portraits or headshots whatsoever."
 
-CH2_Emi: "So I was thinking, why don't we ask around and have you snap some photos of some random people for a change of pace?"
+CH2_Emi: "So I was thinking, why don't we ask around and have you snap photos of some random people for a change of pace?"
 
 Izumi: ". . .!"
 
@@ -395,7 +395,7 @@ CH2_Emi: "Oh, if you're nervous about asking someone to model for you, I can do 
 
 Izumi: ". . .Okay. Let's give it a try."
 
-CH2_Emi: "Great! We should also change our location too. You spent most of your time here, so we should explore a different part of the park!"
+CH2_Emi: "Great! We should also change location too. You spent most of your time here, so it might also help if we head to a different part of the park!"
 
 CH2_Emi: "We can go to the waterfall I told you about earlier. It really is a nice place."
 
@@ -403,4 +403,4 @@ Izumi: "That's true, you did mention that."
 
 Izumi: "Ah, but I was really looking forward to seeing the maple trees too. . ."
 
-Izumi: ". . .But I trust your opinion sis. What do you think?"
+Izumi: ". . .But I trust your opinion, Sis. What do you think?"
