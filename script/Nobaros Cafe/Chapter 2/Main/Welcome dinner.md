@@ -49,7 +49,7 @@ Kai: "Alright, Annelise, what do you wanna start with?"
 
 Annelise: "Hmm, let's cut the potatoes. I'll handle it!"
 
-*Once Akira finishes cleaning the vegetables, Annelise drags the colander of cleaned vegetables over to a cutting board. Scurrying over to a kitchen drawer, she starts digging around for a knife."
+*Once Akira finishes cleaning the vegetables, Annelise drags the colander of cleaned vegetables over to a cutting board. Scurrying over to a kitchen drawer, she starts digging around for a knife.*
 
 Annelise: "Hmm, where could it be. . ."
 

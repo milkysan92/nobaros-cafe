@@ -10,15 +10,15 @@ label ch2_master:
     #     "Mention the others":
     #         narrator "A gut feeling tells me to leave the thought alone, so I decide to tell him about Kai, Akira and Annelise instead."
     # call meeting_others
-    call new_customer_2
-    call sweven_mirror_2
-    # TODO: Put this choice menu in sweven_mirror_2
-    menu:
-        ch2_emi "(Hmm, where should we go?)"
-        "Waterfall":
-            call waterfall
-        "Maple tree grove":
-            call maple_grove
-    # call welcome_dinner
+    # call new_customer_2
+    # call sweven_mirror_2
+    # # TODO: Put this choice menu in sweven_mirror_2
+    # menu:
+    #     ch2_emi "(Hmm, where should we go?)"
+    #     "Waterfall":
+    #         call waterfall
+    #     "Maple tree grove":
+    #         call maple_grove
+    call welcome_dinner
 
     return

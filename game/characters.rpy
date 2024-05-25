@@ -1,6 +1,8 @@
 
 # CHARACTER NAME VARIABLES----------------------------------------------------------------------------------------------
 # Main characters
+# TODO: Allow Emi's name to be customizable based on player input;
+# Code files will use "emi", but player name will be displayed in-game
 define emi_name = _("Emi")
 define ingram_name = _("Ingram")
 define kai_name = _("Kai")
@@ -19,18 +21,25 @@ define emi_ch2 = _("Himari")
 define grandson_name = _("Haruto")
 
 # CHARACTER DEFINITIONS----------------------------------------------------------------------------------------------
+# Redefine narrator to control emi's side image during narration
+define narrator = Character("", image="emi")
+
 # Main characters
-# Define emi and her many personas from spirit guiding missions
-define emi = Character(emi_name, color="#ffbcca")
+# Define Emi and her many personas from spirit guiding missions
+define emi = Character(emi_name, color="#ffbcca", image="emi")
 define sgm_emi = Character(f"{emi_name}?", color="#ffbcca")
-define ch2_emi = Character(f"{emi_name} (as {emi_ch2})", color="#ffbcca")
+define config.side_image_tag = "emi"    # This line is for persistent side image
+
+# Emi CH2 SGM
+define ch2_emi = Character(f"{emi_name} (as {emi_ch2})", color="#ffbcca", image="himari")
 image himari = "Sprites/Customers/Himari/himari_base.avif"
 image himari concern = "images/Sprites/Customers/Himari/himari_concern.avif"
 
-define ingram = Character(ingram_name, color="#9fe7ff")
-define kai = Character(kai_name, color="#fad5af")
-define akira = Character(akira_name, color="#c7f5c5")
-define annelise = Character(annelise_name, color="#fff0b1")
+# Define other charas with the image tag emi to control emi's side image while they're talking
+define ingram = Character(ingram_name, color="#9fe7ff", image="emi")
+define kai = Character(kai_name, color="#fad5af", image="emi")
+define akira = Character(akira_name, color="#c7f5c5", image="emi")
+define annelise = Character(annelise_name, color="#fff0b1", image="emi")
 
 # Spirit guiding mission characters
 # Chapter 1
