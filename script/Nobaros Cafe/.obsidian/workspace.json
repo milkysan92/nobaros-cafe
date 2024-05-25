@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "77a90f406b35c08c",
+        "id": "c892559e564d8469",
         "type": "tabs",
         "children": [
           {
-            "id": "8058254098d755ff",
+            "id": "08266bfbb9c1d7f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Mirror/Waterfall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae0d8b490762715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Mirror/Maple grove.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bb51f3531c221d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Main/New customer 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Main/New customer 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Main/New customer 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chapter 2/Main/New customer 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,13 +139,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb51f3531c221d7",
+  "active": "08266bfbb9c1d7f8",
   "lastOpenFiles": [
-    "Chapter 2/Mirror/Sweven mirror 2.md",
+    "Bath time.md",
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Main/Welcome dinner.md",
     "Chapter 2/Mirror/Waterfall.md",
     "Chapter 2/Mirror/Maple grove.md",
     "Chapter 2/Main/New customer 2.md",
-    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Mirror/Sweven mirror 2.md",
     "Chapter 2/Mirror/Sweven Mirror 2.md",
     "Chapter 2/Mirror",
     "Game development roadmap.md",
@@ -206,9 +175,7 @@
     "Chapter 2/Annelise",
     "Chapter 2/Akira",
     "Chapter 2/Meeting Kai.md",
-    "Chapter 2/Intro to CH2.md",
     "Chapter 2/Kai/Choices",
-    "Chapter 2/Chapter 2 Master 1.md",
     "Chapter 2"
   ]
 }
