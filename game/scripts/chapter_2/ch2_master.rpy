@@ -19,5 +19,6 @@ label ch2_master:
             call waterfall
         "Maple tree grove":
             call maple_grove
+    # call welcome_dinner
 
     return

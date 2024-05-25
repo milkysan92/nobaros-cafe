@@ -107,9 +107,9 @@ Akira: "No, I think I'm good, but thanks. This is my way of contributing. I'd ra
 
 Ingram: "Alright, I'll leave you to it. Seems like you've got things under control here."
 
-Ingram: "Emi, why don't you relax while you wait for them to finish cooking? I think they have things "
+Ingram: "Emi, why don't you relax while you wait for them to finish cooking? I'm going to go and soak in a hot bath while they're busy."
 
-Emi: "Okay, sounds good. I think I'll stay down here a little longer. Have a good shower!" 
+Emi: "Okay, sounds good. I think I'll stay down here a little longer. Have a good bath!"
 
 *Ingram nods and promptly leaves the kitchen. Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of onions fills the air, making my stomach rumble in response.*
 
