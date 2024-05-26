@@ -7,9 +7,11 @@ Emi: "(. . .No, I can't sleep just yet. I need to take a bath first.)"
 
 Emi: "(I think Ingram said there was a hot spring here for bathing. This is the perfect opportunity to check it out!)"
 
-Emi: "(Whoa, Ingram wasn't kidding when he said hot spring! This place looks like it belongs in a full blown bathhouse!)"
+Emi: "(Whoa, Ingram wasn't kidding! This place looks like it belongs in a full blown bathhouse!)"
 
-*A generous amount of steam lingers above the surface of the water, only slivers of the bath visible from where I stand. From what I could make out, small rocks border the edges of the bath. I blindly follow the warm glow of the lanterns scattered around the floor, feeling around for the bath entrance.*
+*A generous amount of steam lingers above the surface of the water, only slivers of the bath visible from where I stand.*
+
+*From what I could make out, there are small rocks bordering the edges of the bath. I blindly follow the warm glow of the lanterns scattered around the floor, feeling around for the bath entrance.*
 
 *After a bit of careful treading, I come across a slight ramp descending into the water. With nothing but a towel in hand, I slowly slip in, immersing myself up to my shoulders.*
 
@@ -33,12 +35,16 @@ Emi: "(It's my first time witnessing them all together at once, and yet, I alrea
 
 Emi: "(I wonder what it'd be like if I got to know them a little better. . .I guess only time will tell.)"
 
-*I soak in the bath for a while longer, the relaxing sensation leaving me devoid of all thoughts. With how still everything around me is, it feels as if time has stopped for a brief moment. If it weren't for the ripples on the water's surface, I'd float away to dreamland within mere moments.*
+*I soak in the bath for a while longer, the relaxing sensation leaving me devoid of all thoughts.*
+
+*With how still everything around me is, it feels as if time has stopped for a brief moment. If it weren't for the ripples on the water's surface, I'd float away to dreamland within mere moments.*
 
 Emi: "(Huh. . .)"
 
 Emi: "(I feel a little lightheaded. Let's get out before I end up fainting.)"
 
-Emi: "(Hmm, I feel all warm now, thanks to the bath.)"
+Emi: "(Ahh, that was relaxing! My cheeks are all flushed now.)"
 
-Emi: "(I bet cooling down with a drink from downstairs would feel awesome right now. Or should I take advantage of this lazy feeling and go straight to bed?)"
+Emi: "(It's a little warm. . .I bet cooling down with a drink would feel awesome right now.)"
+
+Emi: "(Mmm but I'm kind of sleepy too. Maybe I should go up to my room and rest for the night?)"

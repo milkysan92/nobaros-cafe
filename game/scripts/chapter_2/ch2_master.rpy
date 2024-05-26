@@ -1,4 +1,7 @@
 # Chapter 2 master script; the main situation logic belongs here; there should be no dialogue lines
+default drinks = False
+default twilight = False
+
 label ch2_master:
     # call cafe_intro from _call_cafe_intro
     # call report_to_ingram from _call_report_to_ingram
@@ -20,5 +23,27 @@ label ch2_master:
     #     "Maple tree grove":
     #         call maple_grove
     call welcome_dinner
-
+    call bath_time
+    menu:
+        emi "What should I do?"
+        "Grab a drink":
+            $ drinks = True 
+        "Chill upstairs in bedroom":
+            $ twilight = True
+    if drinks:
+        call something_to_drink
+        menu:
+            emi "Hmm, I think I'll choose. . ."
+            "Water":
+                narrator "midnight snack"
+                # call midnight_snack
+            "Milk":
+                narrator "milk and honey"
+                # call milk_and_honey
+            "Tea":
+                narrator "lull of lavender"
+                # call lull_of_lavender
+    else:
+        narrator "twilight_stroll was called"
+        # call twilight_stroll
     return

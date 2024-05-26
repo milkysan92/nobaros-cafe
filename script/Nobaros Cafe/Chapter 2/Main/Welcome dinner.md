@@ -19,7 +19,9 @@ Ingram: "Oh? You weren't going to wait for me to make dinner as usual?"
 
 Kai: "Well, we wanted to switch it up a bit!"
 
-Annelise: "S-since it's the first time we'd be eating together, we thought it'd be an opportunity to officially welcome you as our new roommate, Emi."
+Annelise: "That's right. . .it's the first time we'd be eating together with you, Emi."
+
+Annelise: "So we thought it'd be good to make dinner as a special welcome celebration."
 
 Emi: "Wow, really? That's so thoughtful of you guys, I'm honoured!"
 
@@ -59,7 +61,9 @@ Annelise: "Ah, there it is!"
 
 Kai: "E-Eh?! Where'd you find that?!"
 
-*Just as Kai is about to offer a knife to her, Annelise finds a big cleaver at the back of the drawer. With an awkwardly threatening grip, she begins to hack away at the potatoes, chopping them into uneven chunks with questionable technique.*
+*Just as Kai is about to offer a knife to her, Annelise finds a big cleaver at the back of the drawer.*
+
+*With an awkwardly threatening grip, she begins to hack away at the potatoes, chopping them into uneven chunks with questionable technique.*
 
 Kai: "A-Annelise, do you need some help with that?"
 
@@ -77,21 +81,23 @@ Annelise: "Is your forehead okay? Can I check?"
 
 *Kai removes his hand from his forehead, revealing a big red mark in the shape of the potato piece.*
 
-Kai: "How does it look?"
+Kai: "How does it look? I'm not bleeding, am I?"
 
 Annelise: ". . ."
+
+Akira: ". . ."
 
 Ingram: ". . ."
 
 Emi: ". . ."
 
-Akira: ". . ."
-
 Kai: "What? Why's everyone so quiet?"
 
-Ingram: ". . .It's nothing. Your forehead is fine."
+Ingram: ". . .It's nothing. There's no injuries, your forehead is fine."
 
-*Ingram places a hand on Kai's shoulder, earning a confused look from him. The rest of us avert our eyes from Kai, trying not to bring attention to the newly established birthmark on his head.*
+*Ingram places a hand on Kai's shoulder, earning a confused look from him.*
+
+*The rest of us avert our eyes from Kai, trying not to bring attention to the newly established birthmark on his head.*
 
 Akira: "Annelise, how about you let Kai handle the chopping? You can help with stirring later on."
 
@@ -99,7 +105,9 @@ Annelise: ". . .Understood."
 
 Emi: "(I've never seen someone cut potatoes in such a menacing way. . .)"
 
-*Akira approaches Annelise, and she gives him the chef's cleaver with a pout. As Kai gets started on cutting the vegetables, Akira heads over to the sink and starts washing the dishes.*
+*Akira approaches Annelise, and she gives him the chef's cleaver with a pout.*
+
+*As Kai gets started on cutting the vegetables, Akira heads over to the sink and starts washing the dishes.*
 
 Ingram: "Do you need any help, Akira? My hands are free."
 
@@ -113,7 +121,7 @@ Emi: "Okay, sounds good. I think I'll stay down here a little longer. Have a goo
 
 *Ingram nods and promptly leaves the kitchen. Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of onions fills the air, making my stomach rumble in response.*
 
-Akira: "Here's the rest of the ingredients, Kai. I've already measured everything for you, so just need to add everything in once the beef and vegetables are cooked."
+Akira: "Here's the rest of the ingredients, Kai. I've already measured everything out, so you just need to add everything in once the beef and vegetables are cooked."
 
 Kai: "Got it! Thanks, Akira."
 
@@ -131,11 +139,15 @@ Emi: "(But judging from Annelise's knife skills, that doesn't seem like the case
 
 Emi: "(Still, I didn't expect that they'd pull something like this for me. I didn't know what to expect from them as my roommates, but I'm happy to see that they're good people.)"
 
-*Watching the three of them work together fills me with a sense of belonging. Despite the initial chaos, they eventually find their rhythm, each person contributing in their own way. Soon enough, the cooking process wraps up without any further mishaps.*
+*Watching the three of them work together fills me with a sense of belonging. Despite the initial chaos, they eventually find their rhythm, each person contributing in their own way.*
+
+*Soon enough, the cooking process wraps up without any further mishaps.*
 
 Kai: "Tadah! Presenting the much-anticipated nikujaga!"
 
-*A large dish sits proudly on the dining table, containing tender slices of beef intermingled with potatoes, carrots, and onions, all simmered to perfection in a savory broth. The glossy sheen on the surface hints at the dish's deliciously hearty nature, making my mouth water with anticipation.*
+*A large dish sits proudly on the dining table, containing tender slices of beef intermingled with potatoes, carrots, and onions, all simmered to perfection in a savory broth.*
+
+*The glossy sheen on the surface hints at the dish's deliciously hearty nature, making my mouth water with anticipation.*
 
 Emi: "Wow, it looks so legit! I can't believe you guys made this, considering all that happened in the kitchen!"
 
@@ -143,7 +155,9 @@ Akira: "Glad to hear. Let's have a taste and hope it's as good as it looks."
 
 Emi: "Thank you for the meal!"
 
-*With my chopsticks, I eagerly dig into the nikujaga with a generous bite. Rich, savoury umami explodes in my mouth, sending goosebumps down my arms. The tender beef, perfectly cooked potatoes, and carrots melt together into a harmonious blend of tastes that dance on my tastebuds.*
+*With my chopsticks, I eagerly dig into the nikujaga with a generous bite.*
+
+*Rich, savoury umami explodes in my mouth, sending goosebumps down my arms. The tender beef, perfectly cooked potatoes, and carrots melt together into a harmonious blend of tastes that dance on my tastebuds.*
 
 Emi: "Mmm, that's delicious! I feel like I'm ascending. . ."
 
@@ -159,9 +173,13 @@ Kai: "Wait, wait, that's not what I meant! I-"
 
 Ingram: "What's that? You'd love to? Sounds good, I'll be counting on you to make tomorrow's breakfast then."
 
-Kai: "Listen to me!"
+Kai: "Agh, just listen to me! Let me talk!"
 
-*I watch as Ingram and Kai continue to banter. It's a bit jarring to see Ingram teasing Kai like this, considering his usual calm demeanor. Akira notices me staring and gestures closer to me, speaking in a quiet tone so as to not draw any attention.*
+Annelise: "G-guys, please. . ."
+
+*I watch as Ingram and Kai continue to banter. It's a bit jarring to see Ingram teasing Kai like this, considering his usual calm demeanor.*
+
+*Akira notices me staring and gestures closer to me, speaking in a quiet tone so as to not draw any attention.*
 
 Akira: "Surprised?"
 
