@@ -1,37 +1,37 @@
 # Welcome dinner
-Emi: "Ahh, finally home! Today felt like a really long day."
+Emi: "Ahh, finally, home sweet home! Today felt like such a long day."
 
-Ingram: "Well, we had to do some spirit guiding right after closing, after all."
+Ingram: "Well, we did have to do some spirit guiding right after closing."
 
 Emi: "That's true. Now it's time to unwind!"
 
-*Just as Ingram and I walk through the front door, boisterous chattering erupts from the kitchen. Curious, I make my way over to see what the ruckus is.*
+*Just as Ingram and I walk through the front door, boisterous chattering erupts from the kitchen. Curious, I make my way over to see what the ruckus is about.*
 
-*Peering through the doorframe, I spot Kai, Annelise and Akira gathered around the dining table. They're deep in conversation, staring at a colourful array of fresh ingredients laid out before them.*
+*Peering through the doorframe, I spot Kai, Annelise and Akira gathered around the dining table, deeply engrossed in conversation. Before them lies a colourful array of fresh vegetables and various cooking sauces.*
 
 Emi: "Hey guys! What's going on? What are you talking about?"
 
 Kai: "Ah! Emi, Ingram, you're back!"
 
-Akira: "Welcome home, you two. You came at a good time, we were just about to get started with making dinner."
+Akira: "Welcome home, you two. Perfect timing, we were just about to start making dinner."
 
-Ingram: "Oh? You weren't going to wait for me to make dinner as usual?"
+Ingram: "Oh? You weren't going to wait for me to cook as usual?"
 
-Kai: "Well, we wanted to switch it up a bit!"
+Kai: "We wanted to switch it up a bit!"
 
 Annelise: "That's right. . .it's the first time we'd be eating together with you, Emi."
 
-Annelise: "So we thought it'd be good to make dinner as a special welcome celebration."
+Annelise: "We thought it would be nice to make dinner as a special welcome celebration."
 
-Emi: "Wow, really? That's so thoughtful of you guys, I'm honoured!"
+Emi: "Wow, really? That's so thoughtful of you guys. I'm honoured!"
 
-Ingram: "So, what have you guys decided on for tonight's menu?"
+Ingram: "So, what have you decided on for tonight's menu?"
 
-Akira: "We were thinking of making some nikujaga, as per Annelise's recommendation."
+Akira: "We were thinking of making nikujaga, as per Annelise's recommendation."
 
-Emi: "Oh, nikujaga sounds really good right now! I can't wait to see it."
+Emi: "Oh, nikujaga sounds perfect! I can't wait to see it."
 
-Emi: "Do you guys need any help with anything? Maybe I can help wash the ingredients or something?"
+Emi: "Do you guys need any help with anything? Maybe I can wash the ingredients or something?"
 
 Kai: "No, no, we've got it covered. You just sit back and relax!"
 
@@ -39,7 +39,7 @@ Emi: "Huh? Are you sure? But. . ."
 
 Annelise: "It's okay, Emi. We'll do our best to make this a great celebration dinner!"
 
-Emi: "Okay, if you insist. Let me know if you need my help in any way."
+Emi: "Okay, if you insist. Let me know if you need any help."
 
 Emi: "I'll just watch you guys from the sidelines. I want to see the cooking process."
 
@@ -93,7 +93,7 @@ Emi: ". . ."
 
 Kai: "What? Why's everyone so quiet?"
 
-Ingram: ". . .It's nothing. There's no injuries, your forehead is fine."
+Ingram: ". . .It's nothing. No injuries, your forehead is fine."
 
 *Ingram places a hand on Kai's shoulder, earning a confused look from him.*
 
@@ -107,7 +107,7 @@ Emi: "(I've never seen someone cut potatoes in such a menacing way. . .)"
 
 *Akira approaches Annelise, and she gives him the chef's cleaver with a pout.*
 
-*As Kai gets started on cutting the vegetables, Akira heads over to the sink and starts washing the dishes.*
+*As Kai gets started with cutting the vegetables, Akira heads over to the sink and starts washing the dishes, the sound of running water and clinking of dishes adding to the lively atmosphere.*
 
 Ingram: "Do you need any help, Akira? My hands are free."
 
@@ -115,11 +115,11 @@ Akira: "No, I think I'm good, but thanks. This is my way of contributing. I'd ra
 
 Ingram: "Alright, I'll leave you to it. Seems like you've got things under control here."
 
-Ingram: "Emi, why don't you relax while you wait for them to finish cooking? I'm going to go and soak in a hot bath while they're busy."
+Ingram: "Emi, why don't you relax while you wait for them to finish cooking? I'm going to go take a hot bath while they're busy."
 
 Emi: "Okay, sounds good. I think I'll stay down here a little longer. Have a good bath!"
 
-*Ingram nods and promptly leaves the kitchen. Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of onions fills the air, making my stomach rumble in response.*
+*Ingram nods and promptly leaves the kitchen. Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of caramelizing onions fills the air, making my stomach rumble in anticipation.*
 
 Akira: "Here's the rest of the ingredients, Kai. I've already measured everything out, so you just need to add everything in once the beef and vegetables are cooked."
 
@@ -135,9 +135,9 @@ Annelise: "Okay! I'll go grab the cutlery."
 
 Emi: "(Huh, they work pretty well together. Have they cooked together before?)"
  
-Emi: "(But judging from Annelise's knife skills, that doesn't seem like the case. I guess it does help that Akira is delegating tasks to keep things organized.)"
+Emi: "(But judging from Annelise's knife skills, that doesn't seem like the case. I guess it helps that Akira is delegating tasks to keep things organized.)"
 
-Emi: "(Still, I didn't expect that they'd pull something like this for me. I didn't know what to expect from them as my roommates, but I'm happy to see that they're good people.)"
+Emi: "(Still, I never would've imagined that they'd pull something like this for me. I didn't know what to expect from them as my roommates, but I'm happy to see that they're good people.)"
 
 *Watching the three of them work together fills me with a sense of belonging. Despite the initial chaos, they eventually find their rhythm, each person contributing in their own way.*
 
@@ -151,7 +151,7 @@ Kai: "Tadah! Presenting the much-anticipated nikujaga!"
 
 Emi: "Wow, it looks so legit! I can't believe you guys made this, considering all that happened in the kitchen!"
 
-Akira: "Glad to hear. Let's have a taste and hope it's as good as it looks."
+Akira: "Glad to hear that. Let's have a taste and hope it's as good as it looks."
 
 Emi: "Thank you for the meal!"
 
@@ -159,7 +159,7 @@ Emi: "Thank you for the meal!"
 
 *Rich, savoury umami explodes in my mouth, sending goosebumps down my arms. The tender beef, perfectly cooked potatoes, and carrots melt together into a harmonious blend of tastes that dance on my tastebuds.*
 
-Emi: "Mmm, that's delicious! I feel like I'm ascending. . ."
+Emi: "Mmm, that's delicious! I feel like I'm ascending."
 
 Annelise: "Thank goodness, I'm glad you like it."
 
@@ -191,4 +191,4 @@ Akira: "I don't know what it is with those two, but they're always like this whe
 
 Akira: "Just take it as a regular occurrence. You'll get used to it eventually."
 
-*I nod, taking in his words. Despite the unexpected turn of events, the dinner table is filled with a homey, lively atmosphere. With a contented sigh, I savour the rest of the dinner as the evening wears on.*
+*I nod, taking in his words. Despite the unexpected turn of events, the dinner table is filled with a homey atmosphere. With a contented sigh, I savour the rest of the dinner as the evening wears on.*

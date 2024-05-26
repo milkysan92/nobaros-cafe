@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Main/Welcome dinner.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Main/Welcome dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Main/Welcome dinner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md"
+                "file": "Chapter 2/Main/Welcome dinner.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "79fe1f3d66cad247",
   "lastOpenFiles": [
+    "Chapter 2/Chapter 2 Master.md",
     "Chapter 2/Main/Something to drink.md",
     "Something to drink.md",
-    "Chapter 2/Chapter 2 Master.md",
     "Chapter 2/Main/Welcome dinner.md",
     "Chapter 2/Main/Bath time.md",
     "Chapter 2/Mirror/Waterfall.md",

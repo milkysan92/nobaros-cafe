@@ -1,20 +1,20 @@
 label welcome_dinner:
     scene yuugen_entrance with bgwipe
     show ingram with dissolve
-    emi "Ahh, finally home! Today felt like a really long day."
-    ingram "Well, we had to do some spirit guiding right after closing, after all."
+    emi "Ahh, finally, home sweet home! Today felt like such a long day."
+    ingram "Well, we did have to do some spirit guiding right after closing."
     emi "That's true. Now it's time to unwind!"
-    narrator "Just as Ingram and I walk through the front door, boisterous chattering erupts from the kitchen. Curious, I make my way over to see what the ruckus is."
+    narrator "Just as Ingram and I walk through the front door, boisterous chattering erupts from the kitchen. Curious, I make my way over to see what the ruckus is about."
     scene blank with bgwipe
     scene kitchen_night with bgwipe
-    narrator "Peering through the doorframe, I spot Kai, Annelise and Akira gathered around the dining table. They're deep in conversation, staring at a colourful array of fresh ingredients laid out before them."
+    narrator "Peering through the doorframe, I spot Kai, Annelise and Akira gathered around the dining table, deeply engrossed in conversation. Before them lies a colourful array of fresh vegetables and various cooking sauces."
     emi "Hey guys! What's going on? What are you talking about?"
     show akira at left
     show annelise at center
     show kai at right
     with dissolve
     kai "Ah! Emi, Ingram, you're back!"
-    akira "Welcome home, you two. You came at a good time, we were just about to get started with making dinner."
+    akira "Welcome home, you two. Perfect timing, we were just about to start making dinner."
     show akira:
         left
         easein 1.0 xpos -300
@@ -25,19 +25,19 @@ label welcome_dinner:
         right
         easein 1.0 xpos 3250
     show ingram at Position(xpos=3300) with dissolve
-    ingram "Oh? You weren't going to wait for me to make dinner as usual?"
-    kai "Well, we wanted to switch it up a bit!"
+    ingram "Oh? You weren't going to wait for me to cook as usual?"
+    kai "We wanted to switch it up a bit!"
     annelise "That's right. . .it's the first time we'd be eating together with you, Emi."
-    annelise "So we thought it'd be good to make dinner as a special welcome celebration."
-    emi "Wow, really? That's so thoughtful of you guys, I'm honoured!"
-    ingram "So, what have you guys decided on for tonight's menu?"
-    akira "We were thinking of making some nikujaga, as per Annelise's recommendation."
-    emi "Oh, nikujaga sounds really good right now! I can't wait to see it."
-    emi "Do you guys need any help with anything? Maybe I can help wash the ingredients or something?"
+    annelise "We thought it would be nice to make dinner as a special welcome celebration."
+    emi "Wow, really? That's so thoughtful of you guys. I'm honoured!"
+    ingram "So, what have you decided on for tonight's menu?"
+    akira "We were thinking of making nikujaga, as per Annelise's recommendation."
+    emi "Oh, nikujaga sounds perfect! I can't wait to see it."
+    emi "Do you guys need any help with anything? Maybe I can wash the ingredients or something?"
     kai "No, no, we've got it covered. You just sit back and relax!"
     emi "Huh? Are you sure? But. . ."
     annelise "It's okay, Emi. We'll do our best to make this a great celebration dinner!"
-    emi "Okay, if you insist. Let me know if you need my help in any way."
+    emi "Okay, if you insist. Let me know if you need any help."
     emi "I'll just watch you guys from the sidelines. I want to see the cooking process."
     akira "That's fine by me. Let's get started then."
     hide akira
@@ -80,7 +80,7 @@ label welcome_dinner:
     ingram ". . ."
     emi ". . ."
     kai "What? Why's everyone so quiet?"
-    ingram ". . .It's nothing. There's no injuries, your forehead is fine."
+    ingram ". . .It's nothing. No injuries, your forehead is fine."
     narrator "Ingram places a hand on Kai's shoulder, earning a confused look from him."
     narrator "The rest of us avert our eyes from Kai, trying not to bring attention to the newly established birthmark on his head."
     hide ingram
@@ -92,7 +92,7 @@ label welcome_dinner:
     annelise ". . .Understood."
     emi "(I've never seen someone cut potatoes in such a menacing way. . .)"
     narrator "Akira approaches Annelise, and she gives him the chef's cleaver with a pout."
-    narrator "As Kai gets started on cutting the vegetables, Akira heads over to the sink and starts washing the dishes."
+    narrator "As Kai gets started with cutting the vegetables, Akira heads over to the sink and starts washing the dishes, the sound of running water and clinking of dishes adding to the lively atmosphere."
     hide annelise
     show ingram at left
     with faceswap
@@ -103,10 +103,10 @@ label welcome_dinner:
     show ingram:
         left
         easein 1.0 center
-    ingram "Emi, why don't you relax while you wait for them to finish cooking? I'm going to go and soak in a hot bath while they're busy."
+    ingram "Emi, why don't you relax while you wait for them to finish cooking? I'm going to go take a hot bath while they're busy."
     emi "Okay, sounds good. I think I'll stay down here a little longer. Have a good bath!"
     hide ingram with dissolve
-    narrator "Ingram nods and promptly leaves the kitchen. Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of onions fills the air, making my stomach rumble in response."
+    narrator "Ingram nods and promptly leaves the kitchen. Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of caramelizing onions fills the air, making my stomach rumble in anticipation."
     show kai at left
     show akira at right
     with dissolve
@@ -123,8 +123,8 @@ label welcome_dinner:
     hide akira
     with dissolve
     emi "(Huh, they work pretty well together. Have they cooked together before?)"
-    emi "(But judging from Annelise's knife skills, that doesn't seem like the case. I guess it does help that Akira is delegating tasks to keep things organized.)"
-    emi "(Still, I didn't expect that they'd pull something like this for me. I didn't know what to expect from them as my roommates, but I'm happy to see that they're good people.)"
+    emi "(But judging from Annelise's knife skills, that doesn't seem like the case. I guess it helps that Akira is delegating tasks to keep things organized.)"
+    emi "(Still, I never would've imagined that they'd pull something like this for me. I didn't know what to expect from them as my roommates, but I'm happy to see that they're good people.)"
     narrator "Watching the three of them work together fills me with a sense of belonging. Despite the initial chaos, they eventually find their rhythm, each person contributing in their own way."
     narrator "Soon enough, the cooking process wraps up without any further mishaps."
     scene blank with bgwipe
@@ -138,12 +138,12 @@ label welcome_dinner:
     narrator "A large dish sits proudly on the dining table, containing tender slices of beef intermingled with potatoes, carrots, and onions, all simmered to perfection in a savory broth."
     narrator "The glossy sheen on the surface hints at the dish's deliciously hearty nature, making my mouth water with anticipation."
     emi "Wow, it looks so legit! I can't believe you guys made this, considering all that happened in the kitchen!"
-    akira "Glad to hear. Let's have a taste and hope it's as good as it looks."
+    akira "Glad to hear that. Let's have a taste and hope it's as good as it looks."
     emi "Thank you for the meal!"
     scene kitchen_night with dissolve
     narrator "With my chopsticks, I eagerly dig into the nikujaga with a generous bite."
     narrator "Rich, savoury umami explodes in my mouth, sending goosebumps down my arms. The tender beef, perfectly cooked potatoes, and carrots melt together into a harmonious blend of tastes that dance on my tastebuds."
-    emi "Mmm, that's delicious! I feel like I'm ascending. . ."
+    emi "Mmm, that's delicious! I feel like I'm ascending."
     show annelise with dissolve
     annelise "Thank goodness, I'm glad you like it."
     show ingram at right with dissolve
@@ -166,5 +166,5 @@ label welcome_dinner:
     akira "I don't know what it is with those two, but they're always like this whenever we're gathered together."
     akira "Just take it as a regular occurrence. You'll get used to it eventually."
     hide akira with dissolve
-    narrator "I nod, taking in his words. Despite the unexpected turn of events, the dinner table is filled with a homey, lively atmosphere. With a contented sigh, I savour the rest of the dinner as the evening wears on."
+    narrator "I nod, taking in his words. Despite the unexpected turn of events, the dinner table is filled with a homey atmosphere. With a contented sigh, I savour the rest of the dinner as the evening wears on."
     return
