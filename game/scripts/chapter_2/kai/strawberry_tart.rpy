@@ -1,38 +1,36 @@
 label strawberry_tart:
-    narrator "I carefully place the strawberry tart into a mini box, ensuring it's secure before sealing it shut with tape. With the box in hand, I head back to the cafe entrance."
-    hide emi with dissolve
-    scene cafe with fade
-    show emi with dissolve
-    emi "(Huh? Where'd he go? I thought I told him to wait here.)"
+    narrator base "I carefully place the strawberry tart into a mini box, ensuring it's secure before sealing it shut with tape. With the box in hand, I head back to the cafe entrance."
+    scene blank with bgwipe
+    scene cafe with bgwipe
+    emi base "(Huh? Where'd he go? I thought I told him to wait here.)"
     narrator "I scan the cafe, searching for any sign of Kai."
-    narrator "Suddenly, a pair of hands slam down on my shoulders, causing me to gasp and almost drop the box."
-    show kai at right with dissolve
-    show emi at left with move    
+    emi talk "Ah!" with hpunch
+    narrator base "Suddenly, a pair of hands slam down on my shoulders, causing me to gasp and almost drop the box."
+    show kai with dissolve
     narrator "Kai bursts into laughter, clearly amused by his prank."
     kai "Gotcha, Emi! Sorry, I couldn't resist."
     narrator "Turning to face him, I try to hide my surprise with a glare."
-    emi "Kai, you scared me!"
-    kai "Aw, come on, it was just a little joke. Here, let me make it up to you."
+    emi talk "Kai, you scared me!"
+    kai base "Aw, come on, it was just a little joke. Here, let me make it up to you."
     narrator "He wipes a tear from his eye, looking at me with a sheepish smile."
-    emi "It isn't very nice to scare someone who went through the trouble of finding food for you."
-    kai "You're right, I'm sorry. I promise I'll behave."
+    emi talk "It isn't very nice to scare someone who went through the trouble of finding food for you."
+    kai base "You're right, I'm sorry. I promise I'll behave."
     kai "So what did you end up finding?"
     narrator "With a huff, I push the box containing the strawberry tart into his arms."
-    emi "There was a leftover strawberry tart. It probably won't fill you up too much but it was what we had."
-    narrator "Kai carefully opens the box, peering inside to inspect the strawberry tart. For a brief moment, his face contorts, but he quickly covers it with a polite smile."
+    emi talk "There was a leftover strawberry tart. It probably won't fill you up too much but it was what we had."
+    narrator base "Kai carefully opens the box, peering inside to inspect the strawberry tart. For a brief moment, his face contorts, but he quickly covers it with a polite smile."
     kai "Oh, thanks! I, uh, appreciate that you took the time and effort to find something for me."
-    emi "Is something wrong? You don't look very happy."
-    narrator "Kai averts his gaze, unable to look me in the eye. He hesitates to answer."
+    emi talk "Is something wrong? You don't look very happy."
+    narrator base "Kai averts his gaze, unable to look me in the eye. He hesitates to answer."
     kai "The truth is, I'm not a very big fan of strawberries. They just don't sit well with me."
-    emi "Oh shoot, I'm so sorry! I should've asked you if you had any preferences. I can go grab you something else!"
-    kai "No, don't worry about it! I can still eat it. I'll just make sure to eat a big meal when I get home later."
-    emi "Are you sure? You don't have to force yourself."
-    kai "Really, it's okay. Don't feel too bad, you didn't know any better."
+    emi talk "Oh shoot, I'm so sorry! I should've asked you if you had any preferences. I can go grab you something else!"
+    kai base "No, don't worry about it! I can still eat it. I'll just make sure to eat a big meal when I get home later."
+    emi talk "Are you sure? You don't have to force yourself."
+    kai base "Really, it's okay. Don't feel too bad, you didn't know any better."
     narrator "Despite my insistence, Kai refuses to accept anything else and makes do with the strawberry tart."
     narrator "To prove his point, he take the tart and bites out of it."
-    emi "W-wait, you don't have to-!"
-    narrator "He forces a smile and shows me a thumbs up, signaling that he's okay. But the expression on his face says otherwise."
-    kai "Alright, I'm gonna head out now. Thanks so much for the help! It was nice to finally meet you, I'll see you later."
+    emi talk "W-wait, you don't have to-!"
+    narrator base "He forces a smile and shows me a thumbs up, signaling that he's okay. But the expression on his face says otherwise."
     kai ". . .mmph!"
     emi "(!!!)"
     emi "(Oh no! It's stuck in his chest!)"
@@ -41,11 +39,10 @@ label strawberry_tart:
     kai "*Huff {w=0.2}huff*"
     kai "Thanks. . .I needed that."
     kai "I don't feel so good. . .I think I should go home and rest."
-    emi "I'm so sorry. I hope you feel better soon. . ."
-    kai "Thanks for the help Emi. I'll see you later."
+    emi talk "I'm so sorry. I hope you feel better soon. . ."
+    kai base "Thanks for the help Emi. I'll see you later."
     narrator "I watch Kai stagger out of the cafe, the door chime tinkling as he leaves, my heart heavy with guilt."
     hide kai with dissolve
-    show emi at center with move
     emi "(Dang it, I should've chosen the macarons!)"
     emi "(Next time, I'll make sure to ask about dietary preferences instead of assuming.)"
     emi "(Let's get onto the next chore. . .)"

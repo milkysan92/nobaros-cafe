@@ -4,6 +4,10 @@ init:
 # Transition for changing sprite expressions
     $ faceswap = Dissolve(0.2)
 
+# Transitions for side image sprites
+    $ config.side_image_same_transform = Dissolve(0.2)     # Switching between same character
+    $ config.side_image_change_transform = Dissolve(0.2)   # Switching between diff characters
+
 # Transform for being startled
     transform startle(rate=0.050):
         linear rate xoffset 2 yoffset -6
@@ -27,7 +31,7 @@ init:
     #     start
     #     easein time end
 
-# BG Transition that wipes with black towards right
+# BG Transition that wipes towards right
     $ bgwipe = ImageDissolve("Transitions/blank.png", 1.0, 32)
 
 # Various transitions from online

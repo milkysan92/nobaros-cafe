@@ -1,8 +1,9 @@
 
 # CHARACTER NAME VARIABLES----------------------------------------------------------------------------------------------
+# Names are set as variables to make translation easier down the line
 # Main characters
 # TODO: Allow Emi's name to be customizable based on player input;
-# Code files will use "emi", but player name will be displayed in-game
+# Code files & variables will use "emi", but player name will be displayed in-game
 define emi_name = _("Emi")
 define ingram_name = _("Ingram")
 define kai_name = _("Kai")
@@ -25,10 +26,10 @@ define grandson_name = _("Haruto")
 define narrator = Character("", image="emi")
 
 # Main characters
-# Define Emi and her many personas from spirit guiding missions
+# Define Emi and her many personas for spirit guiding missions (SGMs)
 define emi = Character(emi_name, color="#ffbcca", image="emi")
 define sgm_emi = Character(f"{emi_name}?", color="#ffbcca")
-define config.side_image_tag = "emi"    # This line is for persistent side image
+define config.side_image_tag = "emi"    # Persistent side image when others are talking
 
 # Emi CH2 SGM
 define ch2_emi = Character(f"{emi_name} (as {emi_ch2})", color="#ffbcca", image="himari")
@@ -54,17 +55,17 @@ define grandma = Character(f"{grandson_name}'s grandma", color="#ffffff")
 define grandpa = Character(f"{grandson_name}'s grandpa", color="#ffffff")
 
 # Chapter 6
-define akina = Character(ch6_name, color="#d9d9d9")
+define akina = Character(ch6_name, color="#d9d9d9", image="emi")
 
 # Other NPCs
-define yua = Character(friend_name, color="#d9d9d9")
-define shohei = Character(crush_name, color="#d9d9d9")
+define yua = Character(friend_name, color="#d9d9d9", image="emi")
+define shohei = Character(crush_name, color="#d9d9d9", image="emi")
 
 # Unknown characters for pre-introduction interactions
 define uk_nar = Character("", what_slow_cps=30)
-define uk_generic = Character("?????", color="#ffffff")
-define uk_emi = Character("?????", color="#ffbcca")
-define uk_ingram = Character("?????", color="#9fe7ff")
-define uk_kai = Character("?????", color="#fad5af")
-define uk_akira = Character("?????", color="#c7f5c5")
-define uk_annelise = Character("?????", color="#fff0b1")
+define uk_generic = Character("?????", color="#ffffff", image="emi")
+define uk_emi = Character("?????", color="#ffbcca", image="emi")
+define uk_ingram = Character("?????", color="#9fe7ff", image="emi")
+define uk_kai = Character("?????", color="#fad5af", image="emi")
+define uk_akira = Character("?????", color="#c7f5c5", image="emi")
+define uk_annelise = Character("?????", color="#fff0b1", image="emi")

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79fe1f3d66cad247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Main/Welcome dinner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f26032d733e6d62",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Main/Welcome dinner.md",
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Main/Welcome dinner.md",
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Main/Welcome dinner.md"
+                "file": "Chapter 2/Chapter 2 Master.md"
               }
             }
           }
@@ -159,13 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79fe1f3d66cad247",
+  "active": "0f26032d733e6d62",
   "lastOpenFiles": [
+    "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Chapter 2 Master.md",
-    "Chapter 2/Main/Something to drink.md",
-    "Something to drink.md",
     "Chapter 2/Main/Welcome dinner.md",
+    "Chapter 2/Main/Cafe Intro.md",
+    "Chapter 2/Main/Something to drink.md",
     "Chapter 2/Main/Bath time.md",
+    "Something to drink.md",
     "Chapter 2/Mirror/Waterfall.md",
     "Chapter 2/Mirror/Maple grove.md",
     "Chapter 2/Main/New customer 2.md",
@@ -176,7 +166,6 @@
     "Chapter 2/Main/Report to Ingram.md",
     "Chapter 2/Ingram/About Ingram.md",
     "Chapter 4/Chapter 4 Master.md",
-    "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Main/Meeting others.md",
     "New customer 2.md",
     "Chapter 2/Akira/Cafe duties.md",
@@ -187,7 +176,6 @@
     "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 2/Kai/Strawberry tart.md",
     "Chapter 2/Kai/Macarons.md",
-    "Chapter 2/Kai/Meeting Kai.md",
     "Chapter 4",
     "Chapter 3",
     "Chapter 2/Main",

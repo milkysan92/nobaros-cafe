@@ -21,13 +21,24 @@
 - Script for DLC is written
 - Functional minigames
 
-# Beta
+# Closed Beta
 - Implemented feedback from alpha stage
 - Will start after kickstarter campaign finishes (and if we get funded)
 - Promo video editor contacted
+- Work on kickstarter merch (if I decide to do merch)
 - Open to alpha testers & kickstarter sponsors
 
 **_DLC development:_**
 - Script for DLC includes Ren'Py logic
 - Draft for art assets
 - Functional minigames
+
+# Final release notes
+- Release on Steam
+	- Around 1-2 months after beta ends?
+	- Bug fixes from beta feedback
+- Marketing strategies in action
+- Promo video should be ready
+
+**_DLC development:_**
+- Beta test for DLC (if necessary)

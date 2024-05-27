@@ -7,6 +7,8 @@ Emi: "(Huh? Where'd he go? I thought I told him to wait here.)"
 
 *Suddenly, a pair of hands slam down on my shoulders, causing me to gasp and drop the macarons.*
 
+Emi: "Ah!"
+
 *Kai bursts into laughter, clearly amused by his prank.*
 
 Kai: "Gotcha, Emi! Sorry, I couldn't resist."
@@ -53,7 +55,7 @@ Emi: "Wow, you really devoured that bag. I'm surprised you didn't choke on a cru
 
 Kai: "What can I say? I like sweets. If you put some in front of me, I guarantee they'll disappear right under your nose."
 
-Emi: "(I guess that's one thing we have in common.)"
+Emi: "(So he's a fellow sweet tooth. That's one thing we have in common.)"
 
 Kai: "Alright, now that I've gotten a bite to eat, I'm gonna head out now."
 

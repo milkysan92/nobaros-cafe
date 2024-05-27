@@ -1,4 +1,5 @@
 ﻿# Master script; this script should contain global vars & overall chapter logic
+image blank = "#000000"
 label start:
     # call prologue_master
     # call ch1_master
@@ -7,7 +8,7 @@ label start:
     # call ch4_master
 
     # From here on out, the player is locked in character specific routes; the logic for route locking will be contained in chapter 4
-    # Set global variable ("route"?) to determine which route chapters to play
+    # Set global/persistent variable ("route"?) to determine which route chapters to play
     # ch4 should contain some logic to evaluate relationship points and determine the value of "route" 
     # Might want to double check if it's possible to change/update the value of a variable if something changes within one of the scripts?
 
@@ -51,6 +52,7 @@ label start:
             # else:
                 # call badEnd_annelise
 
+    #TODO: Figure out logic for changing the title screen based on which good endings have been completed
     # call intro
     # call phantasia
     return
