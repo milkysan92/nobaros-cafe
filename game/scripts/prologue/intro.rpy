@@ -1,5 +1,3 @@
-image blank = "#000000"
-
 # A monologue about the significance of memories
 # Later, some sort of deal involving erasing memories takes place
 

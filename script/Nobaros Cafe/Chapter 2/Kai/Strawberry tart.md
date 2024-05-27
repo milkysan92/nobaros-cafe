@@ -5,6 +5,8 @@ Emi: "(Huh? Where'd he go? I thought I told him to wait here.)"
 
 *I scan the cafe, searching for any sign of Kai.*
 
+Emi: "Ah!"
+
 *Suddenly, a pair of hands slam down on my shoulders, causing me to gasp and almost drop the box.*
 
 *Kai bursts into laughter, clearly amused by his prank.*
