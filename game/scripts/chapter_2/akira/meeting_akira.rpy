@@ -1,21 +1,20 @@
 label meeting_akira:
-    emi "Let's go clean up some empty dishes."
-    narrator "I grab a few of the neatly folded rags and head back out to the floor."
-    scene cafe with fade
-    show emi with dissolve
-    narrator "A peaceful hum lingers, customers engrossed in conversation throughout the space."
+    emi talk "Let's go clean up some empty dishes."
+    narrator base "I grab a few of the neatly folded rags and head back out to the floor."
+    scene blank with bgwipe
+    scene cafe with bgwipe
+    narrator base "A peaceful hum lingers, customers engrossed in conversation throughout the space."
     narrator "The soft murmur of voices creates a soothing backdrop, inviting all who enter to relax and unwind in the welcoming embrace of the cafe."
     narrator "Starting at the table closest to me, I gingerly gather the dirty dishes."
     narrator "The ceramic dishes clink softly as I stack them, their surfaces adorned with remnants of delicious meals enjoyed by the customers."
     narrator "Once the dishes are cleared, I swiftly wipe down the surface with a rag. As I progress, the pure white look of the rag turns discoloured from all the spills and crumbs."
     narrator "Soon, the smooth tabletop gleams, revealing the intricate wood grain underneath."
     narrator "I move onto the next table, scanning for any signs of leftover dishes."
-    emi "Hm? Isn't that. . ."
-    narrator "My eyes fall on the corner of the cafe, where a familiar figure lounges around."
+    emi talk "Hm? Isn't that. . ."
+    narrator base "My eyes fall on the corner of the cafe, where a familiar figure lounges around."
     narrator "He savours his espresso with small, deliberate sips, the steam dissipating in a lazy manner. Sunlight filters through the window, enveloping him in a warm aura."
     narrator "Drawing slightly closer, I squint in an attempt to discern his features."
-    show emi at right with move
-    show akira at left with dissolve
+    show akira with dissolve
     emi "(It's Akira! I ran into him back at Yuugen House the other night.)"
     narrator "His sun-kissed hair is styled in a clean fashion, with a few golden strands tucked behind his ear."
     narrator "The rose-brown hue of his eyes are framed by a sophisticated pair of glasses. A green blazer casually drapes over the shoulders of his well-fitted black dress shirt, tying the look together with a sense of refinement."
@@ -29,13 +28,13 @@ label meeting_akira:
     narrator "Akira greets me with a kind smile, adjusting his posture as I approach the table."
     akira "Hello, we meet again."
     akira "You're Emi, right? I believe we met back at Yuugen House the other night."
-    emi "Y-yes, I remember you. I think you said your name is Akira?"
-    emi "(Why am I stammering!? I need to calm down.)"
+    emi talk "Y-yes, I remember you. I think you said your name is Akira?"
+    emi base "(Why am I stammering!? I need to calm down.)"
     akira "Bingo, you've got the right guy."
     akira "Are you busy? It's a lovely day out, and it'd be nice to chat with someone to pass the time."
     narrator "A small voice at the back of my mind tempts me to join Akira."
-    emi "Oh, sorry, I'm in the middle of doing something. I need to collect some empty dishes and clean tables."
-    akira "Ah, is that so? So Ingram has already assigned you a fair amount of chores to work on, huh?"
+    emi talk "Oh, sorry, I'm in the middle of doing something. I need to collect some empty dishes and clean tables."
+    akira base "Ah, is that so? So Ingram has already assigned you a fair amount of chores to work on, huh?"
     narrator "Akira shifts his gaze, scanning the cafe as he observes the other tables. I peek at the espresso cup in front of him."
     emi "(Is he almost done with his drink? It looks like there's just a sip or two left.)"
     narrator "Noticing my gaze, Akira picks up the cup and holds it in his hands, meeting my eyes with another warm smile."
@@ -47,7 +46,7 @@ label meeting_akira:
 
     # Choose whether to chat with Akira or not
     menu:
-        emi "I think I'll. . ."
+        emi talk "I think I'll. . ."
         "Focus on cafe chores":
             call cafe_duties from _call_cafe_duties
 
@@ -56,7 +55,6 @@ label meeting_akira:
 
     $ collected_dishes = True
     $ chores_left -= 1
-    hide emi with dissolve
-    scene storage_room with fade
-    show emi with dissolve
+    scene blank with bgwipe
+    scene storage_room with bgwipe
     return

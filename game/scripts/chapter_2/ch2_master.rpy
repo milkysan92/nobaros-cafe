@@ -7,7 +7,7 @@ label ch2_master:
     call report_to_ingram from _call_report_to_ingram
     # TODO: Put this choice menu in report_to_Ingram
     menu:
-        emi "(What should I tell him. . .?)"
+        emi base "(What should I tell him. . .?)"
         "Ask about Ingram":
             call about_ingram
         "Mention the others":
