@@ -9,10 +9,10 @@ label ch2_master:
     menu:
         emi base "(What should I tell him. . .?)"
         "Ask about Ingram":
-            call about_ingram
+            call about_ingram from _call_about_ingram
         "Mention the others":
             narrator "A gut feeling tells me to leave the thought alone, so I decide to tell him about Kai, Akira and Annelise instead."
-    call meeting_others
+    call meeting_others from _call_meeting_others
     # call new_customer_2
     # call sweven_mirror_2
     # # TODO: Put this choice menu in sweven_mirror_2
