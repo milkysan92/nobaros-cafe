@@ -9,7 +9,7 @@ The story is influenced by the idea that everybody has a story of their own and 
 
  If possible, I'd like to monetize the game down the road. No concrete plans have been made on how that will be done, but the ultimate goal is to release the game on Steam. This passion project is like my baby, so I have high expectations and ambitions when it comes to game quality. Please keep this in mind when working on the game.
 
- There's a [game development roadmap](https://github.com/milkysan92/nobaros-cafe/blob/main/README.md) that outlines what should be accomplished at each stage.
+ There's a [game development roadmap](https://github.com/milkysan92/nobaros-cafe/blob/main/script/Nobaros%20Cafe/Game%20development%20roadmap.md) that outlines what should be accomplished at each stage. This may be updated as development goes on.
 
 ## **Collaboration & References**
 A [Discord server](https://discord.gg/DMZjjJ9PHH) has been created for development purposes. Please use it to discuss ideas with each other & put together any references that may be helpful. Some sort of folder structure may be incorporated in the future to have all reference pics in one place.
