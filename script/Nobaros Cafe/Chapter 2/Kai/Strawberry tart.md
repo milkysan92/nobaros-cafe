@@ -29,7 +29,7 @@ Kai: "So what did you end up finding?"
 
 *With a huff, I push the box containing the strawberry tart into his arms.*
 
-Emi: "There was a leftover strawberry tart. It probably won't fill you up too much but it was what we had."
+Emi: "There was a leftover strawberry tart. It probably won't fill you up too much, but it was what we had."
 
 *Kai carefully opens the box, peering inside to inspect the strawberry tart. For a brief moment, his face contorts, but he quickly covers it with a polite smile.*
 
@@ -37,9 +37,11 @@ Kai: "Oh, thanks! I, uh, appreciate that you took the time and effort to find so
 
 Emi: "Is something wrong? You don't look very happy."
 
+Emi: "(I don't think the tart looked that bad, did it. . .?)"
+
 *Kai averts his gaze, unable to look me in the eye. He hesitates to answer.*
 
-Kai: "The truth is, I'm not a very big fan of strawberries. They just don't sit well with me."
+Kai: "The truth is, I'm not a very big fan of strawberries. They just don't sit well with my stomach for some reason."
 
 Emi: "Oh shoot, I'm so sorry! I should've asked you if you had any preferences. I can go grab you something else!"
 
@@ -55,7 +57,9 @@ Kai: "Really, it's okay. Don't feel too bad, you didn't know any better."
 
 Emi: "W-wait, you don't have to-!"
 
-*He forces a smile and shows me a thumbs up, signaling that he's okay. But the expression on his face says otherwise.*
+*In a matter of minutes, he scarfs down the strawberry tart, leaving no crumb behind.*
+
+*He forces a smile and shows me a thumbs up in an attempt to prove that he's fine, but the expression on his face says otherwise.*
 
 Kai: ". . .mmph!"
 

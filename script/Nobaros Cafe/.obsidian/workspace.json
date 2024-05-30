@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 4/Chapter 4 Master.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31e4c89e1858689e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Main/Something to drink.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "770f2649500378ff",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 4/Chapter 4 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 4/Chapter 4 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md"
+                "file": "Chapter 4/Chapter 4 Master.md"
               }
             }
           }
@@ -151,9 +162,10 @@
   "lastOpenFiles": [
     "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Annelise/Lull of lavender.md",
+    "Chapter 2/Main/Something to drink.md",
     "Chapter 2/Main/Welcome dinner.md",
     "Chapter 2/Main/Cafe Intro.md",
-    "Chapter 2/Main/Something to drink.md",
     "Chapter 2/Main/Bath time.md",
     "Something to drink.md",
     "Chapter 2/Mirror/Waterfall.md",
@@ -175,7 +187,6 @@
     "Chapter 2/Annelise/Continue dusting.md",
     "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 2/Kai/Strawberry tart.md",
-    "Chapter 2/Kai/Macarons.md",
     "Chapter 4",
     "Chapter 3",
     "Chapter 2/Main",

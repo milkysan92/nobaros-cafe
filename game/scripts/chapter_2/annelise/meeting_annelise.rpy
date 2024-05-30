@@ -11,7 +11,7 @@ label meeting_annelise:
     narrator "The selection is vast, ranging from scientific encyclopedias to enchanting novels, each book whispering stories of worlds unknown."
     narrator "The cozy atmosphere envelops me, tempting me to indulge in a tale or two. I could easily see myself taking a nap in this room if I wasn't careful."
     emi "(Now then, where would be a good place to start dusting?)"
-    emi talk ". . . Ah!"
+    emi talk ". . . Ah!" with talkpunch
     narrator base "Suddenly, my legs are blocked by something solid, and I nearly fall before regaining my footing in the nick of time."
     narrator "I look behind me, finding a pile of books scattered all over the floor, their pages fluttering in the air."
     narrator "On the floor, there's a girl who looks as if she was in the middle of reading."

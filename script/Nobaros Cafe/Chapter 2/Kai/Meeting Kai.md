@@ -1,9 +1,9 @@
 # Meeting Kai
 Emi: "Let's sweep the foyer!"
 
-*I grab the broom leaning against the corner and head out to the floor, collecting the day's accumulation of dust and dirt.*
+*I grab the broom leaning against the corner and head out to the foyer.*
 
-*Starting at each table, I create small piles, nudging them towards a corner where a larger pile awaits.*
+*Starting at each table, I create small piles, nudging them towards a corner where a larger pile awaits. Slowly but surely, the day's accumulation of dust and dirt start to disappear.*
 
 *As I sweep under the final table, a glint of light catches my eye. Intrigued, I crouch down and inspect the dust pile more closely.*
 
@@ -21,13 +21,13 @@ Emi: "What a pretty charm! I wonder where it came from. . . maybe someone's neck
 
 *Just as I'm about to finish up, the front door bursts open and a blaring voice shatters my eardrums.*
 
-UK Kai: "INGRAM!! ARE YOU IN HERE?!"
+UK_Kai: "INGRAM!! ARE YOU IN HERE?!"
 
 *I shoot my eyes towards the cafe entrance.*
 
 *A guy around my age stands right at the doorway, panting heavily as if he had been sprinting just before arriving, his jacket barely clinging to his shoulders.* 
 
-*Out of the corner of my eye, I see Ingram in the middle of filling the display case, still unaware that the front door had swung right open.* 
+*Out of the corner of my eye, I see Ingram in the middle of preparing some espresso shots at the coffee grinder, still unaware that the front door had swung right open.* 
 
 *In his stead, I quickly pat my hands dry with a nearby towel and approach the disheveled guy to see what the ruckus is.*
 
@@ -35,7 +35,7 @@ Emi: "Sorry, Ingram is busy at the moment. Can I help you with something?"
 
 *The guy looks at me desperately and claps his hands together, as if he's about to pray.*
 
-UK_Kai: "Oh thank god you're here! I lost something and I think it might be somewhere around here."
+UK_Kai: "Oh, thank god you're here! I lost something and I think it might be somewhere around here."
 
 Emi: "What did you lose? Maybe I can help you find it."
 
@@ -141,7 +141,7 @@ Emi: "(I feel bad for him. . . he almost looks like a sad puppy.)"
 
 Emi: "Okay, hold on, I have an idea. I can go find something for you to eat from behind the counter."
 
-Kai: "Wait wait, stealing food is a crime! There's no need for you to go to such lengths for me."
+Kai: "Wait, wait, stealing food is a crime! There's no need for you to go to such lengths for me."
 
 Emi: "What? No, you've got it all wrong, I'm not gonna steal from the display case."
 

@@ -87,11 +87,11 @@ Annelise: "I do! Let me go grab it and show you!"
 
 Annelise: "This is it! It's called Hiraeth, and I highly recommend it."
 
-Annelise: "It's about a young artist named Elara. She experiences these extraordinary dreams where she visits a mystical land called Hiraeth, filled with enchanting mysteries and sights as far as the eye can see."
+Annelise: "It's about a young artist. She experiences these extraordinary dreams where she visits a mystical land called Hiraeth, filled with enchanting mysteries and sights as far as the eye can see."
 
 Emi: "That sounds fascinating! What do you like about it?"
 
-Annelise: "I really admire Elara's strength!" 
+Annelise: "I really admire her strength!" 
 
 Annelise: "Despite being a struggling artist with lots of challenges to overcome, she manages to find inspiration in her journeys to Hiraeth."
 

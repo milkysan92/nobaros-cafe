@@ -8,7 +8,7 @@ init:
     $ config.side_image_same_transform = Dissolve(0.2)     # Switching between same character
     $ config.side_image_change_transform = Dissolve(0.2)   # Switching between diff characters
 
-# Transform for being startled
+# Transform for being startled (entire scene or sprite)
     transform startle(rate=0.050):
         linear rate xoffset 2 yoffset -6
         linear rate xoffset -2.8 yoffset -2
@@ -23,6 +23,9 @@ init:
         linear rate xoffset 5.6 yoffset -4
         # linear rate xoffset -4 yoffset -12
         linear rate xoffset +0 yoffset +0
+
+# Transform for dialogue impact (Tripping over something, being startled, etc. . .)
+    $ talkpunch = Move((0, 15), (0, -15), .10, bounce=True, repeat=True, delay=.075)
 
 # Modified ease transition for moving sprites
     # transform ease(start, end, time):
