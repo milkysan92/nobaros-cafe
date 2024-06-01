@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c892559e564d8469",
+        "id": "e69be929e10e0cae",
         "type": "tabs",
         "children": [
           {
-            "id": "0f26032d733e6d62",
+            "id": "fd6470ab38ba6122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 4/Chapter 4 Master.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31e4c89e1858689e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Main/Something to drink.md",
+                "file": "Chapter 2/Akira/Twilight stroll.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4/Chapter 4 Master.md",
+                "file": "Chapter 2/Akira/Twilight stroll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 4/Chapter 4 Master.md",
+                "file": "Chapter 2/Akira/Twilight stroll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 4/Chapter 4 Master.md"
+                "file": "Chapter 2/Akira/Twilight stroll.md"
               }
             }
           }
@@ -158,35 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f26032d733e6d62",
+  "active": "629c26ae813d7639",
   "lastOpenFiles": [
-    "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Chapter 2 Master.md",
-    "Chapter 2/Annelise/Lull of lavender.md",
-    "Chapter 2/Main/Something to drink.md",
-    "Chapter 2/Main/Welcome dinner.md",
-    "Chapter 2/Main/Cafe Intro.md",
-    "Chapter 2/Main/Bath time.md",
-    "Something to drink.md",
-    "Chapter 2/Mirror/Waterfall.md",
-    "Chapter 2/Mirror/Maple grove.md",
-    "Chapter 2/Main/New customer 2.md",
-    "Chapter 2/Mirror/Sweven mirror 2.md",
-    "Chapter 2/Mirror/Sweven Mirror 2.md",
-    "Chapter 2/Mirror",
-    "Game development roadmap.md",
-    "Chapter 2/Main/Report to Ingram.md",
-    "Chapter 2/Ingram/About Ingram.md",
     "Chapter 4/Chapter 4 Master.md",
+    "Chapter 3/Chapter 3 Master.md",
+    "Chapter 2/Main/Bath time.md",
+    "Chapter 2/Akira/Twilight stroll.md",
+    "Chapter 2/Main/Something to drink.md",
+    "Chapter 2/Main/New customer 2.md",
     "Chapter 2/Main/Meeting others.md",
-    "New customer 2.md",
+    "Chapter 2/Ingram/About Ingram.md",
+    "Chapter 2/Main/Report to Ingram.md",
     "Chapter 2/Akira/Cafe duties.md",
     "Chapter 2/Akira/Afternoon chat.md",
     "Chapter 2/Akira/Meeting Akira.md",
-    "Chapter 2/Annelise/Shelve books.md",
     "Chapter 2/Annelise/Continue dusting.md",
+    "Chapter 2/Annelise/Shelve books.md",
     "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 2/Kai/Strawberry tart.md",
+    "Chapter 2/Kai/Macarons.md",
+    "Chapter 2/Kai/Meeting Kai.md",
+    "Chapter 2/Main/Cafe Intro.md",
+    "Chapter 2/Annelise/Lull of lavender.md",
+    "Chapter 2/Main/Welcome dinner.md",
+    "Something to drink.md",
+    "Chapter 2/Mirror/Waterfall.md",
+    "Chapter 2/Mirror/Maple grove.md",
+    "Chapter 2/Mirror/Sweven mirror 2.md",
+    "Chapter 2/Mirror",
     "Chapter 4",
     "Chapter 3",
     "Chapter 2/Main",
