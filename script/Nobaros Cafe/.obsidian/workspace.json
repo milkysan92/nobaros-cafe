@@ -20,54 +20,19 @@
             }
           },
           {
-            "id": "8603f0677a52869e",
+            "id": "d2dfae21da6ab396",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Main/Something to drink.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c6b61420ae05ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Annelise/Lull of lavender.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fdbb9c56f73161d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Ingram/Milk and honey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c2585d58005a4bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Akira/Twilight stroll.md",
-                "mode": "source",
+                "file": "Chapter 2/Chapter 2 Master.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Kai/Midnight snack.md",
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Kai/Midnight snack.md",
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Kai/Midnight snack.md"
+                "file": "Chapter 2/Chapter 2 Master.md"
               }
             }
           }
@@ -195,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "319afaeb311941b9",
+  "active": "d2dfae21da6ab396",
   "lastOpenFiles": [
+    "Chapter 2/Kai/Midnight snack.md",
     "Chapter 2/Akira/Twilight stroll.md",
     "Chapter 2/Main/Welcome dinner.md",
-    "Chapter 2/Kai/Midnight snack.md",
     "Chapter 2/Ingram/Milk and honey.md",
     "Chapter 2/Main/Something to drink.md",
     "Chapter 2/Annelise/Lull of lavender.md",

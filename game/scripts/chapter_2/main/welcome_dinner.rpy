@@ -106,7 +106,8 @@ label welcome_dinner:
     ingram "Emi, why don't you relax while you wait for them to finish cooking? I'm going to go take a hot bath while they're busy."
     emi "Okay, sounds good. I think I'll stay down here a little longer. Have a good bath!"
     hide ingram with dissolve
-    narrator "Ingram nods and promptly leaves the kitchen. Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of caramelizing onions fills the air, making my stomach rumble in anticipation."
+    narrator "Ingram nods and promptly leaves the kitchen."
+    narrator "Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of caramelizing onions fills the air, making my stomach rumble in anticipation."
     show kai at left
     show akira at right
     with dissolve

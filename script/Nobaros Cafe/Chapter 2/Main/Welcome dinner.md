@@ -119,7 +119,9 @@ Ingram: "Emi, why don't you relax while you wait for them to finish cooking? I'm
 
 Emi: "Okay, sounds good. I think I'll stay down here a little longer. Have a good bath!"
 
-*Ingram nods and promptly leaves the kitchen. Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of caramelizing onions fills the air, making my stomach rumble in anticipation.*
+*Ingram nods and promptly leaves the kitchen.*
+
+*Annelise is now washing the rice while Kai is sautéing on the stovetop. The savoury aroma of caramelizing onions fills the air, making my stomach rumble in anticipation.*
 
 Akira: "Here's the rest of the ingredients, Kai. I've already measured everything out, so you just need to add everything in once the beef and vegetables are cooked."
 

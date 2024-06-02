@@ -1,6 +1,6 @@
 label bath_time:
     scene blank with bgwipe
-    scene kitchen_night with bgwipe
+    scene yuugen_common with bgwipe
     emi "(I'm stuffed! That was a nice dinner.)"
     emi "(I feel like I'm going to get a food coma anytime now. . .)"
     emi "(. . .No, I can't sleep just yet. I need to take a bath first.)"
