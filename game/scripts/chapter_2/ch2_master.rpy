@@ -31,16 +31,15 @@ label ch2_master:
         "Chill upstairs in bedroom":
             $ twilight = True
     if drinks:
-        "Something to drink was called"
-        # call something_to_drink
-        # menu:
-        #     emi "Hmm, I think I'll choose. . ."
-        #     "Water":
-        #         call midnight_snack
-        #     "Milk":
-        #         call milk_and_honey
-        #     "Tea":
-        #         call lull_of_lavender
+        call something_to_drink
+        menu:
+            emi "Hmm, I think I'll choose. . ."
+            "Water":
+                call midnight_snack
+            "Milk":
+                call milk_and_honey
+            "Tea":
+                call lull_of_lavender
     else:
         call twilight_stroll
     return

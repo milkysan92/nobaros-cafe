@@ -6,11 +6,13 @@ Emi: "(I'll just savour this moment! If someone wants milk later, I'll apologize
 
 Emi: "(Let's find something to pour this into first. . .)"
 
-*As I search around for a mug, I'm reminded of the warm milk that Ingram prepared for me a while back. The creamy texture mixed with a hint of sweetness from sugar stimulates my taste buds, erasing all desire for a cold drink.*
+*As I search around for a mug, I'm reminded of the warm milk that Ingram prepared for me a while back.*
 
 Emi: "(Hmm, warm milk doesn't sound that bad. The milk he made that time felt extra comforting, it'd be the perfect bedtime drink!)"
 
-*I place a mug on the counter, and begin hunting for a saucepan to heat the milk. As I begin digging through the pots and pans in one of the bottom cupboards, I spot Ingram entering the kitchen out of the corner of my eye.*
+*I place a mug on the counter, and begin hunting for a saucepan to heat the milk.*
+
+*As I begin digging through the pots and pans in one of the bottom cupboards, I spot Ingram entering the kitchen out of the corner of my eye.*
 
 Ingram: ". . .Emi? What are you up to?"
 
@@ -30,7 +32,7 @@ Ingram: "Here's the saucepan by the way, it was just pushed all the way in the b
 
 Emi: "What? How'd you find that so quickly? I didn't even see it!"
 
-*Ingram shrugs as we stand to our feet, placing the sauce pan on the stovetop.*
+*Ingram shrugs as we stand to our feet, placing the saucepan on the stovetop.*
 
 Ingram: "Just a hunch. If you weren't able to find it right away, then it was likely hidden somewhere deeper in there."
 
@@ -60,11 +62,13 @@ Ingram: "Here, why don't you watch the pot? I'll go grab them myself."
 
 *Ingram hands me a wooden spoon as he pulls out a number of spice jars from the pantry. Once the milk starts simmering, he returns and sets them nearby on the countertop.*
 
-Emi: "(Cloves, cinnamon, ginger, nutmeg, and vanilla. Huh, there's more spices in this than I expected.)"
+Emi: "(Cloves, cinnamon, ginger, nutmeg, and vanilla. Huh, there's more spices than I expected.)"
 
-*As I slowly stir the milk, Ingram takes a spoon and carefully measures out each spice, adding them to the milk with a small gesture. With each addition, the milk's white colour turns into a darker shade of speckled brown, and the exotic aroma from the pot grows a tad more complex.*
+*As I slowly stir the milk, Ingram takes a spoon and carefully measures out each spice, before plopping them into the pot.*
 
-*In a matter of minutes, the milk gets infused with the spices and Ingram pours it into the mugs. Swirling trails of steam emerge from the drink, tempting me to dig right in.*
+*With each addition, the milk's white colour turns into a darker shade of speckled brown, and the exotic aroma from the pot grows a tad more complex.*
+
+*In a matter of minutes, the milk infuses with the spices and Ingram pours it into the mugs. Swirling trails of steam emerge from the drink, tempting me to dig right in.*
 
 Ingram: "Wait, it's not ready yet."
 
@@ -72,27 +76,31 @@ Emi: "Huh?"
 
 *Ingram stops me just as I reach for one of the mugs, halting me right in my tracks.*
 
-*With a jar of honey in hand, he stirs a dollop into each of our mugs, the golden texture disappearing into the creamy milk. Once the honey is dissolved, he passes a mug over to me.*
+*With a jar of honey in hand, he stirs a dollop into each of our mugs, the golden texture disappearing into the creamy milk.*
 
-Ingram: "You like sweet tasting things, right? There wasn't any sweetener in it, so I mixed some honey in for you."
+*Once the honey is dissolved, he passes a mug over to me.*
 
-Emi: "Oh, thank you!"
+Ingram: "It wasn't sweetened yet. I just mixed some honey in."
+
+Emi: "Oh, thank you."
 
 Ingram: "Of course, I wouldn't want you spitting it out all over the kitchen."
 
 Emi: "Hey, I wouldn't do that! You went through all that effort of preparing it for me after all."
 
-Ingram: "Okay, but you'd make a face for sure."
+Ingram: "Okay, but you'd make a face for sure, knowing your sweet tooth."
 
 Emi: ". . .I can't deny that."
 
 Ingram: "I thought so."
 
-*Ingram smiles as he indulges in his drink. I follow suit, bringing the mug to my lips. After blowing a bit, I take a generous sip.*
+*Ingram smiles as he tastes his drink. I follow suit, bringing the mug to my lips. After blowing a bit, I take a generous sip.*
 
-*The warmth of the milk envelops my taste buds, carrying with it the rich, earthy notes of cloves. There's a subtle sweetness from the cinnamon and honey, and a gentle heat from the ginger. A hint of nutmeg adds depth to the flavour, while the vanilla brings it all together with its delectable essence.*
+*The warmth of the milk envelops my taste buds, carrying with it the rich, earthy notes of cloves.*
 
-Emi: "(So warm! It feels just like a hug.)"
+*There's a subtle sweetness from the cinnamon and honey, and a gentle heat from the ginger. A hint of nutmeg adds depth to the flavour, while the vanilla brings it all together with its delectable essence.*
+
+Emi: "(So warm! It feels so cozy.)"
 
 *I smile in delight, pleased by my choice to heat the milk instead of drinking it cold.*
 
@@ -100,19 +108,27 @@ Emi: "Thank you for teaching me how to make this, Ingram. You always know how to
 
 Ingram: "Good, that's another drink you can make if you ever need a pick-me-up."
 
-*Ingram falls quiet, and we silently continue to sip our mugs. As I stare down at my mug, I'm reminded of all the ways Ingram has helped me since arriving in Nobaros. Although the currently circumstance is a heavy topic to brood over, I find myself growing accustomed to this place.*
+*Ingram falls quiet, and we continue drinking.*
+
+*As I stare down at my mug, I'm reminded of all the ways Ingram has helped me since arriving in Nobaros.*
+
+*Although the currently circumstance is a heavy topic to brood over, I find myself growing accustomed to this place.*
 
 Emi: ". . .Thank you."
 
-Ingram: ". . .You just said that?"
+Ingram: ". . .Another thanks? You just said that."
 
-Emi: "Not that, I mean. . .thank you for everything so far.  I just wanted to say that I really appreciate all the help you've given me."
+Emi: "No, I meant to say. . .thank you for everything so far.  I just wanted to say that I really appreciate all the help you've given me."
 
 Ingram: ". . ."
 
-Ingram: "It's nothing, really. What kind of spirit guide would I be if I left you to deal with this all on your own? It's my responsibility to help you become comfortable here."
+Ingram: "It's no problem. What kind of spirit guide would I be if I left you to deal with this all on your own?"
 
-*He takes another sip of his milk, another moment of silence settling between us. Although his words brush off the sentiment as another part of his duties, the surprised look in his eyes gives him away.*
+Ingram: "It's my responsibility to help you become comfortable here."
+
+*He takes another sip of his milk, another moment of silence settling between us.*
+
+*Although his words brush off the sentiment as another part of his duties, the surprised look in his eyes gives him away.*
 
 Ingram: ". . .Actually, I should be the one thanking you."
 
@@ -124,7 +140,9 @@ Ingram: "For helping me. In more ways than you think."
 
 Ingram: "I'm sure you must've noticed but. . .it's been kind of weird, having to work with someone else for a change."
 
-Ingram: "Sure, there's the occasional vagabond during spirit guiding, but nobody ever empathizes with them as much as you do. And you always serve customers with a smile on your face at the cafe."
+Ingram: "Sure, there's the occasional vagabond during spirit guiding, but there's not much interaction happening there."
+
+Ingram: "Nobody goes into it as enthusiastically as you. And you always serve customers with a smile on your face at the cafe."
 
 Ingram: "I'm used to handling all that stuff alone, but you take it a step further and add a touch of humanity to it. And for that, I'm thankful for your presence."
 

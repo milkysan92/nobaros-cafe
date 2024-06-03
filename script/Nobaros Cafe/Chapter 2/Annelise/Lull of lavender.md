@@ -19,9 +19,13 @@ Emi: "I can put it back if you'd like. I was just looking for something to cool 
 
 Annelise: "No, it's okay. Let's enjoy this tea together. I can make a special drink for you."
 
-*She heads to the pantry, pulling out a small glass jar filled with what seems to be syrup of some kind. She unwraps the cloth tied around the lid, revealing a glossy, fragrant substance that smells slightly floral.*
+*She heads to the pantry, pulling out a small glass jar filled with what seems to be some kind of syrup.*
+
+*She unwraps the cloth tied around the lid, revealing a glossy, fragrant substance that smells slightly floral.*
 
 Annelise: "This is homemade lavender syrup. I usually like to mix it with the tea to make what's called a London Fog."
+
+Annelise: "Although in this case, the lavender syrup adds a special twist to the drink."
 
 Emi: "London Fog? I don't think I've heard of that before, what kind of drink is it?"
 
@@ -33,7 +37,9 @@ Emi: "Oh, that sounds wonderful! I'd love to have a cup."
 
 Annelise: "Yes, I think you'd like it."
 
-*With a skip in her step, she brings out two decorative mugs and fills them with black tea. I watch as she proceeds to grab the milk out of the fridge, a look of surprise on her face as she observes the bottle in her hand.*
+*With a skip in her step, she brings out two decorative mugs and fills them with black tea.*
+
+*I watch as she proceeds to grab the milk out of the fridge, a look of surprise on her face as she observes the bottle in her hand.*
 
 Annelise: "Oh, we're almost out of milk. . ."
 
@@ -65,7 +71,9 @@ Emi: "That seems pretty useful! That way, you don't have to go through the effor
 
 Annelise: "Yup, that's right. It's pretty convenient."
 
-*Annelise pours a bit of milk into the French press, and begins vigorously pumping the rod attached to the mesh filter. I watch in fascination, seeing the milk begin to froth and expand in volume by the minute.*
+*Annelise pours a bit of milk into the French press, and begins vigorously pumping the rod attached to the mesh filter.*
+
+*I watch in fascination, seeing the milk begin to froth and expand in volume by the minute.*
 
 Emi: "(Wow, she's really going at it. . .)"
 
@@ -83,19 +91,27 @@ Annelise: "And we're finished! Here's your drink. Go ahead and have a sip."
 
 *She passes me one of the mugs, which I graciously accept with both hands. As I bring the cup to my lips, a whiff of the lavender and vanilla tickles my nose.*
 
-*As soon as the drink hits my tongue, I'm greeted by the satisfying creaminess of milk as delicate floral notes of lavender caress my taste buds. A subtle hint of vanilla follows after, providing a sweet undertone that pulls all the flavours together.*
+*As soon as the drink hits my tongue, I'm greeted by a satisfying creamy flavour as delicate floral notes of lavender caress my taste buds.*
 
-Emi: "Wow, I don't think I've tasted anything like this before! The lavender and vanilla adds depth, but at the same time, it's not so overwhelming that it takes away from the milk tea base."
+*A subtle hint of vanilla follows after, providing a sweet undertone that pulls all the flavours together.*
+
+Emi: "Wow, I don't think I've tasted anything like this before!"
+
+Emi: "The lavender and vanilla adds depth, but at the same time, it's not so overwhelming that it takes away from the milk tea base."
 
 *Annelise blushes slightly, flustered to hear my praise.*
 
-Annelise: "I'm glad you like it. To be honest, I was a bit nervous about whether I made it well or not. I do make it often, but it's the first time I'm having someone else try it. . ."
+Annelise: "I'm glad you like it. To be honest, I was a bit nervous about whether I made it well or not."
+
+Annelise: "I do make this often, but it's the first time I'm having someone else try it. . ."
 
 Annelise: "The others don't drink tea that often, so I'm glad to see another tea lover."
 
 Emi: "Well, I think you did an amazing job. I didn't think you could do very much with tea other than add sugar or milk."
 
-*She smiles tenderly at me, her face a mix of both relief and genuine happiness. I take another refreshing sip of the drink, relishing the effort and care that she put into making it for me.*
+*She smiles tenderly at me, her face a mix of both relief and genuine happiness.*
+
+*I take another refreshing sip of the drink, relishing the effort and care that she put into making it for me.*
 
 Emi: "You know, you kind of remind me of Ingram right now."
 
@@ -131,7 +147,9 @@ Annelise: "R-really? Are you sure. . .?"
 
 Emi: "Of course! Here, I'll promise you."
 
-*I extend a hand out to Annelise, sticking my pinky out towards her. She widens her eyes, not expecting me to initiate a pinky promise. After a moment, her expression softens and she links her pinky with mine, a heartwarming sense of camaraderie forming between us.*
+*I extend a hand out to Annelise, sticking my pinky out towards her. She widens her eyes, not expecting me to initiate a pinky promise.*
+
+*After a moment, her expression softens and she links her pinky with mine, a heartwarming sense of camaraderie forming between us.*
 
 Emi: "(Her fingers are so warm.)"
 
