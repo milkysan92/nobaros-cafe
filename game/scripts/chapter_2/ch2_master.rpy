@@ -42,5 +42,5 @@ label ch2_master:
                 call lull_of_lavender
     else:
         call twilight_stroll
-    # call dreaming_of_school
+    call dreaming_of_school
     return

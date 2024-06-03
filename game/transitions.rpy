@@ -58,7 +58,7 @@ init:
     $ snakes = ImageDissolve("Transitions/snakes.png", 1.0, 8)
     $ sunshine = ImageDissolve("Transitions/sunshine.jpg", 1.0, 8)
     $ glasswool = ImageDissolve("Transitions/glasswool.jpg", 1.0, 8)
-    $ wet = ImageDissolve("Transitions/wet.jpg", 1.0, 8)
+    $ wet = ImageDissolve("Transitions/wet.jpg", 1.5, 8)
 
     $ w1 = ImageDissolve("Transitions/1.jpg", 1.0, 8)
     $ w2 = ImageDissolve("Transitions/2.png", 1.0, 8)
@@ -71,7 +71,7 @@ init:
     $ w9 = ImageDissolve("Transitions/9.jpg", 1.0, 8)
     $ w10 = ImageDissolve("Transitions/10.jpg", 1.0, 8)
     $ w11 = ImageDissolve("Transitions/11.jpg", 1.0, 8)
-    $ w12 = ImageDissolve("Transitions/12.jpg", 1.0, 8)
+    $ w12 = ImageDissolve("Transitions/12.jpg", 1.5, 20)
     $ w13 = ImageDissolve("Transitions/13.jpg", 1.0, 8)
     $ w14 = ImageDissolve("Transitions/14.png", 1.0, 8)
     $ w15 = ImageDissolve("Transitions/15.png", 1.0, 8)

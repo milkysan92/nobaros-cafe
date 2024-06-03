@@ -30,7 +30,7 @@ define narrator = Character("", image="emi")
 # Define Emi and her many personas for spirit guiding missions (SGMs)
 define emi = Character(emi_name, color="#ffbcca", image="emi")
 define sgm_emi = Character(f"{emi_name}?", color="#ffbcca")
-define past_emi = Character(f"Past {emi_name}", color="#ffbcca", image="emi")
+define past_emi = Character(f"Past {emi_name}", color="#d9d9d9", image="emi")
 define config.side_image_tag = "emi"    # Persistent side image when others are talking
 
 # Emi CH2 SGM

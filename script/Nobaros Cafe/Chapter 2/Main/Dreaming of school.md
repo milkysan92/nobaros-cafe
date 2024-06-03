@@ -1,7 +1,9 @@
 # Dreaming of school
 Emi: "(Finally, my sweet bed!)"
 
-*I collapse onto the plush covers of my bed, feeling fatigue creeps into my limbs. Having been untouched the entire day, the bed is at the perfect temperature, enveloping me in a cool, soothing embrace.*
+*I collapse onto the plush covers of my bed, feeling fatigue creeps into my limbs.*
+
+*Having been untouched the entire day, the bed is at the perfect temperature, enveloping me in a cool, soothing embrace.*
 
 *As I slip under the blanket, I gaze at the soft moonlight filtering through the window, casting a gentle glow that almost lulls me to sleep.*
 
@@ -53,7 +55,7 @@ UK_generic: "Cheese!"
 
 *Behind them is a staircase leading to the main entrance of a school building, framed by several pink petals fluttering from the cherry blossom trees around.*
 
-Dream Emi: "Okay, looks good! Thanks everyone, this is going to go right in the yearbook!"
+Past_Emi: "Okay, looks good! Thanks everyone, this is going to go right in the yearbook!"
 
 *I glance down at the camera in my hands, taking in the group photo displayed on the screen. Unlike the sports team in front of me, I'm wearing a school uniform.* 
 
@@ -63,9 +65,9 @@ Manager: "Thanks for coming out to take our photo, Emi!"
 
 Manager: "I'm sure it isn't easy to find time in your schedule when you're so busy with the school committee stuff."
 
-Dream Emi: "Oh, it's alright! I'm always happy to lend a hand."
+Past_Emi: "Oh, it's alright! I'm always happy to lend a hand."
 
-Dream Emi: "Staying busy just means I can help more people."
+Past_Emi: "Staying busy just means I can help more people."
 
 Manager: "You're so trustworthy. We can always count on you!"
 
@@ -75,9 +77,9 @@ Emi: "(But despite all that, I was happy whenever someone complimented me. It wa
 
 Emi: "(After all, I wanted to be loved. . .)"
 
-*. . .*
+*The scene shifts. I'm now in an empty classroom, holding a stapler in one hand and a stack of paper handouts in the other.*
 
-*The scene shifts. I'm now in an empty classroom, holding a stapler in one hand and a stack of paper handouts in the other. The sunset pierces through the window, casting a golden, nostalgic atmosphere across the room.*
+*The sunset pierces through the window, casting a golden, nostalgic atmosphere across the room.*
 
 *I staple the handouts, the repetitive crunching of paper under the stapler feeling almost hypnotic.*
 
@@ -105,22 +107,22 @@ UK_generic: "You need to take a break once in a while, you know. Everyone apprec
 
 *A sense of reassurance washes over me. This person feels like a close friend.*
 
-Dream Emi: "Yeah, I know. . . It's just that Mr. Tachibana is counting on me to get this done and I want to make sure everything's perfect."
+Past_Emi: "Yeah, I know. . . It's just that Mr. Tachibana is counting on me to get this done and I want to make sure everything's perfect."
 
 UK_generic: "And it always is, because you put so much care into it!"
 
 UK_generic: "But remember, people might take advantage of you if you don't take care of yourself."
 
-Dream Emi: ". . .You're right."
+Past_Emi: ". . .You're right."
 
 UK_generic: "Aw, don't look so sad. I'm just worried about you, especially when you can't say no to anybody."
 
 UK_generic: "Here, let me help bring those to the staff lounge!"
 
-Dream Emi: "What? No, it's okay, you don't have to-!"
+Past_Emi: "What? No, it's okay, you don't have to-!"
 
 Uk_generic: "Oh relax, I've been waiting for you this whole time so that we can go home together. At least this gives me something to do."
 
-Dream Emi: ". . .Thank you."
+Past_Emi: ". . .Thank you."
 
 *. . .*

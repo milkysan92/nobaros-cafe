@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Main/Dreaming of school.md",
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Main/Dreaming of school.md",
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Main/Dreaming of school.md",
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Main/Dreaming of school.md"
+                "file": "Chapter 2/Chapter 2 Master.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "d2dfae21da6ab396",
   "lastOpenFiles": [
+    "Pastry training.md",
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Main/Dreaming of school.md",
     "Game development roadmap.md",
     "Chapter 2/Akira/Afternoon chat.md",
     "Chapter 2/Kai/Meeting Kai.md",
-    "Chapter 2/Chapter 2 Master.md",
-    "Chapter 2/Main/Dreaming of school.md",
     "Parfait troubles.md",
     "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Main/Cafe Intro.md",
@@ -174,7 +175,6 @@
     "Chapter 2/Main/Report to Ingram.md",
     "Chapter 2/Akira/Cafe duties.md",
     "Chapter 2/Akira/Meeting Akira.md",
-    "Chapter 2/Annelise/Shelve books.md",
     "Chapter 2/Mirror",
     "Chapter 4",
     "Chapter 3",
