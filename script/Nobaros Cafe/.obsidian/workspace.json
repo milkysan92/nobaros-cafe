@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e69be929e10e0cae",
+        "id": "8231f2a05b24aedd",
         "type": "tabs",
         "children": [
           {
-            "id": "d2dfae21da6ab396",
+            "id": "0aa6b56388ef640c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Main/Cafe Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Main/Cafe Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Main/Cafe Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md"
+                "file": "Chapter 2/Main/Cafe Intro.md"
               }
             }
           }
@@ -147,22 +147,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2dfae21da6ab396",
+  "active": "0aa6b56388ef640c",
   "lastOpenFiles": [
-    "Pastry training.md",
-    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Main/Cafe Intro.md",
     "Chapter 2/Main/Dreaming of school.md",
+    "Chapter 2/Kai/Midnight snack.md",
+    "Chapter 2/Ingram/Milk and honey.md",
+    "Chapter 2/Annelise/Lull of lavender.md",
+    "Chapter 2/Akira/Twilight stroll.md",
+    "Chapter 2/Main/Pastry training.md",
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Mirror/Sweven mirror 2.md",
+    "Chapter 2/Main/Welcome dinner.md",
     "Game development roadmap.md",
     "Chapter 2/Akira/Afternoon chat.md",
     "Chapter 2/Kai/Meeting Kai.md",
     "Parfait troubles.md",
     "Chapter 3/Chapter 3 Master.md",
-    "Chapter 2/Main/Cafe Intro.md",
-    "Chapter 2/Kai/Midnight snack.md",
-    "Chapter 2/Ingram/Milk and honey.md",
-    "Chapter 2/Annelise/Lull of lavender.md",
-    "Chapter 2/Akira/Twilight stroll.md",
-    "Chapter 2/Main/Welcome dinner.md",
     "Chapter 2/Main/Something to drink.md",
     "Chapter 2/Annelise/Continue dusting.md",
     "Lull of lavender.md",
@@ -174,7 +175,6 @@
     "Chapter 2/Ingram/About Ingram.md",
     "Chapter 2/Main/Report to Ingram.md",
     "Chapter 2/Akira/Cafe duties.md",
-    "Chapter 2/Akira/Meeting Akira.md",
     "Chapter 2/Mirror",
     "Chapter 4",
     "Chapter 3",
