@@ -20,6 +20,7 @@ define friend_name = _("Yua")
 define crush_name = _("Shohei")
 define emi_ch2 = _("Himari")
 define grandson_name = _("Haruto")
+define manager_name = _("Manager")
 
 # CHARACTER DEFINITIONS----------------------------------------------------------------------------------------------
 # Redefine narrator to control emi's side image during narration
@@ -29,6 +30,7 @@ define narrator = Character("", image="emi")
 # Define Emi and her many personas for spirit guiding missions (SGMs)
 define emi = Character(emi_name, color="#ffbcca", image="emi")
 define sgm_emi = Character(f"{emi_name}?", color="#ffbcca")
+define past_emi = Character(f"Past {emi_name}", color="#d9d9d9", image="emi")
 define config.side_image_tag = "emi"    # Persistent side image when others are talking
 
 # Emi CH2 SGM
@@ -60,6 +62,7 @@ define akina = Character(ch6_name, color="#d9d9d9", image="emi")
 # Other NPCs
 define yua = Character(friend_name, color="#d9d9d9", image="emi")
 define shohei = Character(crush_name, color="#d9d9d9", image="emi")
+define manager = Character(manager_name, color="#d9d9d9", image="emi")
 
 # Unknown characters for pre-introduction interactions
 define uk_nar = Character("", what_slow_cps=30)

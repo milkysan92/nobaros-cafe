@@ -4,7 +4,7 @@ label macarons:
     scene cafe with bgwipe
     emi base "(Huh? Where'd he go? I thought I told him to wait here.)"
     narrator "I scan the cafe, searching for any sign of Kai."
-    emi talk "Ah!" with hpunch
+    emi talk "Ah!" with talkpunch
     narrator base "Suddenly, a pair of hands slam down on my shoulders, causing me to gasp and drop the macarons."
     show kai with dissolve
     narrator "Kai bursts into laughter, clearly amused by his prank."

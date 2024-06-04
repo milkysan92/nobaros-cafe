@@ -8,7 +8,7 @@ init:
     $ config.side_image_same_transform = Dissolve(0.2)     # Switching between same character
     $ config.side_image_change_transform = Dissolve(0.2)   # Switching between diff characters
 
-# Transform for being startled
+# Transform for being startled (entire scene or sprite)
     transform startle(rate=0.050):
         linear rate xoffset 2 yoffset -6
         linear rate xoffset -2.8 yoffset -2
@@ -23,6 +23,9 @@ init:
         linear rate xoffset 5.6 yoffset -4
         # linear rate xoffset -4 yoffset -12
         linear rate xoffset +0 yoffset +0
+
+# Transform for dialogue impact (Tripping over something, being startled, etc. . .)
+    $ talkpunch = Move((0, 15), (0, -15), .10, bounce=True, repeat=True, delay=.075)
 
 # Modified ease transition for moving sprites
     # transform ease(start, end, time):
@@ -55,7 +58,7 @@ init:
     $ snakes = ImageDissolve("Transitions/snakes.png", 1.0, 8)
     $ sunshine = ImageDissolve("Transitions/sunshine.jpg", 1.0, 8)
     $ glasswool = ImageDissolve("Transitions/glasswool.jpg", 1.0, 8)
-    $ wet = ImageDissolve("Transitions/wet.jpg", 1.0, 8)
+    $ wet = ImageDissolve("Transitions/wet.jpg", 1.5, 8)
 
     $ w1 = ImageDissolve("Transitions/1.jpg", 1.0, 8)
     $ w2 = ImageDissolve("Transitions/2.png", 1.0, 8)
@@ -68,7 +71,7 @@ init:
     $ w9 = ImageDissolve("Transitions/9.jpg", 1.0, 8)
     $ w10 = ImageDissolve("Transitions/10.jpg", 1.0, 8)
     $ w11 = ImageDissolve("Transitions/11.jpg", 1.0, 8)
-    $ w12 = ImageDissolve("Transitions/12.jpg", 1.0, 8)
+    $ w12 = ImageDissolve("Transitions/12.jpg", 1.5, 20)
     $ w13 = ImageDissolve("Transitions/13.jpg", 1.0, 8)
     $ w14 = ImageDissolve("Transitions/14.png", 1.0, 8)
     $ w15 = ImageDissolve("Transitions/15.png", 1.0, 8)

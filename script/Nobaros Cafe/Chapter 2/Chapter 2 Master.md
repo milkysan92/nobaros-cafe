@@ -61,9 +61,9 @@ maple & waterfall-->celebrate-dinner
 celebrate-dinner-->bathtime
 bathtime--Head straight to bed-->night-akira
 bathtime--Head downstairs-->choose-drink
-choose-drink--Warm milk-->night-ingram
-choose-drink--Cold water-->night-kai
-choose-drink--Hot tea-->night-annelise
+choose-drink--Milk-->night-ingram
+choose-drink--Water-->night-kai
+choose-drink--Tea-->night-annelise
 night-ingram & night-kai & night-akira & night-annelise-->school-dreams
 school-dreams-->masterchef
 masterchef--Almond croissants-->sweets-ingram

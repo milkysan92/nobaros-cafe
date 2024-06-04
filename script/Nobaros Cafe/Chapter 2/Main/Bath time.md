@@ -47,4 +47,4 @@ Emi: "(Ahh, that was relaxing! My cheeks are all flushed now.)"
 
 Emi: "(It's a little warm. . .I bet cooling down with a drink would feel awesome right now.)"
 
-Emi: "(Mmm but I'm kind of sleepy too. Maybe I should go up to my room and rest for the night?)"
+Emi: "(Mmm, but I'm kind of sleepy too. Maybe I should go up to my room and rest for the night instead.)"

@@ -1,9 +1,9 @@
 label meeting_kai:
     emi talk "Let's sweep the foyer!"
-    narrator base "I grab the broom leaning against the corner and head out to the floor, collecting the day's accumulation of dust and dirt."
+    narrator base "I grab the broom leaning against the corner and head out to the foyer."
     scene blank with bgwipe
     scene cafe with bgwipe
-    narrator base "Starting at each table, I create small piles, nudging them towards a corner where a larger pile awaits."
+    narrator base "Starting at each table, I create small piles, nudging them towards a corner where a larger pile awaits. Slowly but surely, the day's accumulation of dust and dirt start to disappear."
     narrator "As I sweep under the final table, a glint of light catches my eye. Intrigued, I crouch down and inspect the dust pile more closely."
     narrator "To my surprise, I find a small golden charm in the shape of a camellia flower."
     narrator "The charm is intricately detailed, with delicately sculpted petals that seem as though they could be damaged by the lightest touch. {w=0.1}Etched on the back of the flower is the number eight."
@@ -15,12 +15,12 @@ label meeting_kai:
     uk_kai "INGRAM!! ARE YOU IN HERE?!" with vpunch
     narrator "I shoot my eyes towards the cafe entrance."
     narrator "A guy around my age stands right at the doorway, panting heavily as if he had been sprinting just before arriving, his jacket barely clinging to his shoulders."
-    narrator "Out of the corner of my eye, I see Ingram in the middle of filling the display case, still unaware that the front door had swung right open."
+    narrator "Out of the corner of my eye, I see Ingram in the middle of preparing some espresso shots at the coffee grinder, still unaware that the front door had swung right open."
     narrator "In his stead, I quickly pat my hands dry with a nearby towel and approach the disheveled guy to see what the ruckus is."
     show kai with dissolve
     emi talk "Sorry, Ingram is busy at the moment. Can I help you with something?"
     narrator base "The guy looks at me desperately and claps his hands together, as if he's about to pray."
-    uk_kai "Oh thank god you're here! I lost something and I think it might be somewhere around here."
+    uk_kai "Oh. thank god you're here! I lost something and I think it might be somewhere around here."
     emi talk "What did you lose? Maybe I can help you find it."
     uk_kai base "It's kinda like a small golden thing. It should look like a flower of some kind."
     emi talk "Wait a minute, could you be talking about this?"
@@ -73,7 +73,7 @@ label meeting_kai:
     narrator base "Kai shakes his head, his hand pitifully cradling his gurgling stomach."
     emi "(I feel bad for him. . . he almost looks like a sad puppy.)"
     emi talk "Okay, hold on, I have an idea. I can go find something for you to eat from behind the counter."
-    kai base "Wait wait, stealing food is a crime! There's no need for you to go to such lengths for me."
+    kai base "Wait, wait, stealing food is a crime! There's no need for you to go to such lengths for me."
     emi talk "What? No, you've got it all wrong, I'm not gonna steal from the display case."
     emi "Sometimes, we have stuff that doesn't turn out well and can't be sold to customers."
     emi base "(I don't have the heart to tell him that half of the ugly desserts were made by me, as a result of Ingram's pastry making sessions.)"
