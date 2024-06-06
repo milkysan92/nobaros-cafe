@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "64ea61f1298b3ae9",
+        "id": "1df0154bf5280a78",
         "type": "tabs",
         "children": [
           {
-            "id": "982d77c9bb32adc7",
+            "id": "d7aa4aa55acb89da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Main/Pastry training.md",
+                "file": "Chapter 2/Ingram/First aid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca83acf51070d923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Chapter 2 Master.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Main/Pastry training.md",
+                "file": "Chapter 2/Ingram/First aid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Main/Pastry training.md",
+                "file": "Chapter 2/Ingram/First aid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Main/Pastry training.md"
+                "file": "Chapter 2/Ingram/First aid.md"
               }
             }
           }
@@ -147,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "982d77c9bb32adc7",
+  "active": "d7aa4aa55acb89da",
   "lastOpenFiles": [
+    "Chapter 2/Chapter 2 Master.md",
     "Chapter 2/Main/Pastry training.md",
+    "Chapter 2/Ingram/First aid.md",
     "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 2/Main/Cafe Intro.md",
     "Chapter 2/Main/Dreaming of school.md",
@@ -157,7 +171,6 @@
     "Chapter 2/Ingram/Milk and honey.md",
     "Chapter 2/Annelise/Lull of lavender.md",
     "Chapter 2/Akira/Twilight stroll.md",
-    "Chapter 2/Chapter 2 Master.md",
     "Chapter 2/Mirror/Sweven mirror 2.md",
     "Chapter 2/Main/Welcome dinner.md",
     "Game development roadmap.md",
@@ -174,7 +187,6 @@
     "Chapter 2/Main/Meeting others.md",
     "Chapter 2/Ingram/About Ingram.md",
     "Chapter 2/Main/Report to Ingram.md",
-    "Chapter 2/Akira/Cafe duties.md",
     "Chapter 2/Mirror",
     "Chapter 4",
     "Chapter 3",

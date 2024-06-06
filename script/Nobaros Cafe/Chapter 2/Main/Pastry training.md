@@ -89,4 +89,4 @@ Emi: "(On one hand, getting practice might mean I'll get to help bake at the caf
 
 Emi: "(But recipe testing sounds really cool. Being a part of the menu development process sounds important in the grand scheme of things.)"
 
-Emi: "Hmm, I think I'm leaning towards. . ."
+Emi: "(Hmm, I think I'm leaning towards. . .)"
