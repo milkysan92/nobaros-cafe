@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7f7217b0c3e4aab",
+            "id": "f60afbf3804c4e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,26 +20,14 @@
             }
           },
           {
-            "id": "f60afbf3804c4e3d",
+            "id": "1bb1c0782f4c4c54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Chapter 2/Chapter 2 Master.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b42bc30987e349e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2/Ingram/First aid.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "770f2649500378ff",
@@ -171,11 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7f7217b0c3e4aab",
+  "active": "f60afbf3804c4e3d",
   "lastOpenFiles": [
-    "Chapter 2/Ingram/First aid.md",
-    "Chapter 2/Akira/Rooftop garden.md",
     "Chapter 2/Chapter 2 Master.md",
+    "Chapter 4/Chapter 4 Master.md",
+    "Chapter 3/Chapter 3 Master.md",
+    "Chapter 2/Akira/Rooftop garden.md",
+    "Chapter 2/Ingram/First aid.md",
     "Chapter 2/Ingram/About Ingram.md",
     "Chapter 2/Akira/Twilight stroll.md",
     "Chapter 2/Main/Welcome dinner.md",
@@ -183,8 +172,6 @@
     "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 2/Annelise/Continue dusting.md",
     "Chapter 2/Annelise/Shelve books.md",
-    "Chapter 4/Chapter 4 Master.md",
-    "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Main/Cafe Intro.md",
     "Chapter 2/Main/Dreaming of school.md",
     "Chapter 2/Kai/Midnight snack.md",
