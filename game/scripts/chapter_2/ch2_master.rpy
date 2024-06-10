@@ -43,4 +43,16 @@ label ch2_master:
     else:
         call twilight_stroll
     call dreaming_of_school
+    # call pastry_training
+    #     menu:
+    #         emi "(Hmm, I'm leaning towards. . .)"
+    #         "Almond croissants":
+    #             call first_aid
+    #         "Macarons":
+    #             call swimming_hole
+    #         "Fruit tarts":
+    #             call rooftop_garden
+    #         "Pound cake":
+    #             call afternoon_tea
+    # call a_meal_together
     return

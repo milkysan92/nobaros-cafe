@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "e69be929e10e0cae",
+        "id": "8fbc9109973701c4",
         "type": "tabs",
         "children": [
           {
-            "id": "d2dfae21da6ab396",
+            "id": "50675c20d6f352ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Kai/Swimming hole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f0ff16d3024489f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Kai/Tell Kai.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "75f0c2f30133c4b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wipe crumb.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Kai/Swimming hole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 2/Kai/Swimming hole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md"
+                "file": "Chapter 2/Kai/Swimming hole.md"
               }
             }
           }
@@ -147,34 +171,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2dfae21da6ab396",
+  "active": "50675c20d6f352ba",
   "lastOpenFiles": [
-    "Pastry training.md",
+    "Wipe crumb.md",
+    "Chapter 2/Kai/Tell Kai.md",
+    "Chapter 2/Kai/Swimming hole.md",
     "Chapter 2/Chapter 2 Master.md",
-    "Chapter 2/Main/Dreaming of school.md",
-    "Game development roadmap.md",
-    "Chapter 2/Akira/Afternoon chat.md",
-    "Chapter 2/Kai/Meeting Kai.md",
-    "Parfait troubles.md",
+    "Chapter 2/Main/Pastry training.md",
+    "Chapter 2/Kai/Macarons.md",
+    "Chapter 2/Kai/Strawberry tart.md",
+    "Chapter 2/Ingram/First aid.md",
+    "Chapter 2/Akira/Rooftop garden.md",
+    "Chapter 2/Main/New customer 2.md",
+    "Chapter 2/Main/Meeting others.md",
+    "Chapter 2/Main/Report to Ingram.md",
+    "Chapter 4/Chapter 4 Master.md",
     "Chapter 3/Chapter 3 Master.md",
+    "Chapter 2/Ingram/About Ingram.md",
+    "Chapter 2/Akira/Twilight stroll.md",
+    "Chapter 2/Main/Welcome dinner.md",
+    "Chapter 2/Annelise/Meeting Annelise.md",
+    "Chapter 2/Annelise/Continue dusting.md",
+    "Chapter 2/Annelise/Shelve books.md",
     "Chapter 2/Main/Cafe Intro.md",
+    "Chapter 2/Main/Dreaming of school.md",
     "Chapter 2/Kai/Midnight snack.md",
     "Chapter 2/Ingram/Milk and honey.md",
     "Chapter 2/Annelise/Lull of lavender.md",
-    "Chapter 2/Akira/Twilight stroll.md",
-    "Chapter 2/Main/Welcome dinner.md",
-    "Chapter 2/Main/Something to drink.md",
-    "Chapter 2/Annelise/Continue dusting.md",
-    "Lull of lavender.md",
-    "Chapter 2/Annelise/Meeting Annelise.md",
-    "Chapter 4/Chapter 4 Master.md",
-    "Chapter 2/Main/Bath time.md",
-    "Chapter 2/Main/New customer 2.md",
-    "Chapter 2/Main/Meeting others.md",
-    "Chapter 2/Ingram/About Ingram.md",
-    "Chapter 2/Main/Report to Ingram.md",
-    "Chapter 2/Akira/Cafe duties.md",
-    "Chapter 2/Akira/Meeting Akira.md",
+    "Chapter 2/Mirror/Sweven mirror 2.md",
     "Chapter 2/Mirror",
     "Chapter 4",
     "Chapter 3",
