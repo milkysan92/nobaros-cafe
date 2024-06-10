@@ -76,6 +76,7 @@ label meeting_kai:
     kai base "Wait, wait, stealing food is a crime! There's no need for you to go to such lengths for me."
     emi talk "What? No, you've got it all wrong, I'm not gonna steal from the display case."
     emi "Sometimes, we have stuff that doesn't turn out well and can't be sold to customers."
+    #TODO: Incorporate somewhere that these baking practice sessions are an ongoing thing
     emi base "(I don't have the heart to tell him that half of the ugly desserts were made by me, as a result of Ingram's pastry making sessions.)"
     emi "(But he doesn't have to know that.)"
     kai "Ohhh, that makes sense. If that's the case, then I'd be more than happy to take them off your hands!"
