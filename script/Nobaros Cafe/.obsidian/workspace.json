@@ -11,11 +11,40 @@
             "id": "030aa55ae5a4b5e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Annelise/Afternoon tea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a7e45359015fe6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aged tangerine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d185725f6e0a33c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Chapter 3 Master.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "770f2649500378ff",
@@ -81,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 3/Chapter 3 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapter 3/Chapter 3 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapter 3/Chapter 3 Master.md"
+              }
             }
           }
         ]
@@ -138,22 +172,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "629c26ae813d7639",
+  "active": "d185725f6e0a33c3",
   "lastOpenFiles": [
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 2/Akira/Meeting Akira.md",
+    "Chapter 2/Akira/Afternoon chat.md",
+    "Aged tangerine.md",
+    "Chapter 2/Ingram/Milk and honey.md",
+    "Chapter 3/Chapter 3 Master.md",
+    "Chapter 2/Akira/Rooftop garden.md",
+    "Chapter 2/Annelise/Afternoon tea.md",
+    "Chapter 2/Main/Pastry training.md",
+    "Chapter 2/Ingram/First aid.md",
+    "Chapter 4/Chapter 4 Master.md",
     "Chapter 2/Kai/Wipe crumb.md",
     "Chapter 2/Kai/Tell Kai.md",
     "Chapter 2/Kai/Swimming hole.md",
-    "Chapter 2/Chapter 2 Master.md",
-    "Chapter 2/Main/Pastry training.md",
     "Chapter 2/Kai/Macarons.md",
     "Chapter 2/Kai/Strawberry tart.md",
-    "Chapter 2/Ingram/First aid.md",
-    "Chapter 2/Akira/Rooftop garden.md",
     "Chapter 2/Main/New customer 2.md",
     "Chapter 2/Main/Meeting others.md",
     "Chapter 2/Main/Report to Ingram.md",
-    "Chapter 4/Chapter 4 Master.md",
-    "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Ingram/About Ingram.md",
     "Chapter 2/Akira/Twilight stroll.md",
     "Chapter 2/Main/Welcome dinner.md",
@@ -161,11 +200,6 @@
     "Chapter 2/Annelise/Continue dusting.md",
     "Chapter 2/Annelise/Shelve books.md",
     "Chapter 2/Main/Cafe Intro.md",
-    "Chapter 2/Main/Dreaming of school.md",
-    "Chapter 2/Kai/Midnight snack.md",
-    "Chapter 2/Ingram/Milk and honey.md",
-    "Chapter 2/Annelise/Lull of lavender.md",
-    "Chapter 2/Mirror/Sweven mirror 2.md",
     "Chapter 2/Mirror",
     "Chapter 4",
     "Chapter 3",
