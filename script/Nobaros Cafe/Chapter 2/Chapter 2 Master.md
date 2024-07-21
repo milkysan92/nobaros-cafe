@@ -31,8 +31,12 @@ school-dreams[Dreaming of school]
 masterchef[Pastry training]
 sweets-ingram[First aid]
 sweets-kai[Swimming hole]
+wipe-crumb[Wipe crumb]
+gesture-crumb[Tell Kai about crumb]
 sweets-akira[Rooftop garden]
 sweets-annelise[Afternoon tea]
+aged-tangerine[Aged tangerine]
+blueberry-bergamot[Blueberry bergamot]
 group-dinner[A meal together]
 
 %% Define node formatting for routes
@@ -68,9 +72,13 @@ night-ingram & night-kai & night-akira & night-annelise-->school-dreams
 school-dreams-->masterchef
 masterchef--Almond croissants-->sweets-ingram
 masterchef--French macarons-->sweets-kai
+sweets-kai--Wipe crumb for Kai-->wipe-crumb-->group-dinner
+sweets-kai--Tell Kai about the crumb-->gesture-crumb-->group-dinner
 masterchef--Fruit tarts-->sweets-akira
 masterchef--Pound cake-->sweets-annelise
-sweets-ingram & sweets-kai & sweets-akira & sweets-annelise-->group-dinner
+sweets-annelise--Tangerine tea-->aged-tangerine-->group-dinner
+sweets-annelise--Blueberry tea-->blueberry-bergamot-->group-dinner
+sweets-ingram & sweets-akira-->group-dinner
 
 %% Format the routes & link to script files accordingly
 %%---------------------------------------------------------------------------
@@ -87,12 +95,12 @@ class ingram-job,night-ingram,sweets-ingram ingram-route
 class ingram-job,night-ingram,sweets-ingram internal-link
 
 %% Kai route
-class meet-kai,macarons-kai,strawberry-kai,night-kai,sweets-kai kai-route
-class meet-kai,macarons-kai,strawberry-kai,night-kai,sweets-kai internal-link
+class meet-kai,macarons-kai,strawberry-kai,night-kai,sweets-kai,wipe-crumb,gesture-crumb kai-route
+class meet-kai,macarons-kai,strawberry-kai,night-kai,sweets-kai,wipe-crumb,gesture-crumb internal-link
 
 %% Annelise route
-class meet-annelise,shelve-annelise,dust-annelise,night-annelise,sweets-annelise annelise-route
-class meet-annelise,shelve-annelise,dust-annelise,night-annelise,sweets-annelise internal-link
+class meet-annelise,shelve-annelise,dust-annelise,night-annelise,sweets-annelise,aged-tangerine,blueberry-bergamot annelise-route
+class meet-annelise,shelve-annelise,dust-annelise,night-annelise,sweets-annelise,aged-tangerine,blueberry-bergamot internal-link
 
 %% Akira route
 class meet-akira,clean-akira,chat-akira,night-akira,sweets-akira akira-route

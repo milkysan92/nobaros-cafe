@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e69be929e10e0cae",
+        "id": "2d69714a89b01694",
         "type": "tabs",
         "children": [
           {
-            "id": "d2dfae21da6ab396",
+            "id": "72b9ad4801b7f53a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
-                "mode": "source",
-                "source": false
+                "file": "Chapter 4/Chapter 4 Master.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "648880769137d013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 5/Akira/Chapter 5 Akira.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "770f2649500378ff",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 5/Akira/Chapter 5 Akira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md",
+                "file": "Chapter 5/Akira/Chapter 5 Akira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2/Chapter 2 Master.md"
+                "file": "Chapter 5/Akira/Chapter 5 Akira.md"
               }
             }
           }
@@ -147,43 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2dfae21da6ab396",
+  "active": "648880769137d013",
   "lastOpenFiles": [
-    "Pastry training.md",
-    "Chapter 2/Chapter 2 Master.md",
-    "Chapter 2/Main/Dreaming of school.md",
-    "Game development roadmap.md",
-    "Chapter 2/Akira/Afternoon chat.md",
-    "Chapter 2/Kai/Meeting Kai.md",
-    "Parfait troubles.md",
-    "Chapter 3/Chapter 3 Master.md",
-    "Chapter 2/Main/Cafe Intro.md",
-    "Chapter 2/Kai/Midnight snack.md",
-    "Chapter 2/Ingram/Milk and honey.md",
-    "Chapter 2/Annelise/Lull of lavender.md",
-    "Chapter 2/Akira/Twilight stroll.md",
-    "Chapter 2/Main/Welcome dinner.md",
-    "Chapter 2/Main/Something to drink.md",
-    "Chapter 2/Annelise/Continue dusting.md",
-    "Lull of lavender.md",
-    "Chapter 2/Annelise/Meeting Annelise.md",
     "Chapter 4/Chapter 4 Master.md",
-    "Chapter 2/Main/Bath time.md",
+    "Chapter 3/Chapter 3 Master.md",
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 1/Chapter 1 Master.md",
+    "Chapter 5/Akira/Chapter 5 Akira.md",
+    "Kind gesture.md",
+    "Chapter 5/Akira",
+    "Chapter 5",
+    "Chapter 3/Mirror",
+    "Chapter 3/Main",
+    "Chapter 3/Kai",
+    "Chapter 3/Ingram",
+    "Chapter 3/Annelise",
+    "Chapter 3/Akira",
+    "Chapter 1/Main",
+    "Chapter 1/Mirror",
+    "Game development roadmap.md",
+    "Chapter 2/Main/Pastry training.md",
+    "Chapter 2/Kai/Wipe crumb.md",
+    "Chapter 2/Kai/Tell Kai.md",
+    "Chapter 2/Kai/Swimming hole.md",
+    "Chapter 2/Ingram/First aid.md",
+    "Chapter 2/Annelise/Afternoon tea.md",
+    "Chapter 2/Akira/Rooftop garden.md",
+    "Aged tangerine.md",
+    "Chapter 2/Main/Cafe Intro.md",
+    "Chapter 2/Annelise/Aged tangerine.md",
+    "Chapter 2/Akira/Meeting Akira.md",
+    "Chapter 2/Akira/Afternoon chat.md",
+    "Chapter 2/Ingram/Milk and honey.md",
+    "Chapter 2/Kai/Macarons.md",
+    "Chapter 2/Kai/Strawberry tart.md",
     "Chapter 2/Main/New customer 2.md",
     "Chapter 2/Main/Meeting others.md",
-    "Chapter 2/Ingram/About Ingram.md",
     "Chapter 2/Main/Report to Ingram.md",
-    "Chapter 2/Akira/Cafe duties.md",
-    "Chapter 2/Akira/Meeting Akira.md",
-    "Chapter 2/Mirror",
-    "Chapter 4",
-    "Chapter 3",
-    "Chapter 2/Main",
-    "Chapter 2/Kai",
-    "Chapter 2/Ingram",
-    "Chapter 2/Annelise",
-    "Chapter 2/Akira",
-    "Chapter 2/Kai/Choices",
-    "Chapter 2"
+    "Chapter 2/Ingram/About Ingram.md"
   ]
 }

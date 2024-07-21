@@ -5,7 +5,11 @@ graph TD
 %% Define aliases
 CH3[Parfait troubles]
 break-kai[Playful stroll]
+kai-kai[Answer Kai]
+knavery-kai[Answer Knavery]
 break-akira[Calming presence]
+agree-akira[Agree with Akira]
+persevere-akira[Persevere with parfait]
 break-annelise[Library corner]
 break-ingram[Advice from Ingram]
 customer3[New customer 3]
@@ -30,14 +34,22 @@ dining-table[Dining table]
 dining-ingram[Hot drinks]
 dining-kai[Cold drinks]
 breakfast-time[Breakfast time]
-day-annelise[Fruit skewers]
+day-annelise[Tanghulu making]
 day-kai[Marketplace adventures]
 day-akira[Two rascals]
 day-ingram[Festival prep]
 lantern-festival[Lantern festival]
-lantern-annelise[Fruit lady]
+lantern-annelise[Tanghulu lady]
 lantern-kai[Festival games]
+ask-kai[Silent Kai]
+cheer-kai[Cheer Kai up]
 lantern-akira[Fortune teller]
+one-akira[Few petals]
+three-akira[Some petals]
+five-akira[All petals]
+post-akira[After fortune telling]
+fortune-akira[Fortune or future]
+brush-akira[Brush fortune off]
 lantern-ingram[Lantern for you]
 lantern-end[Lights high above]
 
@@ -51,10 +63,14 @@ classDef annelise-route fill:#fff2cc,stroke:#efcd7b,stroke-width:4px
 
 %% Establish node connections
 CH3--Take a walk outside-->break-kai
+break-kai--Answer with 'Kai'-->kai-kai-->customer3
+break-kai--Answer with 'Knavery'-->knavery-kai-->customer3
 CH3--Fold cake boxes-->break-akira
+break-akira--Agree with Akira's opinion-->agree-akira-->customer3
+break-akira--Keep trying-->persevere-akira-->customer3
 CH3--Chill in the library-->break-annelise
 CH3--Stay behind the counter-->break-ingram
-break-kai & break-akira & break-annelise & break-ingram-->customer3
+break-annelise & break-ingram-->customer3
 customer3-->mirror3
 mirror3-->memory1--Take the teddy bear-->teddy-bear
 memory1--Continue on-->memory2
@@ -78,10 +94,16 @@ breakfast-time--Approach Ingram-->day-ingram
 day-ingram--Make a lantern for Ingram-->lantern-ingram
 day-ingram--Meet the others-->lantern-festival
 day-annelise & day-kai & day-akira-->lantern-festival
-lantern-festival--Visit the fruit skewer lady-->lantern-annelise
+lantern-festival--Visit the tanghulu lady-->lantern-annelise-->lantern-end
 lantern-festival--Check out the game stalls-->lantern-kai
+lantern-kai--Ask Kai about his thoughts-->ask-kai-->lantern-end
+lantern-kai--Cheer Kai up-->cheer-kai-->lantern-end
 lantern-festival--Get your fortune told-->lantern-akira
-lantern-annelise & lantern-kai & lantern-akira-->lantern-end
+lantern-akira--Pick 1 or 2 petals-->one-akira-->post-akira
+lantern-akira--Pick 3 petals-->three-akira-->post-akira
+lantern-akira--Pick 4 or 5 petals-->five-akira-->post-akira
+post-akira--Ask about Akira's fortune-->fortune-akira-->lantern-end
+post-akira--Brush fortune off-->brush-akira-->lantern-end
 
 %% Format the routes & link to script files accordingly
 %%---------------------------------------------------------------------------
@@ -98,16 +120,16 @@ class break-ingram,dining-ingram,day-ingram,lantern-ingram ingram-route
 class break-ingram,dining-ingram,day-ingram,lantern-ingram internal-link
 
 %% Kai route
-class break-kai,dining-kai,day-kai,lantern-kai kai-route
-class break-kai,dining-kai,day-kai,lantern-kai internal-link
+class break-kai,kai-kai,knavery-kai,dining-kai,day-kai,lantern-kai,ask-kai,cheer-kai kai-route
+class break-kai,kai-kai,knavery-kai,dining-kai,day-kai,lantern-kai,ask-kai,cheer-kai internal-link
 
 %% Annelise route
 class break-annelise,cooking-annelise,day-annelise,lantern-annelise annelise-route
 class break-annelise,cooking-annelise,day-annelise,lantern-annelise internal-link
 
 %% Akira route
-class break-akira,cooking-akira,day-akira,lantern-akira akira-route
-class break-akira,cooking-akira,day-akira,lantern-akira internal-link
+class break-akira,agree-akira,persevere-akira,cooking-akira,day-akira,lantern-akira,one-akira,three-akira,five-akira,post-akira,fortune-akira,brush-akira akira-route
+class break-akira,agree-akira,persevere-akira,cooking-akira,day-akira,lantern-akira,one-akira,three-akira,five-akira,post-akira,fortune-akira,brush-akira internal-link
 
 ```
 
