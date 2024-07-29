@@ -3,7 +3,7 @@
 graph TD
 
 %% Define aliases
-CH6[Cafe with AKira]
+CH6[Cafe with Akira]
 peach-tea[Peach tea]
 americano[Americano]
 cafe-medley[Cafe medley]
@@ -40,24 +40,24 @@ classDef emi-route fill:#ffbcca,stroke:#f393a7,stroke-width:4px
 classDef akira-route fill:#c7f5c5,stroke:#86c083,stroke-width:4px
 
 %% Establish node connections
-CH6--Make a peach iced tea-->peach-tea
-CH6--Make an americano -->americano
+CH6--Make a peach iced tea (+5)-->peach-tea
+CH6--Make an americano (+0)-->americano
 peach-tea & americano-->cafe-medley-->girl-talk-->piano-teacher-->nervous-thoughts-->piano-practice
-piano-practice--Invite Akira to room-->bedroom-date
-piano-practice--Say goodnight-->lonely-night
+piano-practice--Invite Akira to room (+15)-->bedroom-date
+piano-practice--Say goodnight (+0)-->lonely-night
 bedroom-date & lonely-night-->customer6-->dessert-compliments-->fleeting-glimpse
-fleeting-glimpse--Invite Akira to the rooftop-->rooftop-chat
-fleeting-glimpse--Say nothing and wish him goodnight-->repressed-feelings
+fleeting-glimpse--Invite Akira to the rooftop (+15)-->rooftop-chat
+fleeting-glimpse--Say nothing and wish him goodnight (+0)-->repressed-feelings
 rooftop-chat & repressed-feelings-->surprise-date
-surprise-date--If good intimacy-->good-picnic
-surprise-date--If okay intimacy-->ok-picnic
-ok-picnic--Be honest about being lonely-->honest-feelings
-ok-picnic--Pretend to be okay-->feign-happy
-surprise-date--If bad intimacy-->bad-picnic
+surprise-date--145+ intimacy points-->good-picnic
+surprise-date--125+ intimacy points-->ok-picnic
+ok-picnic--Be honest about being lonely (+10)-->honest-feelings
+ok-picnic--Pretend to be okay (+0)-->feign-happy
+surprise-date--Less than 125 intimacy points-->bad-picnic
 good-picnic & honest-feelings & feign-happy & bad-picnic-->akina-ingram-->nabe-dinner-->kai-lore-->mirror6-->walk-akira
-walk-akira--If good intimacy-->good-piano--If perfect intimacy-->embrace-akira
-walk-akira--if okay intimacy-->ok-piano
-walk-akira--If bad intimacy-->bad-piano
+walk-akira--145+ intimacy points (+15)-->good-piano--185 intimacy points-->embrace-akira
+walk-akira--135+ intimacy points (+10)-->ok-piano
+walk-akira--Less than 135 intimacy points (+0)-->bad-piano
 
 %% Format the routes & link to script files accordingly
 %%---------------------------------------------------------------------------

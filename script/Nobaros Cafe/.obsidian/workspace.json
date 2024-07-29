@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 6/Akira/Chapter 6 Akira.md",
-                "mode": "source",
-                "source": false
+                "file": "Chapter 5/Akira/Chapter 5 Akira.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -161,15 +161,15 @@
   "active": "c6eebb676e676da3",
   "lastOpenFiles": [
     "Chapter 6/Akira/Chapter 6 Akira.md",
-    "Chapter 7/Akira/Chapter 7 Akira.md",
     "Chapter 5/Akira/Chapter 5 Akira.md",
+    "Chapter 4/Chapter 4 Master.md",
+    "Chapter 7/Akira/Chapter 7 Akira.md",
+    "Chapter 3/Chapter 3 Master.md",
+    "Chapter 2/Chapter 2 Master.md",
+    "Chapter 1/Chapter 1 Master.md",
     "Game development roadmap.md",
     "Chapter 7/Akira",
     "Chapter 7",
-    "Chapter 4/Chapter 4 Master.md",
-    "Chapter 1/Chapter 1 Master.md",
-    "Chapter 3/Chapter 3 Master.md",
-    "Chapter 2/Chapter 2 Master.md",
     "Chapter 6/Akira",
     "Chapter 7/Akira",
     "Chapter 6",

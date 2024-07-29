@@ -49,14 +49,14 @@ classDef akira-route fill:#c7f5c5,stroke:#86c083,stroke-width:4px
 
 %% Establish node connections
 CH5-->playful-piano
-playful-piano--Ask Akira to play-->play-along-->cream-puffs
-playful-piano--Ask the kids to quiet down-->quiet-down-->cream-puffs
-cream-puffs--Choose matcha & pistachio -->matcha-pistachio
-cream-puffs--Choose vanilla & chocolate-->vanilla-choco
-cream-puffs--Choose dulce de leche & praline-->dulce-praline
+playful-piano--Ask Akira to play (+10)-->play-along-->cream-puffs
+playful-piano--Ask the kids to quiet down (+0)-->quiet-down-->cream-puffs
+cream-puffs--Choose matcha & pistachio (+10)-->matcha-pistachio
+cream-puffs--Choose vanilla & chocolate (+5)-->vanilla-choco
+cream-puffs--Choose dulce de leche & praline (+0)-->dulce-praline
 matcha-pistachio & vanilla-choco & dulce-praline-->spring-rain
-spring-rain--Pull Akira closer-->pull-akira
-spring-rain--Tilt umbrella towards Akira-->tilt-umbrella
+spring-rain--Pull Akira closer (+15)-->pull-akira
+spring-rain--Tilt umbrella towards Akira (+5)-->tilt-umbrella
 pull-akira & tilt-umbrella-->dessert-group
 dessert-group--Matcha/pistachio puffs-->good-puffs-->customer5
 dessert-group--Vanilla/chocolate puffs-->ok-puffs-->customer5
@@ -64,15 +64,15 @@ dessert-group--Dulce/praline puffs-->bad-puffs-->customer5
 customer5-->mirror5--Confront Jirou-->confrontation-->backstab-dreams
 mirror5--Spectate from afar-->spectate-->backstab-dreams
 backstab-dreams-->rooftop-solace-->dessert-brainstorm
-rooftop-solace--if enough intimacy points-->confession-akira-->dessert-brainstorm
+rooftop-solace--80+ intimacy points-->confession-akira-->dessert-brainstorm
 dessert-brainstorm-->playground
-playground--Go with Akira-->kissaten-date-->dessert-emi
-playground--Reject Akira's proposal-->go-home-->dessert-ingram
+playground--Go with Akira (+15)-->kissaten-date-->dessert-emi
+playground--Reject Akira's offer (+0)-->go-home-->dessert-ingram
 dessert-emi & dessert-ingram-->first-taste-->lost-glasses
-lost-glasses--Emi finds the glasses-->glasses-emi-->sunlit-nap
-lost-glasses--Ingram finds the glasses-->glasses-ingram-->sunlit-nap
-sunlit-nap--Wait for Akira to wake up-->wait-akira
-sunlit-nap--Leave glasses on coffee table-->coffee-table
+lost-glasses--Emi finds the glasses (+5)-->glasses-emi-->sunlit-nap
+lost-glasses--Ingram finds the glasses (+0)-->glasses-ingram-->sunlit-nap
+sunlit-nap--Wait for Akira to wake up (+15)-->wait-akira
+sunlit-nap--Leave glasses on coffee table (+5)-->coffee-table
 wait-akira & coffee-table-->confession-emi
 confession-emi--If Akira confessed earlier-->answer-emi
 confession-emi--If first time confessing-->response-akira

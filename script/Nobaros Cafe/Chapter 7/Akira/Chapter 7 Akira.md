@@ -43,20 +43,20 @@ classDef akira-route fill:#c7f5c5,stroke:#86c083,stroke-width:4px
 CH7-good--If 'Akiras embrace' in CH6-->brilliant-idea
 CH7-->brilliant-idea
 brilliant-idea-->proposal-akira-->convince-ingram-->convince-annekai-->true-feelings
-true-feelings--Remind Akira to enjoy himself-->reassurance
-true-feelings--Tell Akira to just focus on practicing-->practice-more
+true-feelings--Remind Akira to enjoy himself (+10)-->reassurance
+true-feelings--Tell Akira to just focus on practicing (+0)-->practice-more
 reassurance & practice-more-->repertoire-worries
-repertoire-worries--Choose based on enjoyability-->enjoyable-song
-repertoire-worries--Choose based on difficulty-->easy-song
+repertoire-worries--Choose based on enjoyability (+10)-->enjoyable-song
+repertoire-worries--Choose based on difficulty (+0)-->easy-song
 enjoyable-song & easy-song-->dreaming-of-akira-->sudden-awakening
-sudden-awakening--Accept & embrace traumatic memory-->part-of-me
-sudden-awakening--Fight against traumatic memory-->past-wounds
+sudden-awakening--Accept & embrace traumatic memory (+15)-->part-of-me
+sudden-awakening--Fight against traumatic memory (+0)-->past-wounds
 part-of-me & past-wounds-->mysterious-voice-->performance-day
-performance-day--Comfort Akira with a kiss-->lucky-kiss
-performance-day--Comfort Akira with encouraging words-->encouraging-words
+performance-day--Comfort Akira with a kiss (+10)-->lucky-kiss
+performance-day--Comfort Akira with encouraging words (+0)-->encouraging-words
 lucky-kiss & encouraging-words-->the-performance
-the-performance--Enough intimacy points-->good-performance-->good-aftermath-->final-memories
-the-performance--Not enough intimacy points-->bad-performance-->bad-aftermath-->final-memories
+the-performance--195+ intimacy points-->good-performance-->good-aftermath-->final-memories
+the-performance--Less than 195 intimacy points-->bad-performance-->bad-aftermath-->final-memories
 final-memories-->leaving-akira
 leaving-akira--Good ending-->mirror7-->my-serendipity
 leaving-akira--Bad ending-->acataleptic-dream
