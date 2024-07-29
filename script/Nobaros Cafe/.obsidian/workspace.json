@@ -8,14 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72b9ad4801b7f53a",
+            "id": "c6eebb676e676da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 5/Akira/Chapter 5 Akira.md",
+                "file": "Chapter 7/Akira/Chapter 7 Akira.md",
                 "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "8496f13cca0f4fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 6/Akira/Chapter 6 Akira.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5/Akira/Chapter 5 Akira.md",
+                "file": "Chapter 7/Akira/Chapter 7 Akira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 5/Akira/Chapter 5 Akira.md",
+                "file": "Chapter 7/Akira/Chapter 7 Akira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 5/Akira/Chapter 5 Akira.md"
+                "file": "Chapter 7/Akira/Chapter 7 Akira.md"
               }
             }
           }
@@ -146,16 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72b9ad4801b7f53a",
+  "active": "c6eebb676e676da3",
   "lastOpenFiles": [
     "Chapter 6/Akira/Chapter 6 Akira.md",
+    "Chapter 7/Akira/Chapter 7 Akira.md",
+    "Chapter 5/Akira/Chapter 5 Akira.md",
+    "Game development roadmap.md",
+    "Chapter 7/Akira",
+    "Chapter 7",
+    "Chapter 4/Chapter 4 Master.md",
+    "Chapter 1/Chapter 1 Master.md",
     "Chapter 3/Chapter 3 Master.md",
     "Chapter 2/Chapter 2 Master.md",
-    "Chapter 1/Chapter 1 Master.md",
-    "Chapter 5/Akira/Chapter 5 Akira.md",
-    "Chapter 4/Chapter 4 Master.md",
     "Chapter 6/Akira",
-    "Akira",
+    "Chapter 7/Akira",
     "Chapter 6",
     "Chapter 2/Main/Bath time.md",
     "Chapter 2/Main/Meeting others.md",
@@ -167,9 +183,6 @@
     "Chapter 3/Mirror",
     "Chapter 3/Main",
     "Chapter 3/Kai",
-    "Chapter 3/Ingram",
-    "Chapter 3/Annelise",
-    "Game development roadmap.md",
     "Chapter 2/Main/Pastry training.md",
     "Chapter 2/Kai/Wipe crumb.md",
     "Chapter 2/Kai/Tell Kai.md",
@@ -182,7 +195,6 @@
     "Chapter 2/Annelise/Aged tangerine.md",
     "Chapter 2/Akira/Meeting Akira.md",
     "Chapter 2/Akira/Afternoon chat.md",
-    "Chapter 2/Ingram/Milk and honey.md",
-    "Chapter 2/Kai/Macarons.md"
+    "Chapter 2/Ingram/Milk and honey.md"
   ]
 }
