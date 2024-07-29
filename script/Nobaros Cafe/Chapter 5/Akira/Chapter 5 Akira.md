@@ -13,12 +13,12 @@ vanilla-choco[Vanilla & chocolate]
 dulce-praline[Dulce & praline]
 spring-rain[Spring rain]
 pull-akira[Under the rain]
-tilt-umbrella[Tilt the umbrella]
-dessert-group[Dessert for everyone]
+tilt-umbrella[Tilt umbrella]
+dessert-group[Dessert with friends]
 good-puffs[Matcha puffs]
 ok-puffs[Vanilla puffs]
 bad-puffs[Dulce puffs]
-customer5[A new customer 5]
+customer5[New customer 5]
 mirror5[Sweven mirror 5]
 confrontation[Confront Jirou]
 spectate[Watch from afar]
@@ -26,12 +26,12 @@ backstab-dreams[Dreaming of betrayal]
 rooftop-solace[Rooftop solace]
 confession-akira[Confession from Akira]
 dessert-brainstorm[Dessert brainstorming]
-playground[Playground]
+playground[Playground affairs]
 kissaten-date[Kissaten date]
 go-home[Maybe next time]
-dessert-emi[Emi breakthrough]
-dessert-ingram[Ingram breakthrough]
-first-taste[First taste]
+dessert-emi[Emi dessert creation]
+dessert-ingram[Ingram dessert creation]
+first-taste[New dessert]
 lost-glasses[Lost glasses]
 glasses-emi[Emi finds glasses]
 glasses-ingram[Ingram finds glasses]
@@ -51,9 +51,9 @@ classDef akira-route fill:#c7f5c5,stroke:#86c083,stroke-width:4px
 CH5-->playful-piano
 playful-piano--Ask Akira to play-->play-along-->cream-puffs
 playful-piano--Ask the kids to quiet down-->quiet-down-->cream-puffs
-cream-puffs--Choose matcha & pistachio flavours-->matcha-pistachio
-cream-puffs--Choose vanilla & chocolate flavours-->vanilla-choco
-cream-puffs--Choose dulce de leche & praline flavours-->dulce-praline
+cream-puffs--Choose matcha & pistachio -->matcha-pistachio
+cream-puffs--Choose vanilla & chocolate-->vanilla-choco
+cream-puffs--Choose dulce de leche & praline-->dulce-praline
 matcha-pistachio & vanilla-choco & dulce-praline-->spring-rain
 spring-rain--Pull Akira closer-->pull-akira
 spring-rain--Tilt umbrella towards Akira-->tilt-umbrella
