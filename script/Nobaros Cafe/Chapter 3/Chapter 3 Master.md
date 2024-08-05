@@ -62,14 +62,14 @@ classDef akira-route fill:#c7f5c5,stroke:#86c083,stroke-width:4px
 classDef annelise-route fill:#fff2cc,stroke:#efcd7b,stroke-width:4px
 
 %% Establish node connections
-CH3--Take a walk outside-->break-kai
-break-kai--Answer with 'Kai'-->kai-kai-->customer3
-break-kai--Answer with 'Knavery'-->knavery-kai-->customer3
-CH3--Fold cake boxes-->break-akira
-break-akira--Agree with Akira's opinion-->agree-akira-->customer3
-break-akira--Keep trying-->persevere-akira-->customer3
-CH3--Chill in the library-->break-annelise
-CH3--Stay behind the counter-->break-ingram
+CH3--Take a walk outside (+5)-->break-kai
+break-kai--Answer with 'Kai' (+0)-->kai-kai-->customer3
+break-kai--Answer with 'Knavery' (+5)-->knavery-kai-->customer3
+CH3--Fold cake boxes (+0)-->break-akira
+break-akira--Agree with Akira's opinion (+10)-->agree-akira-->customer3
+break-akira--Keep trying (+0)-->persevere-akira-->customer3
+CH3--Chill in the library (+10)-->break-annelise
+CH3--Stay behind the counter (+10)-->break-ingram
 break-annelise & break-ingram-->customer3
 customer3-->mirror3
 mirror3-->memory1--Take the teddy bear-->teddy-bear
@@ -81,29 +81,29 @@ memory4--Take sleeping pills-->sleeping-pills
 memory4--Continue onwards-->memory5-->old-sketches
 sleeping-pills & old-sketches-->lingering-regrets-->yua-dreams-->breakfast-prep
 breakfast-prep--Help in the kitchen-->cooking-kitchen
-cooking-kitchen--Add condensed milk-->cooking-annelise
-cooking-kitchen--Leave it as is-->cooking-akira
+cooking-kitchen--Add condensed milk (+5)-->cooking-annelise
+cooking-kitchen--Leave it as is (+5)-->cooking-akira
 breakfast-prep--Set up the dining table-->dining-table
-dining-table--Prefer hot drinks-->dining-ingram
-dining-table--Prefer cold drinks-->dining-kai
+dining-table--Prefer hot drinks (+5)-->dining-ingram
+dining-table--Prefer cold drinks (+5)-->dining-kai
 cooking-annelise & cooking-akira & dining-ingram & dining-kai-->breakfast-time
-breakfast-time--Approach Annelise-->day-annelise
-breakfast-time--Approach Kai-->day-kai
-breakfast-time--Approach Akira-->day-akira
-breakfast-time--Approach Ingram-->day-ingram
-day-ingram--Make a lantern for Ingram-->lantern-ingram
+breakfast-time--Approach Annelise (+10)-->day-annelise
+breakfast-time--Approach Kai (+5)-->day-kai
+breakfast-time--Approach Akira (+5)-->day-akira
+breakfast-time--Approach Ingram (+5)-->day-ingram
+day-ingram--Make a lantern for Ingram (+10)-->lantern-ingram
 day-ingram--Meet the others-->lantern-festival
 day-annelise & day-kai & day-akira-->lantern-festival
-lantern-festival--Visit the tanghulu lady-->lantern-annelise-->lantern-end
-lantern-festival--Check out the game stalls-->lantern-kai
-lantern-kai--Ask Kai about his thoughts-->ask-kai-->lantern-end
-lantern-kai--Cheer Kai up-->cheer-kai-->lantern-end
-lantern-festival--Get your fortune told-->lantern-akira
-lantern-akira--Pick 1 or 2 petals-->one-akira-->post-akira
-lantern-akira--Pick 3 petals-->three-akira-->post-akira
-lantern-akira--Pick 4 or 5 petals-->five-akira-->post-akira
-post-akira--Ask about Akira's fortune-->fortune-akira-->lantern-end
-post-akira--Brush fortune off-->brush-akira-->lantern-end
+lantern-festival--Visit the tanghulu lady (+5)-->lantern-annelise-->lantern-end
+lantern-festival--Check out the game stalls (+5)-->lantern-kai
+lantern-kai--Ask Kai about his thoughts (+5)-->ask-kai-->lantern-end
+lantern-kai--Cheer Kai up (+0)-->cheer-kai-->lantern-end
+lantern-festival--Get your fortune told (+0)-->lantern-akira
+lantern-akira--Pick 1 or 2 petals (+0)-->one-akira-->post-akira
+lantern-akira--Pick 3 petals (+5)-->three-akira-->post-akira
+lantern-akira--Pick 4 or 5 petals (+0)-->five-akira-->post-akira
+post-akira--Ask about Akira's fortune (+5)-->fortune-akira-->lantern-end
+post-akira--Brush fortune off (+0)-->brush-akira-->lantern-end
 
 %% Format the routes & link to script files accordingly
 %%---------------------------------------------------------------------------

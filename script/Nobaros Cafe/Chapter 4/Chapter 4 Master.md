@@ -41,13 +41,13 @@ classDef annelise-route fill:#fff2cc,stroke:#efcd7b,stroke-width:4px
 %% Establish node connections
 CH4-->sweets-contest
 CH4-ingram--'Lantern for You' at end of CH3-->sweets-contest
-sweets-contest--Don't get involved-->spectate-match
-spectate-match--Ask Akira to play Chopin-->sweets-akira
-spectate-match--Ask Akira to play Liszt-->sweets-ingram
+sweets-contest--Don't get involved (+0)-->spectate-match
+spectate-match--Ask Akira to play Chopin (+5)-->sweets-akira
+spectate-match--Ask Akira to play Liszt (+5)-->sweets-ingram
 sweets-akira & sweets-ingram-->spectate-finish
-sweets-contest--Bring sweets for Annelise & Kaio-->judge-sweets
-judge-sweets--Bring a strawberry dessert-->sweets-annelise
-judge-sweets--Bring a chocolate dessert-->sweets-kai
+sweets-contest--Bring sweets for Annelise & Kai (+0)-->judge-sweets
+judge-sweets--Bring a strawberry dessert (+5)-->sweets-annelise
+judge-sweets--Bring a chocolate dessert (+5)-->sweets-kai
 sweets-annelise & sweets-kai & spectate-finish-->customer4-->mirror4
 mirror4--Find the perfect dress-->good-dress
 mirror4--Unable to find the perfect dress-->bad-dress
@@ -55,8 +55,8 @@ good-dress & bad-dress-->missing-fiance-->dinner-->kings-game-->tiebreaker
 missing-fiance--Spectated match earlier-->dinner-akira-->kings-game
 tiebreaker--Sit at the right-->king-annelise
 tiebreaker--Sit at the left-->king-ingram
-king-ingram--Wishing for Ingram's happiness-->happy-ingram-->shohei-dreams
-king-ingram--Offer to lend an ear-->comfort-ingram-->shohei-dreams
+king-ingram--Wishing for Ingram's happiness (+10)-->happy-ingram-->shohei-dreams
+king-ingram--Offer to lend an ear (+0)-->comfort-ingram-->shohei-dreams
 tiebreaker--Sit where you are-->king-akira
 tiebreaker--Sit across the table-->king-kai
 king-annelise & king-akira & king-kai-->shohei-dreams
