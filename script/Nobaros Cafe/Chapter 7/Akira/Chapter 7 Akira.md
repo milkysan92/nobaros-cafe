@@ -30,7 +30,7 @@ good-aftermath[Good aftermath]
 bad-aftermath[Bad aftermath]
 final-memories[Final memories]
 leaving-akira[Leaving Akira]
-mirror7[Sweven mirror 7]
+mirror7[Sweven mirror Akira]
 my-serendipity[My serendipity]
 acataleptic-dream[Acataleptic-dream]
 
