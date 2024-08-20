@@ -13,6 +13,7 @@ ikebana-girls[Ikebana girls]
 arrange-camellia[Arrange camellia]
 arrange-sakura[Arrange sakura]
 arrange-annelise[Arrange Annelise]
+annelise-dream[Annelises dream]
 nabe-dinner[Nabe Annelise]
 dessert-annelise[Dessert Annelise]
 dessert-akina[Dessert Akina]
@@ -21,6 +22,7 @@ sudden-recollect[Sudden recollection Annelise]
 kai-lore[Kai lore Annelise]
 akina-lore[Akina lore Annelise]
 mirror6[Sweven mirror 6]
+home-annelise[Home Annelise]
 confession-annelise[Confession Annelise]
 
 %% Define node formatting for routes
@@ -36,7 +38,7 @@ fellow-artist & artistic-ideal-->town-square-->ikebana-girls
 ikebana-girls--Choose the camellias-->arrange-camellia
 ikebana-girls--Choose the sakura blossoms-->arrange-sakura
 ikebana-girls--Let Annelise pick first-->arrange-annelise
-arrange-camellia & arrange-sakura & arrange-annelise-->nabe-dinner
+arrange-camellia & arrange-sakura & arrange-annelise-->annelise-dream-->nabe-dinner
 nabe-dinner--??+ intimacy points-->dessert-annelise
 nabe-dinner--less than ?? intimacy points-->dessert-akina
 dessert-annelise & dessert-akina-->rooftop-story-->sudden-recollect
@@ -44,18 +46,19 @@ sudden-recollect--If 'Dessert Annelise'-->kai-lore
 sudden-recollect--If 'Dessert Akina'-->akina-lore
 kai-lore & akina-lore-->mirror6
 mirror6--??+ intimacy points-->confession-annelise
+mirror6--Less than ?? intimacy points-->home-annelise
 
 %% Format the routes & link to script files accordingly
 %%---------------------------------------------------------------------------
 %% General storyline
-class CH6,customer6,florist-annelise,town-square,ikebana-girls,nabe-dinner,rooftop-story,sudden-recollect internal-link
+class CH6,customer6,florist-annelise,town-square,ikebana-girls,annelise-dream,nabe-dinner,rooftop-story,sudden-recollect internal-link
 
 %% Spiritguiding
 class mirror6 spirit-route
 class mirror6 internal-link
 
 %% Annelise decisions
-class fellow-artist,artistic-ideal,arrange-camellia,arrange-sakura,arrange-annelise,dessert-annelise,dessert-akina,kai-lore,akina-lore,confession-annelise annelise-route
-class fellow-artist,artistic-ideal,arrange-camellia,arrange-sakura,arrange-annelise,dessert-annelise,dessert-akina,kai-lore,akina-lore,confession-annelise internal-link
+class fellow-artist,artistic-ideal,arrange-camellia,arrange-sakura,arrange-annelise,dessert-annelise,dessert-akina,kai-lore,akina-lore,confession-annelise,home-annelise annelise-route
+class fellow-artist,artistic-ideal,arrange-camellia,arrange-sakura,arrange-annelise,dessert-annelise,dessert-akina,kai-lore,akina-lore,confession-annelise,home-annelise internal-link
 
 ```
