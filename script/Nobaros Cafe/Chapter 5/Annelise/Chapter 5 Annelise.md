@@ -38,28 +38,28 @@ classDef emi-route fill:#ffbcca,stroke:#f393a7,stroke-width:4px
 classDef annelise-route fill:#fff2cc,stroke:#efcd7b,stroke-width:4px
 
 %% Establish node connections
-CH5--Someone she wants to be closer to -->someone-closer
-CH5--Her own character-->your-chara
+CH5--Someone she wants to be closer to (+0)-->someone-closer
+CH5--Her own character (+0)-->your-chara
 someone-closer & your-chara-->rocky-morning-->cafe-incident
-cafe-incident--Let Annelise bandage Kai-->relatable-worries
-cafe-incident--Bandage Kai yourself-->clean-mess
+cafe-incident--Let Annelise bandage Kai (+10)-->relatable-worries
+cafe-incident--Bandage Kai yourself (+0)-->clean-mess
 relatable-worries & clean-mess-->customer5-->mirror5
 mirror5--Confront Jirou-->confrontation-->backstab-dreams
 mirror5--Spectate from afar-->spectate-->backstab-dreams
 backstab-dreams-->inner-conflict-->sakura-pc
-sakura-pc--Bring some to the beach-->seaside-snack
-sakura-pc--Leave them at home-->home-snack
+sakura-pc--Bring some to the beach (+0)-->seaside-snack
+sakura-pc--Leave them at home (+0)-->home-snack
 seaside-snack & home-snack-->to-the-beach
-to-the-beach--Drag Annelise towards the water-->into-the-water
-into-the-water--If 'Seaside snack'-->water-snack
-to-the-beach--Build sandcastles with Annelise-->sandcastles
-sandcastles--If 'Seaside snack'-->sand-snack
+to-the-beach--Drag Annelise towards the water (+15)-->into-the-water
+into-the-water--If 'Seaside snack' (+10)-->water-snack
+to-the-beach--Build sandcastles with Annelise (+10)-->sandcastles
+sandcastles--If 'Seaside snack' (+10)-->sand-snack
 water-snack & into-the-water & sand-snack & sandcastles -->watermelon-time
-watermelon-time--??+ intimacy points-->saved-by-kai
-watermelon-time--Less than ?? intimacy points-->missing-annelise
+watermelon-time--85+ intimacy points-->saved-by-kai
+watermelon-time--Less than 85 intimacy points-->missing-annelise
 saved-by-kai & missing-annelise-->fun-with-sparklers
-fun-with-sparklers--If 'Someone closer' -->family-sketch
-fun-with-sparklers--If 'Your character'-->annelise-sketch
+fun-with-sparklers--If 'Someone closer' (+15) -->family-sketch
+fun-with-sparklers--If 'Your character' (+10)-->annelise-sketch
 family-sketch & annelise-sketch-->my-friend
 
 %% Format the routes & link to script files accordingly

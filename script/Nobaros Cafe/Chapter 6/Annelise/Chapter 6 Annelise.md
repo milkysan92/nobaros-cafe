@@ -32,21 +32,21 @@ classDef annelise-route fill:#fff2cc,stroke:#efcd7b,stroke-width:4px
 
 %% Establish node connections
 CH6-->customer6-->florist-annelise
-florist-annelise--'How did you become an ikebana artist?'-->fellow-artist
-florist-annelise--'What inspires you as an ikebana artist?'-->artistic-ideal
+florist-annelise--'How did you become an ikebana artist?' (+10)-->fellow-artist
+florist-annelise--'What inspires you as an ikebana artist?' (+0)-->artistic-ideal
 fellow-artist & artistic-ideal-->town-square-->ikebana-girls
-ikebana-girls--Choose the camellias-->arrange-camellia
-ikebana-girls--Choose the sakura blossoms-->arrange-sakura
-ikebana-girls--Let Annelise pick first-->arrange-annelise
+ikebana-girls--Choose the camellias (+0)-->arrange-camellia
+ikebana-girls--Choose the sakura blossoms (+5)-->arrange-sakura
+ikebana-girls--Let Annelise pick first (+10)-->arrange-annelise
 arrange-camellia & arrange-sakura & arrange-annelise-->annelise-dream-->nabe-dinner
-nabe-dinner--??+ intimacy points-->dessert-annelise
-nabe-dinner--less than ?? intimacy points-->dessert-akina
+nabe-dinner--115+ intimacy points-->dessert-annelise
+nabe-dinner--less than 115 intimacy points-->dessert-akina
 dessert-annelise & dessert-akina-->rooftop-story-->sudden-recollect
 sudden-recollect--If 'Dessert Annelise'-->kai-lore
 sudden-recollect--If 'Dessert Akina'-->akina-lore
 kai-lore & akina-lore-->mirror6
-mirror6--??+ intimacy points-->confession-annelise
-mirror6--Less than ?? intimacy points-->home-annelise
+mirror6--135 intimacy points-->confession-annelise
+mirror6--Less than 135 intimacy points-->home-annelise
 
 %% Format the routes & link to script files accordingly
 %%---------------------------------------------------------------------------

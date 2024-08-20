@@ -33,20 +33,20 @@ classDef emi-route fill:#ffbcca,stroke:#f393a7,stroke-width:4px
 classDef annelise-route fill:#fff2cc,stroke:#efcd7b,stroke-width:4px
 
 %% Establish node connections
-CH7--Encourage Annelise to write-->comraderie
-CH7--Warn Annelise of the commitment required-->careful-warning
+CH7--Encourage Annelise to write (+10)-->comraderie
+CH7--Warn Annelise of the commitment required (+0)-->careful-warning
 comraderie & careful-warning-->budding-novelist
 budding-novelist--If 'Confession Annelise' in CH6-->sensational-life
 budding-novelist-->idyllic-fantasy
 sensational-life & idyllic-fantasy-->friendly-opinion
-friendly-opinion--The hero's journey is the most satisfying-->inspiring-journey
-friendly-opinion--The happy ending is the most satisfying-->happy-ending
+friendly-opinion--The hero's journey is the most satisfying (+15)-->inspiring-journey
+friendly-opinion--The happy ending is the most satisfying (+5)-->happy-ending
 inspiring-journey & happy-ending-->familiar-taste-->dreaming-of-annelise-->comforting-shoulder-->last-stretch
-last-stretch--Ask Yuugen roommates for advice-->roommate-advice
-last-stretch--Ask artist circle for advice-->artist-advice
+last-stretch--Ask Yuugen roommates for advice (+10)-->roommate-advice
+last-stretch--Ask artist circle for advice (+0)-->artist-advice
 roommate-advice & artist-advice-->her-masterpiece
-her-masterpiece--??+ intimacy points-->first-look-yuugen
-her-masterpiece--Less than ?? intimacy points-->first-look-artist
+her-masterpiece--145+ intimacy points-->first-look-yuugen
+her-masterpiece--Less than 145 intimacy points-->first-look-artist
 first-look-yuugen--Good ending-->her-life-journey-->mirror7-->hiraeth
 first-look-artist--Bad ending-->her-happy-ending-->kalopsia
 
