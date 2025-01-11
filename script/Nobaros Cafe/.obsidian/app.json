@@ -1,3 +1,10 @@
 {
-  "alwaysUpdateLinks": false
+  "alwaysUpdateLinks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

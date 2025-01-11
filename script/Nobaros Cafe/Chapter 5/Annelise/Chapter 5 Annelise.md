@@ -16,14 +16,14 @@ confrontation[Confront Jirou]
 spectate[Watch from afar]
 backstab-dreams[Dreaming of betrayal]
 inner-conflict[Inner conflict]
-sakura-pc[Sakura panna cotta]
+sakura-pc[Sakura panna cotta Annelise]
 seaside-snack[Seaside snack]
 home-snack[Home snack]
-to-the-beach[To the beach]
-into-the-water[Into the water]
-water-snack[Water snack]
-sandcastles[Sandcastles]
-sand-snack[Sand snack]
+to-the-beach[To the beach Annelise]
+into-the-water[Into the water Annelise]
+water-snack[Water snack Annelise]
+sandcastles[Sandcastles Annelise]
+sand-snack[Sand snack Annelise]
 watermelon-time[Watermelon time]
 saved-by-kai[Saved by Kai]
 missing-annelise[Missing Annelise]
@@ -72,7 +72,7 @@ class CH5,rocky-morning,cafe-incident,customer5,backstab-dreams,inner-conflict,s
 class mirror5,confrontation,spectate spirit-route
 class mirror5,confrontation,spectate internal-link
 
-%% Annelise route
+%% Annelise decisions
 class someone-closer,your-chara,relatable-worries,clean-mess,seaside-snack,home-snack,into-the-water,sandcastles,water-snack,sand-snack,saved-by-kai,missing-annelise,family-sketch,annelise-sketch annelise-route
 class someone-closer,your-chara,relatable-worries,clean-mess,seaside-snack,home-snack,into-the-water,sandcastles,water-snack,sand-snack,saved-by-kai,missing-annelise,family-sketch,annelise-sketch internal-link
 
