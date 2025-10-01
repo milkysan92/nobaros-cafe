@@ -1,9 +1,9 @@
 ﻿# Master script; this script should contain global vars & overall chapter logic
 image blank = "#000000"
 label start:
-    # call prologue_master
+    call prologue_master
     # call ch1_master
-    call ch2_master from _call_ch2_master
+    # call ch2_master from _call_ch2_master
     # call ch3_master
     # call ch4_master
 
@@ -53,6 +53,4 @@ label start:
                 # call badEnd_annelise
 
     #TODO: Figure out logic for changing the title screen based on which good endings have been completed
-    # call intro
-    # call phantasia
     return
