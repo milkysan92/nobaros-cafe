@@ -1,4 +1,3 @@
-# Prologue master script; the main situation logic belongs here; there should be no dialogue lines
 label ingram_intro:
     "Think about the idea of memories."
     "How important they are to us."
@@ -29,5 +28,7 @@ label ingram_intro:
     "Before wiping his memories, B hopes that someday, A will be able to face his past and properly move on."
     "But for now, B simply instructs A to close his eyes and breathe."
     "He wishes A sweet dreams before doing what he needs to do."
+    scene blank with fade
     "B's voice disappears, waiting for the day they meet again."
+    "..."
     return
