@@ -1,1 +1,4 @@
 # Prologue master script; the main situation logic belongs here; there should be no dialogue lines
+label prologue_master:
+    call ingram_intro
+    return
