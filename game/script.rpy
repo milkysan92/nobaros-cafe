@@ -1,5 +1,6 @@
 ﻿# Master script; this script should contain global vars & overall chapter logic
 image blank = "#000000"
+image white = "#FFFFFF"
 label start:
     call prologue_master
     # call ch1_master
