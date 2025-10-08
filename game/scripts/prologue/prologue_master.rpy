@@ -4,4 +4,5 @@ label prologue_master:
     call emi_intro
     call nobaros_intro
     call around_town
+    call nobaros_cafe
     return
