@@ -5,7 +5,8 @@ label emi_intro:
     scene emi_intro with fade
     "Numerous voices can be heard murmuring, like voices inside one's head."
     "They're expressing all kinds of sentiments."
-    "Friends. Anger. Depression."
+    "Friendship. Laughter. Joy."
+    "But also anger. Betrayal. Depression."
     "It's utter incomprehensible chaos."
     "Yet only one sentiment rings clear amongst them."
     "I want to be loved."

@@ -4,7 +4,7 @@ label ingram_intro:
     "Imagine those you love and cherish."
     "Those relationships are special because of the memories you share."
     "But there are relationships we fear because of memories as well."
-    "Whether we have joyful or tragic memories, they define us as a person."
+    "Whether we have joyful or tragic memories, they still define us as a person."
     "Memories are what write our story."
     "And everyone has a story. (This is the key theme of Nobaros Cafe)."
     "But what happens if those memories cease to exist?"

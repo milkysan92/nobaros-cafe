@@ -2,4 +2,5 @@
 label prologue_master:
     call ingram_intro
     call emi_intro
+    call nobaros_intro
     return
