@@ -48,6 +48,5 @@ label nobaros_intro:
     "He nods, telling you that he'll be sure to keep you safe."
     "You look at his eyes again, feeling the odd sense of comfort from earlier."
     "You can't help but wonder what the town will be like."
-    scene blank with fade
-    "..."
+    scene blank with bgwipe
     return
