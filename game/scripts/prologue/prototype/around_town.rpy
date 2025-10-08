@@ -44,19 +44,19 @@ label around_town:
     emi "(Whoa! That stand has a long line up!)"
     "Your eyes land on a particularly flashy stand. It's adorned with fruit skewers all over."
     emi "(Those look good too... Maybe I'll have that for dessert after.)"
-    uk_kai "Excuse me!! Can I get 5 of those tanghulu skewers please?"
+    uk_kai "Excuse me!! Can I get 8 of those tanghulu skewers please?"
     show kai at left
     show annelise at right
     with dissolve
     "A voice cuts through the crowd, coming from a pair standing in line."
     uk_annelise "W-wait, isn't that too much...?"
     uk_kai "It's alright, I'm ordering some for us!"
-    uk_kai "2 for me, 2 for you!"
-    uk_annelise "But what about the last one...?"
-    uk_kai "We'll save that for snacking on for later!"
-    uk_annelise "Oh, I see...! It's like having two snacktimes in one day!"
-    uk_annelise "Good idea!"
-    uk_kai "Hehe, I've got you covered!"
+    uk_kai "3 for me, 3 for you!"
+    uk_annelise "But what about the remaining ones...?"
+    uk_kai "We can save those for later, when we feel like eating them!"
+    uk_annelise "Oh, I see...! It's like having two snacktimes in one day."
+    uk_annelise "That's a good idea!"
+    uk_kai "Heheh, right? I've got you covered!"
     hide kai
     hide annelise
     with dissolve
