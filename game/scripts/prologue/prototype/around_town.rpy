@@ -71,7 +71,7 @@ label around_town:
     "He explains that the onigiri vendor here is one of the most popular stops."
     "You thank him for the food and the both of you enjoy a small but fulfilling lunch."
     "As you munch away, Ingram asks if you have any questions so far."
-    "(Maybe have several core questions as choices here.)"
+    "(Maybe have several core questions as choices here?)"
     emi "Everyone here... are they all people who have passed away?"
     ingram "Well, yes and no. Sort of."
     "Ingram explains that whenever someone passes onto the afterlife, a new spirit is born in Nobaros."
@@ -79,8 +79,12 @@ label around_town:
     "As a result, the spirits take on the appearance of the human they were born from."
     "But to clarify, they only borrow their appearance. They are not the person themselves."
     "Therefore, all the townspeople around them are actually just normal spirits."
-    "In a sense, one can think of Nobaros as a world of spirits that humans pass through when on their way to the afterlife."
     "You are taken aback, surprised considering how human-like the spirits seem."
     "You would've thought that mystical beings like spirits would take on a more... unique appearance."
     "But you thought it was cool that there was a sort of cycle at play here."
+    ingram "Alright, I think that's it for lunch then. Let's head out."
+    emi "Huh? Where are we going?"
+    ingram "Well, I've gotta put these groceries somewhere right?"
+    ingram "We'll be heading to where I work."
+    scene blank with bgwipe
     return
