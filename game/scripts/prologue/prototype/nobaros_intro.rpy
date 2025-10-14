@@ -26,7 +26,7 @@ label nobaros_intro:
     "Somehow, he gave off a strange sense of safety and comfort. You couldn't explain why."
     "He sits at an ottoman a fair distance away from you, trying not to spook you."
     "He introduces himself as Ingram, and that you are currently in a world called 'Nobaros'."
-    "Nobaros is a world where people's spirits go to move onto Heaven."
+    "Nobaros is a world where people's spirits go before passing onto the afterlife."
     "And he helps coordinate that spirit guiding process as the 'spirit guide'."
     "He asks you if you remember anything, and you tell him your name."
     # TODO: add character name box for user input
