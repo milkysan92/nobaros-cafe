@@ -1,4 +1,4 @@
-label around_town:
+label around_town_intro:
     scene nobaros_town with bgwipe
     "The buzz of people swarming about fills your ears."
     show ingram with dissolve
