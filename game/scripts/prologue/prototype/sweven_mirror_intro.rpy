@@ -10,7 +10,7 @@ label sweven_mirror_intro:
     "Here, the warmth is most prominent. Almost as if the mirror is alive."
     ingram "This is the Sweven Mirror. Here, you'll be able to see your wife again."
     ingram "You'll just need to enter the mirror, and I will guide you through the rest."
-    uk_generic "...I want to see her. Just once more."
+    uk_generic "...I want to see her. Just once more before I go."
     ingram "If your heart is ready, the mirror will open the path."
     "The man nods, confirming his decision."
     ingram "Then let's begin."

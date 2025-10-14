@@ -42,6 +42,7 @@ label nobaros_cafe_intro:
     "Before he can answer, the soft chime of the front bell cuts through the air."
     "A man stands by the doorway, glancing around with visible confusion."
     uk_generic "...Huh? Where... am I?"
+    ingram "...Sorry, let me handle this."
     "Ingram straightens, his expression softening instantly. He walks toward the man with calm, welcoming steps."
     ingram "Welcome to Nobaros Cafe."
     "The man blinks, clearly unsure how to respond."
