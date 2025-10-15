@@ -6,4 +6,5 @@ label prologue_master:
     call around_town_intro
     call nobaros_cafe_intro
     call sweven_mirror_intro
+    call yuugen_house_intro
     return

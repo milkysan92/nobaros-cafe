@@ -22,8 +22,8 @@ label sweven_mirror_intro:
     "Within moments, he disappears entirely into the mirror’s light, and the ripples soon become still."
     show ingram with dissolve
     "Ingram steps up to the mirror and places a hand on its surface, closing his eyes to concentrate."
-    "He murmurs something, and the mirror shines bright once more."
-    ingram "I hope you find your happiness."
+    "The mirror shines bright once more."
+    ingram "...Sweet dreams."
     hide ingram with dissolve
     scene blank with bgwipe
     scene sweven_mirror with bgwipe
@@ -48,10 +48,11 @@ label sweven_mirror_intro:
     "He turns to you, a gentle look on his face."
     ingram "This is what I do. It is the core reason behind Nobaros' existence."
     ingram "Everyone has a story. They all have a beginning and ending, but what's written in between is up to them."
-    ingram "Now you..."
-    ingram "You're a vagabond with no memories. And you might struggle to remember everything."
+    "You ponder over what your own story might be like."
+    "What kind of memories are waiting for you?"
+    ingram "I should also mention this. As a vagabond, you might struggle to remember everything."
     ingram "There's no telling how long the process takes, as it varies from person to person."
-    "Ingram explains that to help with memory recovery, he usually encourages vagabonds to be part of the spirit guiding process."
+    ingram "But sometimes, it helps speed things up by being part of the spirit guiding process."
     emi "So... you’re saying I can help with spirit guiding too?"
     ingram "If you wish. You could assist during the sessions—observe, maybe lend a hand when needed."
     ingram "Sometimes, seeing how others find closure helps vagabonds remember their own stories."
@@ -88,4 +89,5 @@ label sweven_mirror_intro:
     ingram "Promise..."
     "Although he hesitates at first, he links his pinky with yours."
     ingram "...I'll make sure to help you out."
+    scene blank with bgwipe
     return
