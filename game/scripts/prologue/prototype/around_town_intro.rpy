@@ -29,22 +29,25 @@ label around_town_intro:
     scene nobaros_marketplace with bgwipe
     show ingram with dissolve
     "The smell of piping hot food fills the air, much more intense than before."
-    "Ingram asks you if you'd be comfortable waiting as he leaves to deal with some errands."
-    "You nod, taking a seat at a nearby table."
-    "Before leaving, Ingram asks if there's any particular food you're craving."
+    "Ingram asks if there's any particular food you're craving."
     "Images of various items flash through your mind."
     "Skewers, yakisoba, takoyaki, etc..."
     "You could feel yourself drooling by the minute."
     "You shake your head."
-    emi "No, anything sounds good right now! I'll go with whatever's popular!"
+    emi "No, anything sounds good right now. I'll go with your choice."
+    "He ponders for a moment."
+    ingram "Alright, I know just the place."
+    ingram" Are you okay to wait in line for a bit?"
+    "You nod, and Ingram takes you to a stall selling onigiri."
+    "He explains that the onigiri vendor here is one of the most popular stops."
+    "He asks you what filling you'd like and orders accordingly."
     hide ingram with dissolve
-    "With a nod, Ingram leaves."
-    "You sit patiently, observing the townpeople around you."
-    "Your eyes scour the food vendors."
-    emi "(Whoa! That stand has a long line up!)"
-    "Your eyes land on a particularly flashy stand. It's adorned with fruit skewers all over."
-    emi "(Those look good too... Maybe I'll have that for dessert after.)"
-    uk_kai "Excuse me!! Can I get 8 of those tanghulu skewers please?"
+    "As the two of you wait for the onigiri to be made, you can't help but scour the crowd and soak in the atmosphere."
+    "Your eyes land on a particularly noisy stand. There's a young man eagerly shouting to attract customers."
+    emi "(That stand also has a lot of people... What are they selling?)"
+    "You shift your head to get a better look, seeing several skewers of candied fruit on display."
+    emi "(Those look pretty. I almost want a few for myself...)"
+    uk_kai "Excuse me!! Can I get 8 of those tanghulu please?"
     show kai at left
     show annelise at right
     with dissolve
@@ -54,22 +57,17 @@ label around_town_intro:
     uk_kai "3 for me, 3 for you!"
     uk_annelise "But what about the remaining ones...?"
     uk_kai "We can save those for later, when we feel like eating them!"
-    uk_annelise "Oh, I see...! It's like having two snacktimes in one day."
-    uk_annelise "That's a good idea!"
-    uk_kai "Heheh, right? I've got you covered!"
+    uk_annelise "Oh, I see...! So we'll get to enjoy them for entire day then!"
+    uk_kai "Heheh, exactly!"
     hide kai
     hide annelise
     with dissolve
-    "The two get their skewers and head off elsewhere, happily snacking away."
-    emi "(Whoa, he ordered a lot...)"
-    emi "(Though I feel like I'd probably do the same thing myself right now.)"
-    "You smile to yourself, giddy about the idea of snacking away as you please."
+    "The two get their tanghulu and head off elsewhere, happily snacking away."
+    emi "(That's a lot... must be nice. I'd do the same thing if I could.)"
+    "You smile, fantasizing of snacking away endlessly on tanghulu."
     show ingram with dissolve
-    ingram "Sorry for making you wait. That took a bit longer than I expected."
-    "Ingram returns with a few bags, full of what seems to be groceries."
-    "He digs through one of them and hands you some onigiri."
-    "He explains that the onigiri vendor here is one of the most popular stops."
-    "You thank him for the food and the both of you enjoy a small but fulfilling lunch."
+    ingram "That took a bit, sorry for the wait. Let's find a spot to sit and enjoy these."
+    "The two of you nab a table right as a family leaves. The both of you enjoy a small but fulfilling lunch."
     "As you munch away, Ingram asks if you have any questions so far."
     "(Maybe have several core questions as choices here?)"
     emi "Everyone here... are they all people who have passed away?"
@@ -84,7 +82,7 @@ label around_town_intro:
     "But you thought it was cool that there was a sort of cycle at play here."
     ingram "Alright, I think that's it for lunch then. Let's head out."
     emi "Huh? Where are we going?"
-    ingram "Well, I've gotta put these groceries somewhere right?"
-    ingram "We'll be heading to where I work."
+    ingram "We'll be visiting several merchants to pick up some orders I placed a while ago."
+    ingram "Then after that, you'll get to see where I work."
     scene blank with bgwipe
     return
