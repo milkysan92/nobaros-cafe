@@ -82,7 +82,8 @@ label around_town_intro:
     "But you thought it was cool that there was a sort of cycle at play here."
     ingram "Alright, I think that's it for lunch then. Let's head out."
     emi "Huh? Where are we going?"
-    ingram "We'll be visiting several merchants to pick up some orders I placed a while ago."
+    ingram "Do you remember what I mentioned earlier about having errands to run?"
+    ingram "We'll be visiting several merchants to pick up some ingredients I ordered a while ago."
     ingram "Then after that, you'll get to see where I work."
     scene blank with bgwipe
     return
