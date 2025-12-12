@@ -6,14 +6,11 @@ label yuugen_house_intro:
     scene blank with bgwipe
     scene bedroom_evening with bgwipe
     "Ingram shows you where your room is."
-    "He mentions that there isn't much to this room at the moment."
-    "But the neat thing is that it becomes more tailored to you the longer you stay in it."
+    "You find it has a comfy atmosphere, perfectly balanced between traditional & modern."
     "He tells you to rest well, since the next few days will be busy with cafe training."
     "You nod, wishing him goodnight as he leaves."
-    "(Maybe this is where the player can poke around Emi's room?)"
-    emi "I think that's enough exploring. Let's get to bed."
-    scene blank with bgwipe
-    scene bedroom_night with bgwipe
+    # scene blank with bgwipe
+    scene bedroom_night with dissolve
     "As you tuck yourself in, you stare at the trees swaying outside."
     "You try to recollect everything you've learnt since earlier."
     "Nobaros, vagabonds, spirit guiding..."

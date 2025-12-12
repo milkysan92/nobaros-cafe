@@ -6,7 +6,7 @@ label ingram_intro:
     "But there are relationships we fear because of memories as well."
     "Whether we have joyful or tragic memories, they still define us as a person."
     "Memories are what write our story."
-    "And everyone has a story. (This is the key theme of Nobaros Cafe)."
+    "And everyone has a story."
     "But what happens if those memories cease to exist?"
     "Is your story continued as a new chapter?"
     "Or is it an entirely new story overall?"
