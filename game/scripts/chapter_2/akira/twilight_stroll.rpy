@@ -104,7 +104,7 @@ label twilight_stroll:
     narrator "In the span of a few minutes, the house's silhouette appears in the distance. It's as quiet as the forest, now that it is well into the night."
     narrator "As we approach the end of our adventure, I feel a sense of contentment, glad that I was able to go on such a wondrous journey."
     scene blank with bgwipe
-    scene yuugen_common with bgwipe
+    scene yuugen_common_night with bgwipe
     show akira with dissolve
     narrator "Just as I'm about to head up to my room, I turn to Akira."
     emi "Thanks for letting me tag along, Akira. I enjoyed myself."
