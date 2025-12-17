@@ -28,7 +28,7 @@ label bath_time:
     emi "(Huh. . .)"
     emi "(I feel a little lightheaded. Let's get out before I end up fainting.)"
     scene blank with bgwipe
-    scene yuugen_common with bgwipe
+    scene yuugen_common_night with bgwipe
     emi "(Ahh, that was relaxing! My cheeks are all flushed now.)"
     emi "(It's a little warm. . .I bet cooling down with a drink would feel awesome right now.)"
     emi "(Mmm but I'm kind of sleepy too. Maybe I should go up to my room and rest for the night?)"
