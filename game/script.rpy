@@ -3,7 +3,7 @@ image blank = "#000000"
 image white = "#FFFFFF"
 label start:
     call prologue_master
-    # call ch1_master
+    call ch1_master
     # call ch2_master from _call_ch2_master
     # call ch3_master
     # call ch4_master

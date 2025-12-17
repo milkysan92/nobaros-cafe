@@ -1,7 +1,8 @@
-label cafe_training_intro:
+label cafe_training_1:
+    "CHAPTER 1 BEGIN"
     scene cafe with bgwipe
     show ingram with dissolve
-    ingram "Alright, let's call it there for the night."
+    ingram "Alright, let's call it there for today."
     emi "Eh? Already?"
     "You stare out the window, not realizing how late it had gotten."
     "It had been a few days of shadowing Ingram around the cafe."

@@ -1,10 +1,11 @@
 label sweven_mirror_1:
+    "..."
     scene stage with fade
     "When you come to, you find yourself standing in a grand auditorium."
     "The seats are filled with people, all eagerly waiting for a performance to begin."
     "You look around, trying to get your bearings."
     uk_generic "The concert will be starting in about 15 minutes! Is everyone ready?"
-    "An announcement rings through the hall, signifying the little time left before the show begins"
+    "An announcement rings through the hall, signifying the little time left before the show begins."
     uk_generic "Hey there! Are you okay? You've been spacing out for a bit."
     emi "Huh? Oh, yeah. I'm fine."
     uk_generic "If you say so. I know it's been a long day for everyone, but we can't be slacking now. Could you please go check on the sound team?"
@@ -21,7 +22,9 @@ label sweven_mirror_1:
     "The man nods, looking relieved."
     "The two of you make your way back inside the concert hall."
     "(Here is a tiny minigame where the player must navigate through the hall and crowd to reach the auditorium.)"
+    scene blank with bgwipe
+    scene stage with bgwipe
     "Just as you open the doors to the auditorium, the lights dim and the crowd erupts into applause."
     emi "(I made it just in time!)"
-    scene white with fade
+    scene white with dissolve
     return
