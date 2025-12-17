@@ -8,4 +8,7 @@ label prologue_master:
     call sweven_mirror_intro
     call yuugen_house_intro
     call cafe_training_intro
+    call new_customer_1
+    call sweven_mirror_1
+    call staircase_encounter_intro
     return
