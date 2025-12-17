@@ -27,4 +27,5 @@ label sweven_mirror_1:
     "Just as you open the doors to the auditorium, the lights dim and the crowd erupts into applause."
     emi "(I made it just in time!)"
     scene white with dissolve
+    pause(0.5)
     return

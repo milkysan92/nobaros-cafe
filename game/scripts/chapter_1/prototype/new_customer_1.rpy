@@ -32,10 +32,11 @@ label new_customer_1:
     "That they are there to help the customer find closure and peace."
     "He also reminds you that things don't always go as planned."
     ingram "Don't beat yourself up if you don't achieve that goal."
-    "If you're ever confused on what to do, just step aside and try mentally calling on him for guidance."
-    "He'll still be there, watching over you."
+    ingram "If you're ever confused on what to do, just step aside and try mentally calling on me for guidance."
+    ingram "I'll still be there, watching over you."
     "You nod, taking in Ingram's words."
     "With that, Ingram prompts you to step into the mirror to begin spirit guiding."
+    emi "(Alright, here goes nothing...!)"
     scene swevenlight with swevenwipe_cw
     pause(0.5)
     scene blank with fade
