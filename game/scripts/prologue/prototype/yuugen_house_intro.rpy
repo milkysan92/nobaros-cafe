@@ -9,7 +9,6 @@ label yuugen_house_intro:
     "You find it has a comfy atmosphere, perfectly balanced between traditional & modern."
     "He tells you to rest well, since the next few days will be busy with cafe training."
     "You nod, wishing him goodnight as he leaves."
-    # scene blank with bgwipe
     scene bedroom_night with dissolve
     "As you tuck yourself in, you stare at the trees swaying outside."
     "You try to recollect everything you've learnt since earlier."
@@ -23,4 +22,5 @@ label yuugen_house_intro:
     "A wave of drowsiness suddenly washes over you."
     "With the sound of leaves swaying in the wind, you drift off to dreamland."
     scene blank with fade
+    "PROLOGUE COMPLETE"
     return

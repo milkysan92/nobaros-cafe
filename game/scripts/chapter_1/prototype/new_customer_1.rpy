@@ -21,7 +21,7 @@ label new_customer_1:
     "After Brio finishes his latte, he thanks you and Ingram for listening to him."
     "The three of you head to the Sweven Mirror to help spirit guide Brio."
     scene blank with bgwipe
-    scene sweven_mirror with bgwpe
+    scene sweven_mirror with bgwipe
     show ingram with dissolve
     "You arrive at the Sweven Mirror with Brio and Ingram."
     "Ingram begins the spirit guiding process, and you watch as Brio steps into the mirror."
@@ -29,7 +29,9 @@ label new_customer_1:
     "After he disappears, Ingram turns to you."
     "Ingram explains that since this is the first time you'll be actively involved in spirit guiding, he'll help walk you through the process."
     "He explains the importance of being present and mindful during spirit guiding."
-    "That they are there to help the customer find closure and peace. But things don't always go as planned, and not to beat yourself up if you don't achieve that goal."
+    "That they are there to help the customer find closure and peace."
+    "He also reminds you that things don't always go as planned."
+    ingram "Don't beat yourself up if you don't achieve that goal."
     "If you're ever confused on what to do, just step aside and try mentally calling on him for guidance."
     "He'll still be there, watching over you."
     "You nod, taking in Ingram's words."
