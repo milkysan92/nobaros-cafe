@@ -72,8 +72,7 @@ label sweven_mirror_intro:
     "Ingram’s expression shifts. There's a flicker of conflict behind his eyes."
     "He crosses his arms, as though retreating behind habit."
     "There’s a long pause. Ingram’s gaze drops to the ground, his tone quiet but edged with hesitation."
-    # TODO: replace emi's name with player chosen name
-    ingram "…You don’t need to earn your place here, Emi."
+    ingram "…You don’t need to earn your place here, [emi_name]."
     "He says it gently, yet firmly."
     emi "I know... but it feels right to do something while I'm here."
     "You stare at him with determination, hoping to convey your sincerity."

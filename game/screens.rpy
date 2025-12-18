@@ -192,16 +192,54 @@ screen input(prompt):
             text prompt style "input_prompt"
             input id "input"
 
+## Custom input screen to decide emi's name
+screen name_input():
+    style_prefix "input"
+
+    frame:
+        background Frame("gui/inputbox.png", Borders(25, 25, 25, 25))
+        xalign 0.5
+        yalign 0.5
+        xpadding 30
+        ypadding 30
+
+        vbox:
+            spacing 10
+
+            # Prompt text
+            text "What is your name?":
+                style "input_prompt"
+
+            # The input field
+            hbox:
+                xalign 0.5
+                input:
+                    value VariableInputValue("emi_name") # Binds the input to the 'emi_name' variable
+                    length 16 # Maximum characters allowed
+                    style "input"
+                    default "Emi"
+
+                text " Auclaire":
+                    style "input_prompt"
+
+            textbutton "Submit":
+                action Return() # Closes the screen and returns control to the script
+                style "hover_text_button"
+
 style input_prompt is default
 
 style input_prompt:
-    xalign gui.dialogue_text_xalign
+    xalign 0.5
     properties gui.text_properties("input_prompt")
 
 style input:
-    xalign gui.dialogue_text_xalign
+    xalign 0.5
     xmaximum gui.dialogue_width
 
+style hover_text_button:
+    xalign 0.5
+    color gui.text_color
+    hover_color gui.hover_color
 
 ## Choice screen ###############################################################
 ##

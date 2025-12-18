@@ -28,9 +28,11 @@ label nobaros_intro:
     "He introduces himself as Ingram, and that you are currently in a world called 'Nobaros'."
     "Nobaros is a world where people's spirits go before passing onto the afterlife."
     "And he helps coordinate that spirit guiding process as the 'spirit guide'."
-    "He asks you if you remember anything, and you tell him your name."
-    # TODO: add character name box for user input
-    "(This is where the player can choose their character name. Default is Emi Auclaire.)"
+    ingram "You must be feeling pretty lost right now."
+    ingram "Do you remember anything? Like your name for starters?"
+    uk_emi "(My name...)"
+    call pickName
+    emi "My name is [emi_name] Auclaire."
     "He nods, asking if there's anything else."
     "Unfortunately, that's all you're able to answer. You anxiously ask him if you're dead, based on his explanation."
     "He chooses his wording carefully, trying to reassure you that you aren't necessarily done for."
