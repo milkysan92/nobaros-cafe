@@ -3,7 +3,7 @@ label staircase_encounter_1:
     show ingram with dissolve
     ingram "Welcome back. You must be exhausted by now."
     emi "Yeah, it's been quite a day."
-    emi "(Emi's response depends on whether the player completed the previous spirit guiding mission (SGM) minigame successfully or not.)"
+    emi "([emi_name]'s response depends on whether the player completed the previous spirit guiding mission (SGM) minigame successfully or not.)"
     scene blank with bgwipe
     scene yuugen_entrance with bgwipe
     show ingram with dissolve
@@ -26,7 +26,7 @@ label staircase_encounter_1:
     emi "More like a midnight break. It's been a really long day."
     emi "I was training at the café, and then got involved in some spirit guiding."
     uk_akira "Ah wait, you must be the new roommate. Ingram left a note about you."
-    emi "Oh right! Sorry, I forgot to introduce myself. I’m Emi. I don’t think we’ve met yet."
+    emi "Oh right! Sorry, I forgot to introduce myself. I’m [emi_name]. I don’t think we’ve met yet."
     akira "Akira Higashi. Nice to finally put a face to the name."
     akira "So you're helping him with spirit guiding and working at the cafe too?"
     akira "Sounds like he’s been keeping you busy."
@@ -45,5 +45,5 @@ label staircase_encounter_1:
     emi "Well, I won’t keep you from your water and late-night thoughts."
     akira "And I won’t interfere with your snacktime."
     emi "Thanks, have a good night."
-    akira "Goodnight, Emi."
+    akira "Goodnight, [emi_name]."
 return
