@@ -57,4 +57,30 @@ label reaching_out:
     emi "(I bet his grandfather would be proud of him.)"
     scene white with dissolve
     pause(0.5)
+    scene sweven_mirror with fade
+    show ingram with dissolve
+    ingram "Welcome back. You must be exhausted by now."
+    emi "Yeah wow, that was... something."
+    ingram "You did well. It's not easy experiencing the struggles of other people."
+    emi "Thanks. It was fulfilling though."
+    emi "Aa frustrated as I am about not being able to do anything about his pain, I'm glad he was able to finish the guitar in the end."
+    ingram "Yes, I felt it. His feelings when he moved on."
+    ingram "Now he can rest in peace."
+    "Ingram smiles, then turns back on the path to the cafe."
+    ingram "Well then, everything's finished. Let's head home."
+    emi "Oh my god, yes please! I can't wait to get to bed."
+    hide ingram with dissolve
+    "Ingram heads down the trail as you stare at the mirror one last moment."
+    show white with dissolve
+    hide white with dissolve
+    emi "...Huh?"
+    emi "What's this...?"
+    "A pocket of light pops out of the mirror, drifting ever so slowly towards you."
+    "You reach out and grab the ball of light, revealing a photograph."
+    "Show the photo of young [ch1_name] with his grandfather. This will be one of the achievements you can unlock for this game & a requirement for Ingram's true ending."
+    emi "What's this doing here? Shouldn't this have disappeared with [ch1_name]'s memories?"
+    ingram "[emi_name], is everything okay?"
+    emi "Huh, oh yeah! It's nothing, I'm coming!"
+    "You hide the photo and chase after Ingram, who is already a considerable distance away."
+    #TODO: Add bool variable and set to True to indicate that ch1 was satisfied
     return
