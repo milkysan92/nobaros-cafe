@@ -115,6 +115,5 @@ label sweven_mirror_1:
         "Reach a wing out to him":
             call reaching_out
         "Nuzzle against his arm":
-            "Still in development"
-            # call nuzzle_arm
+            call nuzzle_arm
     return
