@@ -25,7 +25,7 @@ label new_customer_1:
     show ingram with dissolve
     "You arrive at the Sweven Mirror with Brio and Ingram."
     "Ingram begins the spirit guiding process, and you watch as Brio steps into the mirror."
-    "A warm light envelops him, and you see a look of peace wash over him."
+    "A warm light envelops him. Soon, he vanishes from sight."
     "After he disappears, Ingram turns to you."
     "Ingram explains that since this is the first time you'll be actively involved in spirit guiding, he'll help walk you through the process."
     "He explains the importance of being present and mindful during spirit guiding."
