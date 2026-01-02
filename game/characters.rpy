@@ -20,7 +20,6 @@ define ch6_name = _("Akina")
 # Other NPCs
 define friend_name = _("Yua")
 define crush_name = _("Shohei")
-define emi_ch2 = _("Himari")
 define grandson_name = _("Haruto")
 define manager_name = _("Manager")
 
@@ -75,10 +74,12 @@ define sgm_emi = Character("[emi_name]?", color="#ffbcca")
 define past_emi = Character("Past [emi_name]", color="#d9d9d9", image="emi")
 define config.side_image_tag = "emi"    # Persistent side image when others are talking
 
-# Emi CH2 SGM
-define ch2_emi = Character("[emi_name] (as [emi_ch2])", color="#ffbcca", image="himari")
-image himari = "Sprites/Customers/Himari/himari_base.avif"
-image himari concern = "images/Sprites/Customers/Himari/himari_concern.avif"
+# Emi SGM
+define ch1_emi = Character("[emi_name]?", color="#ffbcca", image="bird")
+image bird emi = "images/Sprites/SGMs/ch1/bird_emi.png"
+define ch2_emi = Character("[emi_name]?", color="#ffbcca", image="himari")
+image himari = "images/Sprites/SGMs/Himari/himari_base.avif"
+image himari concern = "images/Sprites/SGMs/Himari/himari_concern.avif"
 
 # Define other charas with the image tag emi to control emi's side image while they're talking
 define ingram = Character(ingram_name, color="#9fe7ff", image="emi")
@@ -92,8 +93,8 @@ define brio = Character(ch1_name, color="#d9d9d9")
 
 # Chapter 2
 define izumi = Character(ch2_name, color="#d9d9d9")
-image izumi = "Sprites/Customers/Izumi/izumi_base.avif"
-image izumi smile = "Sprites/Customers/Izumi/izumi_smile.avif"
+image izumi = "Sprites/SGMs/Izumi/izumi_base.avif"
+image izumi smile = "Sprites/SGMs/Izumi/izumi_smile.avif"
 define haruto = Character(grandson_name, color="#ffffff")
 define grandma = Character(f"{grandson_name}'s grandma", color="#ffffff")
 define grandpa = Character(f"{grandson_name}'s grandpa", color="#ffffff")
