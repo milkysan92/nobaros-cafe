@@ -1,16 +1,13 @@
 label staircase_encounter_1:
-    scene sweven_mirror with fade
-    show ingram with dissolve
-    ingram "Welcome back. You must be exhausted by now."
-    emi "Yeah, it's been quite a day."
-    emi "([emi_name]'s response depends on whether the player completed the previous spirit guiding mission (SGM) minigame successfully or not.)"
     scene blank with bgwipe
     scene yuugen_entrance with bgwipe
     show ingram with dissolve
     "As you return home, Ingram bids you goodnight and heads for the bath."
-    "Before heading out though, he makes sure to mention that after doing a good job with the spirit guiding earlier, you should get some rest."
-    ingram "You won't need the morning training sessions since it looks like you're getting the hang of things."
-    ingram "Just make sure to get a good night's sleep."
+    "Before heading out though, he reminds you to get some rest and not to ponder too much before bed."
+    ingram "Hmm, you can probably sleep in a little though."
+    emi "Huh? What do you mean?"
+    ingram "Now that you're starting to get the hang of things, I don't think you'll won't need the morning training sessions for the time being."
+    ingram "Anyways, just make sure to get a good night's sleep."
     "You thank him and also wish him a good night."
     scene blank with bgwipe
     scene yuugen_common_night with bgwipe
