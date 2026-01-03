@@ -46,3 +46,5 @@ label staircase_encounter_1:
     emi "Thanks, have a good night."
     akira "Goodnight, [emi_name]."
 return
+
+#TODO: Write Emi's dream with her parents & refine a new customer 1 to finish chapter 1 for real!
