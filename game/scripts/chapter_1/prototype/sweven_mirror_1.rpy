@@ -9,7 +9,7 @@ label sweven_mirror_1:
     "You try and rise to your feet, only to stumble onto a hard surface."
     emi "(What the...?)"
     show bird emi at Position(ypos=1100, yanchor="center") with dissolve
-    "(This would ideally be a picture showing your reflection as a little bird in a small mirror)"
+    "{color=#8489ff}This would ideally be a picture showing your reflection as a little bird in a small mirror.{/color}"
     show bird emi at startle
     emi "Chirp chirp!"
     emi "(Is this me?! What happened to my body?!)"
@@ -88,6 +88,7 @@ label sweven_mirror_1:
     brio "I need to hurry up..."
     scene blank with bgwipe
     scene workshop with bgwipe
+    "{color=#8489ff}With each following dialogue line, we see [ch1_name] in various places in the workshop.{/color}"
     "Day after day, you watch [ch1_name] pour his heart and soul into crafting the guitar."
     "Over time, his symptoms seem to worsen. Yet his work never falters."
     "Before long, the guitar starts to take shape."

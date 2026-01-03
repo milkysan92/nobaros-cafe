@@ -1,7 +1,7 @@
 label nobaros_intro:
     scene white with fade
-    "The voices slowly fade away and are replaced by a gust of wind."
-    "The wind spurs the tinkling of windchimes in the distance."
+    "{color=#8489ff}The voices slowly fade away and are replaced by a gust of wind.{/color}"
+    "{color=#8489ff}The wind spurs the tinkling of windchimes in the distance.{/color}"
     scene yuugen_common with dissolve
     "Sunlight lands on your face, stirring you from sleep."
     "You regain consciousness, sitting up from the couch you're currently on."
@@ -14,13 +14,14 @@ label nobaros_intro:
     "No matter how hard you tried, your head remained blank."
     "You begin going over the worst case scenarios."
     "Your breathing quickens and you could feel yourself getting more stressed."
-    "Suddenly a voice interrupts your thoughts."
     uk_ingram "Are you okay?"
-    show ingram with dissolve
+    "{color=#8489ff}Special CG of Ingram entering the room/checking up on you{/color}"
     "You look up, unexpectedly meeting a pair of aqua blue eyes."
     "The guy looks at you with furrowed brows."
-    uk_emi "Who are you? Where am I??"
+    uk_emi "Who are you? Where am I?"
     uk_ingram "First, take a deep breath. Let's clear your thoughts and then I'll explain."
+    "{color=#8489ff}CG disappears{/color}"
+    show ingram with dissolve
     "You do as he says, clearing your head more with each breath."
     "He smiles once you've gathered yourself."
     "Somehow, he gave off a strange sense of safety and comfort. You couldn't explain why."
@@ -31,6 +32,7 @@ label nobaros_intro:
     ingram "You must be feeling pretty lost right now."
     ingram "Do you remember anything? Like your name for starters?"
     uk_emi "(My name...)"
+    "{color=#8489ff}Note that you cannot set a name that matches any of the other NPCs in the game. The dialogue box will make you choose another name if you do. {/color}"
     call pickName
     emi "My name is [emi_name] Auclaire."
     "He nods, asking if you remember anything else."

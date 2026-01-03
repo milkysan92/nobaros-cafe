@@ -45,7 +45,7 @@ label new_customer_1:
     ingram "Sorry for blocking the way, you can finish up now."
     hide ingram with dissolve
     emi "(Okay, just need to pour the milk now. Deep breaths [emi_name]...)"
-    "Cue maybe a small latte art mini game here?"
+    "{color=#8489ff}Cue maybe a small latte art mini game here. Potentially could be a 'minigame challenge' after a minigame portion in [emi_name]'s initial cafe training. {/color}"
     "When you hand the cup over, the man takes a sip."
     show brio at Position(xalign=0.8)
     show ingram at left

@@ -1,10 +1,10 @@
 label emi_intro:
-    "A dramatic water splash disturbs the silence."
-    "The sound of faint bubbles can be heard."
-    "The echoes of deep water currents replace the bubbles."
+    "{color=#8489ff}A dramatic water splash disturbs the silence.{/color}"
+    "{color=#8489ff}The sound of faint bubbles can be heard.{/color}"
+    "{color=#8489ff}The echoes of deep water currents replace the bubbles.{/color}"
     scene emi_intro with fade
-    "Numerous voices can be heard murmuring, like voices inside one's head."
-    "They're expressing all kinds of sentiments."
+    "{color=#8489ff}Numerous voices can be heard murmuring, like voices inside one's head.{/color}"
+    "{color=#8489ff}They're expressing all kinds of sentiments.{/color}"
     "Friendship. Laughter. Joy."
     "But also anger. Betrayal. Depression."
     "It's utter incomprehensible chaos."

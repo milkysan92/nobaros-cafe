@@ -8,7 +8,7 @@ label cafe_training_1:
     "It had been a few days of shadowing Ingram around the cafe."
     "Everyday was a new experience, learning the ins and outs of running a cafe."
     "It was a lot to take in, but Ingram was always willing to explain."
-    "(Show a picture of a latte with a clumsy attempt at a heart drawn in the foam.)"
+    "{color=#8489ff}Show a picture of a latte with a clumsy attempt at a heart drawn in the foam.{/color}"
     emi "(Can I even call this a heart?)"
     "You stare at the latte in your hands, unsure what to make of the progress you've made so far."
     ingram "It's been a long day, you should rest."
