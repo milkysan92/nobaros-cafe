@@ -49,4 +49,5 @@ label staircase_encounter_1:
     akira "No problem, it was nice to meet you. Enjoy your snacktime."
     emi "Thanks, have a good night."
     akira "Goodnight, [emi_name]."
+    scene blank with bgwipe
 return
