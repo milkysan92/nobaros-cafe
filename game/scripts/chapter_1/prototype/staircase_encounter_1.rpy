@@ -17,13 +17,16 @@ label staircase_encounter_1:
     emi "(Is that Ingram? No, he said he was heading to the bath.)"
     emi "(Then is it one of the other residents? But who would be up at this hour...)"
     "{color=#8489ff}Special CG here of Akira coming down the stairs{/color}"
-    show akira with dissolve
     uk_akira "Oh—hey. I didn’t expect anyone else to be up."
     emi "H-hi! Sorry, I didn’t mean to startle you. I was just heading to the kitchen."
     uk_akira "Midnight snack?"
     emi "More like a midnight break. It's been a really long day."
     emi "I was training at the café, and then got involved in some spirit guiding."
-    uk_akira "Ah wait, you must be the new roommate. Ingram left a note about you."
+    uk_akira "Ah wait, you must be the new roommate. Let me come down."
+    "{color=#8489ff}CG disappears{/color}"
+    show akira with dissolve
+    emi "You know who I am?"
+    akira "Ingram left a note to everyone about your arrival."
     emi "Oh right! Sorry, I forgot to introduce myself. I’m [emi_name]. I don’t think we’ve met yet."
     akira "Akira Higashi. Nice to finally put a face to the name."
     akira "So you're helping him with spirit guiding and working at the cafe too?"
