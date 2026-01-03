@@ -134,5 +134,5 @@ label new_customer_1:
     emi "(Alright, here goes nothing...!)"
     scene swevenlight with swevenwipe_cw
     pause(0.5)
-    scene blank with fade
+    scene blank with Fade(0.75, 1.0, 0.75)
     return

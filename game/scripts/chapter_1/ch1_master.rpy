@@ -4,4 +4,5 @@ label ch1_master:
     call new_customer_1
     call sweven_mirror_1
     call staircase_encounter_1
+    call family_memory_1
     return

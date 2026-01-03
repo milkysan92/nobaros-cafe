@@ -16,6 +16,7 @@ label staircase_encounter_1:
     "You pause for a moment, trying to make out who it might be."
     emi "(Is that Ingram? No, he said he was heading to the bath.)"
     emi "(Then is it one of the other residents? But who would be up at this hour...)"
+    "{color=#8489ff}Special CG here of Akira coming down the stairs{/color}"
     show akira with dissolve
     uk_akira "Oh—hey. I didn’t expect anyone else to be up."
     emi "H-hi! Sorry, I didn’t mean to startle you. I was just heading to the kitchen."
@@ -46,5 +47,3 @@ label staircase_encounter_1:
     emi "Thanks, have a good night."
     akira "Goodnight, [emi_name]."
 return
-
-#TODO: Write Emi's dream with her parents & refine a new customer 1 to finish chapter 1 for real!
