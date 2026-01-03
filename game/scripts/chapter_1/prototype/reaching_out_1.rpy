@@ -55,9 +55,10 @@ label reaching_out:
     "You feel warm seeing [ch1_name]'s face in peace as he strums away."
     emi "(It's truly his guitar now.)"
     emi "(I bet his grandfather would be proud of him.)"
-    scene white with dissolve
+    scene swevenlight with swevenwipe_ccw
     pause(0.5)
-    scene sweven_mirror with fade
+    scene white with Dissolve(0.75)
+    scene sweven_mirror with Dissolve(1.5)
     show ingram with dissolve
     ingram "Welcome back. You must be exhausted by now."
     emi "Yeah wow, that was... something."
