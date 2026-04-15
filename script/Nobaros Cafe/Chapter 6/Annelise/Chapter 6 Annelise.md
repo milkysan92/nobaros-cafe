@@ -45,7 +45,7 @@ dessert-annelise & dessert-akina-->rooftop-story-->sudden-recollect
 sudden-recollect--If 'Dessert Annelise'-->kai-lore
 sudden-recollect--If 'Dessert Akina'-->akina-lore
 kai-lore & akina-lore-->mirror6
-mirror6--135 intimacy points-->confession-annelise
+mirror6--135 intimacy points (Max possible)-->confession-annelise
 mirror6--Less than 135 intimacy points-->home-annelise
 
 %% Format the routes & link to script files accordingly
