@@ -30,13 +30,16 @@ night-akira[Twilight stroll]
 school-dreams[Dreaming of school]
 masterchef[Pastry training]
 sweets-ingram[First aid]
+sweets-kai[Swimming hole]
+wipe-crumb[Wipe crumb]
+gesture-crumb[Tell Kai about crumb]
 sweets-akira[Rooftop garden]
 sweets-kai[Swimming hole]
 wipe-crumb[Wipe crumb]
 tell-kai[Tell Kai]
 sweets-annelise[Afternoon tea]
-tangerine[Aged tangerine]
-blueberry[Blueberry bergamot]
+aged-tangerine[Aged tangerine]
+blueberry-bergamot[Blueberry bergamot]
 group-dinner[A meal together]
 
 %% Define node formatting for routes
@@ -48,38 +51,36 @@ classDef akira-route fill:#c7f5c5,stroke:#86c083,stroke-width:4px
 classDef annelise-route fill:#fff2cc,stroke:#efcd7b,stroke-width:4px
 
 %% Establish node connections
-CH2--Sweep foyer-->meet-kai
-meet-kai--Offer macarons-->macarons-kai-->report-ingram
-meet-kai--Offer a strawberry tart-->strawberry-kai-->report-ingram
-CH2--Dust library-->meet-annelise
-meet-annelise--Put books away-->shelve-annelise-->report-ingram
-meet-annelise--Leave Annelise alone-->dust-annelise-->report-ingram
-CH2--Clean tables-->meet-akira
-meet-akira--Stay and chat-->chat-akira-->report-ingram
-meet-akira--Clear tables-->clean-akira-->report-ingram
-report-ingram--Describe encounters-->meeting-others
-report-ingram--Ask about Ingram-->ingram-job-->meeting-others
+CH2--Sweep foyer (+5)-->meet-kai
+meet-kai--Offer macarons (+5)-->macarons-kai-->report-ingram
+meet-kai--Offer a strawberry tart (+0)-->strawberry-kai-->report-ingram
+CH2--Dust library (+5)-->meet-annelise
+meet-annelise--Put books away (+5)-->shelve-annelise-->report-ingram
+meet-annelise--Leave Annelise alone (+0)-->dust-annelise-->report-ingram
+CH2--Clean tables (+5)-->meet-akira
+meet-akira--Stay and chat (+5)-->chat-akira-->report-ingram
+meet-akira--Clear tables (+0)-->clean-akira-->report-ingram
+report-ingram--Describe encounters (+0)-->meeting-others
+report-ingram--Ask about Ingram (+10)-->ingram-job-->meeting-others
 meeting-others-->customer2-->mirror2--Follow the trail-->waterfall
 mirror2--Go to maple trees-->maple
 maple & waterfall-->celebrate-dinner
 celebrate-dinner-->bathtime
-bathtime--Head straight to bed-->night-akira
+bathtime--Head straight to bed (+10)-->night-akira
 bathtime--Head downstairs-->choose-drink
-choose-drink--Milk-->night-ingram
-choose-drink--Water-->night-kai
-choose-drink--Tea-->night-annelise
+choose-drink--Milk (+10)-->night-ingram
+choose-drink--Water (+10)-->night-kai
+choose-drink--Tea (+10)-->night-annelise
 night-ingram & night-kai & night-akira & night-annelise-->school-dreams
 school-dreams-->masterchef
-masterchef--Almond croissants-->sweets-ingram
-masterchef--Fruit tarts-->sweets-akira
-masterchef--French macarons-->sweets-kai
-sweets-kai--Tell Kai about the crumb-->tell-kai
-sweets-kai--Wipe the crumb yourself-->wipe-crumb
-tell-kai & wipe-crumb-->group-dinner
-masterchef--Pound cake-->sweets-annelise
-sweets-annelise--Tangerine tea-->tangerine
-sweets-annelise--Blueberry tea-->blueberry
-tangerine & blueberry-->group-dinner
+masterchef--Almond croissants (+10)-->sweets-ingram
+masterchef--French macarons (+5)-->sweets-kai
+sweets-kai--Wipe crumb for Kai (+5)-->wipe-crumb-->group-dinner
+sweets-kai--Tell Kai about the crumb (+0)-->gesture-crumb-->group-dinner
+masterchef--Fruit tarts (+10)-->sweets-akira
+masterchef--Pound cake (+0)-->sweets-annelise
+sweets-annelise--Tangerine tea (+10)-->aged-tangerine-->group-dinner
+sweets-annelise--Blueberry tea (+10)-->blueberry-bergamot-->group-dinner
 sweets-ingram & sweets-akira-->group-dinner
 
 %% Format the routes & link to script files accordingly
@@ -97,12 +98,12 @@ class ingram-job,night-ingram,sweets-ingram ingram-route
 class ingram-job,night-ingram,sweets-ingram internal-link
 
 %% Kai route
-class meet-kai,macarons-kai,strawberry-kai,night-kai,sweets-kai,tell-kai,wipe-crumb kai-route
-class meet-kai,macarons-kai,strawberry-kai,night-kai,sweets-kai,tell-kai,wipe-crumb internal-link
+class meet-kai,macarons-kai,strawberry-kai,night-kai,sweets-kai,wipe-crumb,gesture-crumb kai-route
+class meet-kai,macarons-kai,strawberry-kai,night-kai,sweets-kai,wipe-crumb,gesture-crumb internal-link
 
 %% Annelise route
-class meet-annelise,shelve-annelise,dust-annelise,night-annelise,sweets-annelise,tangerine,blueberry annelise-route
-class meet-annelise,shelve-annelise,dust-annelise,night-annelise,sweets-annelise,tangerine,blueberry internal-link
+class meet-annelise,shelve-annelise,dust-annelise,night-annelise,sweets-annelise,aged-tangerine,blueberry-bergamot annelise-route
+class meet-annelise,shelve-annelise,dust-annelise,night-annelise,sweets-annelise,aged-tangerine,blueberry-bergamot internal-link
 
 %% Akira route
 class meet-akira,clean-akira,chat-akira,night-akira,sweets-akira akira-route

@@ -1,0 +1,53 @@
+label staircase_encounter_1:
+    scene blank with bgwipe
+    scene yuugen_entrance with bgwipe
+    show ingram with dissolve
+    "As you return home, Ingram bids you goodnight and heads for the bath."
+    "Before heading out though, he reminds you to get some rest and not to ponder too much before bed."
+    ingram "Hmm, you can probably sleep in a little though."
+    emi "Huh? What do you mean?"
+    ingram "Now that you're starting to get the hang of things, I don't think you'll won't need the morning training sessions for the time being."
+    ingram "Anyways, just make sure to get a good night's sleep."
+    "You thank him and also wish him a good night."
+    scene blank with bgwipe
+    scene yuugen_common_night with bgwipe
+    "Feeling a bit peckish, you decide to head to the kitchen for a late-night snack."
+    "As you make your way to the dining room, you hear footsteps coming from above."
+    "You pause for a moment, trying to make out who it might be."
+    emi "(Is that Ingram? No, he said he was heading to the bath.)"
+    emi "(Then is it one of the other residents? But who would be up at this hour...)"
+    "{color=#8489ff}Special CG here of Akira coming down the stairs{/color}"
+    uk_akira "Oh—hey. I didn’t expect anyone else to be up."
+    emi "H-hi! Sorry, I didn’t mean to startle you. I was just heading to the kitchen."
+    uk_akira "Midnight snack?"
+    emi "More like a midnight break. It's been a really long day."
+    emi "I was training at the café, and then got involved in some spirit guiding."
+    uk_akira "Ah wait, you must be the new roommate. Let me come down."
+    "{color=#8489ff}CG disappears{/color}"
+    show akira with dissolve
+    emi "You know who I am?"
+    akira "Ingram left a note to everyone about your arrival."
+    emi "Oh right! Sorry, I forgot to introduce myself. I’m [emi_name]. I don’t think we’ve met yet."
+    akira "Akira Higashi. Nice to finally put a face to the name."
+    akira "So you're helping him with spirit guiding and working at the cafe too?"
+    akira "Sounds like he’s been keeping you busy."
+    emi "To be honest, it's more like I pushed him for the cafe gig."
+    akira "I'm impressed. I didn't think anyone could convince him to work at the cafe. Especially with how intense about his work he is."
+    emi "He's thorough though, which I really appreciate."
+    akira "That does sound like him."
+    akira "So, you said you just arrived recently?"
+    emi "Yeah, I think it’s been a few days."
+    emi "I’ve been out most of the time, so I haven’t really met anyone yet. What about you?"
+    akira "I’ve been here a while."
+    akira "Long enough to develop some bad habits, I suppose."
+    akira "I was actually just about to grab some water before some nightly reading."
+    emi "Huh, is everyone here a night owl? Late nights seem to be a theme around here."
+    akira "Haha, just some of us."
+    akira "There are a few early risers too, but it's not my cup of tea personally."
+    emi "I see. Hopefully I'll get to meet them soon then!"
+    emi "I should get my snack and head up now. Sorry for keeping you."
+    akira "No problem, it was nice to meet you. Enjoy your snacktime."
+    emi "Thanks, have a good night."
+    akira "Goodnight, [emi_name]."
+    scene blank with bgwipe
+return

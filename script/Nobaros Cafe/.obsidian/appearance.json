@@ -2,6 +2,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Deep",
-  "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "interfaceFontFamily": "Quicksand",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
 }
