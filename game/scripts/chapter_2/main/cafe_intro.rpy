@@ -6,6 +6,11 @@ default chores_left = 3
 default TOTAL_CHORES = 3
 
 label cafe_intro:
+    "CHAPTER 2 BEGIN"
+    "{color=#8489ff}Some special remarks before starting this chapter.{/color}"
+    "{color=#8489ff}Before this prototype was properly started, an initial game demo was made. That demo consisted of a significant chunk of CH2 and has been integrated into this prototype without any changes whatsoever.{/color}"
+    "{color=#8489ff}As a result, the writing detail/style will be considerably different than the previous chapters so please bear this in mind while reading.{/color}"
+    "{color=#8489ff}There will be another developer note to indicate where the original demo ended.{/color}"
     scene cafe with fade
     emi talk "Thank you for coming!"
     emi base "(Phew, that's the last customer! I can finally catch my breath. . .)"
