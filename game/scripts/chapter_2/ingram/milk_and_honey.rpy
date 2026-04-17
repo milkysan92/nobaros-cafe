@@ -77,7 +77,7 @@ label milk_and_honey:
     narrator "I can't help but smile at Ingram's words, feeling a warm sense of satisfaction wash over me. It's humbling to hear how much of an impact I've had on him, and that my actions are actually helping."
     narrator "We savour the rest of our drinks in peace, our voices disappearing into the dead of night as we bask in the moonlight shining through the window."
     scene blank with bgwipe
-    scene yuugen_common with bgwipe
+    scene yuugen_common_night with bgwipe
     show ingram with dissolve
     emi "Have a good night, Ingram. Thanks again for the milk."
     ingram "You too. Remember that we have another pastry training session tomorrow, so be sure to get some rest."
