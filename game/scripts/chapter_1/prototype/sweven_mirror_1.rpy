@@ -41,12 +41,12 @@ label sweven_mirror_1:
     brio "Maybe I'll also carve a little something after this guitar, as a tribute."
     "His eyes glimmer as he brushes away the woodchips from the table."
     "You had a feeling he was talking about more than just the bird."
-    brio "... (He's smiling here.)"
+    brio "... {color=#8489ff}(He's smiling here.){/color}"
     show brio at startle
-    brio "...! (No longer smiling)"
+    brio "...! {color=#8489ff}(No longer smiling){/color}"
     emi "Chirp?"
     show brio at startle
-    brio "Hurgh! (He's cupping his mouth while clutching stomach)"
+    brio "Hurgh! {color=#8489ff}(He's cupping his mouth while clutching stomach){/color}"
     hide brio with dissolve
     "Suddenly, [ch1_name] rushes out of the room."
     "You hear a faint hurl, followed by running water and violent coughs."
@@ -57,7 +57,7 @@ label sweven_mirror_1:
     emi "(Should I ask Ingram...?)"
     show blank with fade
     "You close your eyes and concentrate, trying to envision Ingram's voice."
-    emi "Ingram, are you there?)"
+    emi "(Ingram, are you there?)"
     "..."
     show ingram with dissolve
     ingram "Hello?"
