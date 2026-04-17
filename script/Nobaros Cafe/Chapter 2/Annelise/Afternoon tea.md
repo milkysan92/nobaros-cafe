@@ -121,16 +121,16 @@ Annelise: "Here's two of my latest blends. Which of these would you guys like to
 
 Annelise: "One of them is aged tangerine peel, and the other is a blueberry blend."
 
-Ingram: "Hmm, if I recall correctly, Earl Grey pairs well with citrus flavours. The tangerine would compliment the cake."
+Ingram: "Hmm, if I recall correctly, Earl Grey pairs well with citrus flavours. So the tangerine would compliment the cake pretty well."
 
-Emi: "How about the blueberry one? What's its flavour profile?"
+Emi: "How about the blueberry one?"
 
 Annelise: "It's sweeter, almost like a dessert tea. Similar to Earl Grey, it's also based on bergamot oil."
 
 Annelise: "The blueberry adds a fruity twist, but it might be a bit overbearing with the cake."
 
-Ingram: "I'm fine with either of them. What do you think, Emi?"
+Ingram: "Hmm, I'm fine with either of them. I'll leave the choice up to you, Emi."
 
-Emi: "I want. . ."
+Emi: "Hmm, then in that case. . ."
 
 
