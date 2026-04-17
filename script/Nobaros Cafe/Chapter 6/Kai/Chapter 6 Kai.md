@@ -40,7 +40,7 @@ nabe--Choose the sakura blossoms (+5)-->sakura-kai-->about-akina
 about-akina-->rough-night--Give him a forehead kiss (+15)-->forehead-kiss
 forehead-kiss-->daybreak
 rough-night--Lay the flower in his hands (+0)-->hold-hands
-forehead-kiss & hold-hands--If not 'Remembering Kai'-->childhood-memory-->daybreak
+forehead-kiss & hold-hands--If not 'Remembering Kai' in CH5-->childhood-memory-->daybreak
 hold-hands-->daybreak
 daybreak--Convince Kai to confront mom (+15)-->convince-kai-->mirror6
 daybreak--Reassure Kai's feelings (+0)-->comfort-kai-->mirror6
