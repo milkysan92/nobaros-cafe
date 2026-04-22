@@ -80,6 +80,8 @@ label milk_and_honey:
     scene yuugen_common_night with bgwipe
     show ingram with dissolve
     emi "Have a good night, Ingram. Thanks again for the milk."
-    ingram "You too. Remember that we have another pastry training session tomorrow, so be sure to get some rest."
+    ingram "You too. I'll see you in the morning then."
+    ingram "Don't forget that we'll be doing recipe testing tomorrow."
+    emi "Yep! I'll be looking forward to it!"
     narrator "With a final smile, the both of us head up to our rooms to retire for the night."
     return

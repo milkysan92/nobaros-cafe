@@ -51,7 +51,7 @@ Emi: "Yeah, I like making people smile. That part hasn't changed between the pas
 
 Emi: “What are you up to?”
 
-Ingram: “Just writing down some recipes. I was figuring out what we should make for today's baking session.”
+Ingram: “Just trying to figure out which recipes to test today.”
 
 Emi: “Oh yeah, that's happening later today, right? When are you thinking of starting?"
 
