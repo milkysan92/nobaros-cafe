@@ -1,10 +1,16 @@
 label welcome_dinner:
+    scene blank with bgwipe
     scene yuugen_entrance with bgwipe
     show ingram with dissolve
     emi "Ahh, finally, home sweet home! Today felt like such a long day."
     ingram "Well, we did have to do some spirit guiding right after closing."
     emi "That's true. Now it's time to unwind!"
-    narrator "Just as Ingram and I walk through the front door, boisterous chattering erupts from the kitchen. Curious, I make my way over to see what the ruckus is about."
+    ingram "Ah, before I forget, I wanted to mention something."
+    ingram "Tomorrow, I'll be doing some recipe testing for the cafe."
+    ingram "You wanted to learn about pastry making, right? You're free to join if you'd like."
+    emi" Yes I did! That sounds great, I'd love to!"
+    ingram "Awesome, this will be a good learning opportunity."
+    narrator "Just as Ingram and I get our shoes off, boisterous chattering erupts from the kitchen. Curious, I make my way over to see what the ruckus is about."
     scene blank with bgwipe
     scene kitchen_night with bgwipe
     narrator "Peering through the doorframe, I spot Kai, Annelise and Akira gathered around the dining table, deeply engrossed in conversation. Before them lies a colourful array of fresh vegetables and various cooking sauces."
@@ -167,5 +173,7 @@ label welcome_dinner:
     akira "I don't know what it is with those two, but they're always like this whenever we're gathered together."
     akira "Just take it as a regular occurrence. You'll get used to it eventually."
     hide akira with dissolve
-    narrator "I nod, taking in his words. Despite the unexpected turn of events, the dinner table is filled with a homey atmosphere. With a contented sigh, I savour the rest of the dinner as the evening wears on."
+    narrator "I nod, taking in his words."
+    narrator "Despite the unexpected turn of events, the dinner table is filled with a homey atmosphere."
+    narrator "With a contented sigh, I savour the rest of the dinner as the evening wears on."
     return

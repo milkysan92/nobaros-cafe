@@ -71,8 +71,33 @@
               "icon": "lucide-file",
               "title": "Chapter 7 Kai"
             }
+          },
+          {
+            "id": "0a7e45359015fe6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 2/Annelise/Aged tangerine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d185725f6e0a33c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3/Chapter 3 Master.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
